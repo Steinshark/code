@@ -1,6 +1,6 @@
 import pygame
 import time
-
+## TESING STRING ##
 class Game:
     def __init__(self):
         self.board = Board()
