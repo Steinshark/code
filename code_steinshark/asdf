@@ -1,0 +1,12 @@
+ID#,NAME,ADDRESS,CITY,STATE,ZIP,TITLE,HOANAME,TYPE,HOASTATE,HOAZIP,COUNTY,ENTERED,ASOF
+'03383163,"Andrew Morgan","916 Forest Lakes Circle","Chesapeake","VA","23322","President","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Linda Stiles","912 Forest Lakes Drive","Chesapeake","VA","23322","Secretary","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Lashawn Fortes","805 Pecan Forest Court","Chesapeake","VA","23322","Secretary","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Steve Gilbert","1005 Forest Lakes Drive","Chesapeake","VA","23322","Director","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Fred Hughes","807 Oak Forest Court","Chesapeake","VA","23322","Director","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'05101639,"Ken Quinones","13458 Gray Valley Ct","Centreville","VA","20120","President","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'05101639,"Dhirubhai Thaker","13406 Day Valley Court","Centreville","VA","20120","Treasurer","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'05101639,"Deepak Agarwal","13407 Day Valley Court","Centreville","VA","20120","Secretary","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'04823324,"Thomas Brunetti","4175 Brookgreen Drive ","Fairfax","VA","22033","President","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020
+'04823324,"Scott Hatfield","12442 Casbeer Drive ","Fairfax","VA","22033","Treasurer","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020
+'04823324,"Bruce Smith","4245 Trumbo Ct","Fairfax","VA","22033","Vice President","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020

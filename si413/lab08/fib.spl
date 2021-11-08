@@ -1,0 +1,9 @@
+new fib := lambda x {
+    ifelse x = 0
+        {ret := 0;}
+        {ifelse x = 1
+            {ret := 1;}
+            {ret := fib@(x-1) + fib@(x-2);}}
+};
+new y := read;
+write fib@y;

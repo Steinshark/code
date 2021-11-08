@@ -1,0 +1,1 @@
+if (out:=open('mids.txt,'w')) : [out.write(line+'\n') for (line := line) in [line.rstrip() for line in open('letters.txt','r').readlines()] if not (current := 0) and not -1 in (indices := [current for l in 'MIDS' if (not (line[current:].find(l) == -1)) and (current := current+line[current:].find(l)) >= 0]) and len(indices) == 4]

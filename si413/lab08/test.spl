@@ -1,0 +1,20 @@
+new mod := lambda a { ret := lambda b {
+  ret := a - (a/b)*b;
+}; };
+
+new gcd := lambda a { ret := lambda b {
+  ifelse b = 0
+    {ret := a;}
+    {ret := gcd@b@(mod@a@b);}
+}; };
+
+"enter x and y, 0 to exit"
+new x := read;
+while x != 0 {
+  new y := read;
+  "gcd is"
+  write gcd@x@y;
+  "enter x and y, 0 to exit"
+  x := read;
+}
+"goodbye"

@@ -1,0 +1,1024 @@
+ID#,NAME,ADDRESS,CITY,STATE,ZIP,TITLE,HOANAME,TYPE,HOASTATE,HOAZIP,COUNTY,ENTERED,ASOF
+'03383163,"Andrew Morgan","916 Forest Lakes Circle","Chesapeake","VA","23322","President","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Linda Stiles","912 Forest Lakes Drive","Chesapeake","VA","23322","Secretary","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Lashawn Fortes","805 Pecan Forest Court","Chesapeake","VA","23322","Secretary","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Steve Gilbert","1005 Forest Lakes Drive","Chesapeake","VA","23322","Director","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'03383163,"Fred Hughes","807 Oak Forest Court","Chesapeake","VA","23322","Director","F. Lakes Homeowners Association",HOA,VA,23322,Chesapeake,1/12/21,11/21/2014
+'05101639,"Ken Quinones","13458 Gray Valley Ct","Centreville","VA","20120","President","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'05101639,"Dhirubhai Thaker","13406 Day Valley Court","Centreville","VA","20120","Treasurer","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'05101639,"Deepak Agarwal","13407 Day Valley Court","Centreville","VA","20120","Secretary","Fair Lakes Chase Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,10/21/2020
+'04823324,"Thomas Brunetti","4175 Brookgreen Drive ","Fairfax","VA","22033","President","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020
+'04823324,"Scott Hatfield","12442 Casbeer Drive ","Fairfax","VA","22033","Treasurer","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020
+'04823324,"Bruce Smith","4245 Trumbo Ct","Fairfax","VA","22033","Vice President","Fair Lakes Court Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,04/23/2020
+'05239611,"Ajay Ganji","13343 Emeric Court","Centreville","VA","20120","President","Fair Lakes Crossing Community Association",HOA,VA,20120,Fairfax,1/12/21,08/10/2020
+'05239611,"Kevin Nawroth","4994 Marshall Crown Road ","","VA","20120","Treasurer","Fair Lakes Crossing Community Association",HOA,VA,20120,Fairfax,1/12/21,08/10/2020
+'05239611,"Rama Ghatta","5010 Marshall Crown Road ","","VA","20120","Vice President","Fair Lakes Crossing Community Association",HOA,VA,20120,Fairfax,1/12/21,08/10/2020
+'05239611,"Clarence Hunter","13340 Emeric Ct","Centreville","VA","20120","Director","Fair Lakes Crossing Community Association",HOA,VA,20120,Fairfax,1/12/21,08/10/2020
+'05239611,"Pete Mattes","5021 Veronica Road ","","VA","20120","Secretary","Fair Lakes Crossing Community Association",HOA,VA,20120,Fairfax,1/12/21,08/10/2020
+'03642683,"Bill O'Brien","13505 Portage Place","Centreville","VA","20120","President","Fair Lakes Forest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,09/14/2020
+'03642683,"George Triebsch","13502 Portage Place","Centreville","VA","20120","Vice President","Fair Lakes Forest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,09/14/2020
+'03642683,"Melissa Viswanath","5200 Doyle Lane","Centreville","VA","20120","Director","Fair Lakes Forest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,09/14/2020
+'03642683,"Bill Poole","13612 British Manor Ct","Centreville","VA","20120","Treasurer","Fair Lakes Forest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,09/14/2020
+'03642683,"Lisa Lagos","13612 British Manor Court","Centreville","VA","20120","Treasurer","Fair Lakes Forest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,09/14/2020
+'04734240,"Kate Thompson","12873 Fair Valley Court","Fairfax","VA","22033","President","Fair Lakes Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,09/18/2017
+'04734240,"Marshall Heegar","4570 Fair Valley Drive","Fairfax","VA","22033","Vice President","Fair Lakes Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,09/18/2017
+'04734240,"Rishi Anand","4523 Fair Valley Drive","Fairfax","VA","22033","Treasurer","Fair Lakes Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,09/18/2017
+'04734240,"Shawn Sethi","5501 Chestermill Court","Fairfax","VA","22030","Director","Fair Lakes Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,09/18/2017
+'04734240,"Susan Addison","4524 Fair Valley Drive","Fairfax","VA","22030","Secretary","Fair Lakes Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,09/18/2017
+'05206644,"Roland Chang","3768 Penderwood Drive","Fairfax","VA","22033","Vice President","Fair Oaks Chase Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,05/22/2020
+'05206644,"Yang Wang","3788 Penderwood Drive","Fairfax","VA","22033","President","Fair Oaks Chase Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,05/22/2020
+'05206644,"Billy Omonhundro","397 Herndon Prkwy #100","Herndon","VA","20170","Treasurer","Fair Oaks Chase Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,05/22/2020
+'05206644,"Prakasm Shitut","3774 Penderwood Drive","Fairfax","VA","22033","Secretary","Fair Oaks Chase Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,05/22/2020
+'02083129,"Wiwit Tjahjana","12504 Alexander Cornell Drive","Fairfax","VA","22033","Treasurer","Fair Oaks Estates Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,08/14/2020
+'02083129,"John Miesner","12497 Alexander Cornell Drive","Fairfax","VA","22033","President","Fair Oaks Estates Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,08/14/2020
+'02083129,"Shelby Pearl","12404 Washington Brice Road","Fairfax","VA","22033","Secretary","Fair Oaks Estates Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,08/14/2020
+'02083129,"Amy Lamieux","12380 Washington Brice Road","Fairfax","VA","22033","Vice President","Fair Oaks Estates Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,08/14/2020
+'02083129,"Heather Mishler","12305 Ox Hill Road ","Fairfax","VA","22033","Director","Fair Oaks Estates Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,08/14/2020
+'02587046,"Erica Fairbank","Po Box 1179 C/o Alliance Community Management","Leesburg","VA","20177","President","Fair Oaks Farms Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,12/29/2020
+'02587046,"Daniel Adams","Po Box 1179 C/o Alliance Community Management","Leesburg","VA","20177","Vice President","Fair Oaks Farms Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,12/29/2020
+'02587046,"William H. Wolfe","Po Box 1179 C/o Alliance Community Management","Leesburg","VA","20177","Secretary","Fair Oaks Farms Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,12/29/2020
+'02587046,"Daniel Townsend","Po Box 1179 C/o Alliance Community Management","Leesburg","VA","20177","Treasurer","Fair Oaks Farms Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,12/29/2020
+'02587046,"Bernard Street","Po Box 1179 C/o Alliance Community Management","Leesburg","VA","20177","Director","Fair Oaks Farms Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,12/29/2020
+'05427703,"Francois Innocent","12571 Scenic Ridge Trail","Fairfax","VA","22033","Secretary","Fair Oaks Green Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,07/06/2020
+'05427703,"Serkan Sean Kaygusuz","4101 Gate Village Landing","Fairfax","VA","22033","Director","Fair Oaks Green Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,07/06/2020
+'05427703,"Carolina Hurtado","4000 Timber Oak Trail","Fairfax","VA","22033","President","Fair Oaks Green Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,07/06/2020
+'05427703,"Ann Cole","4099 Oak Village Landing","Fairfax","VA","22033","Vice President","Fair Oaks Green Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,07/06/2020
+'05427703,"Young Chan Park","4039 Timber Oak Trail","Fairfax","VA","22033","Treasurer","Fair Oaks Green Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,07/06/2020
+'05632013,"Wayne Muhlstein","4573 Trumpet Vine Drive","Fairfax","VA","22030","President","Fair Oaks Hill Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,08/21/2020
+'05632013,"Dae Kim","4579 Trumpet Vine Drive","Fairfax","VA","22030","Secretary","Fair Oaks Hill Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,08/21/2020
+'04511937,"Susan A. Dill","12756 Alder Woods Drive","Fairfax","VA","22033","President","Fair Oaks Hunt Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,11/04/2020
+'04511937,"Marina Brito","3810 Hunt Manor Drive","Fairfax","VA","22033","Secretary","Fair Oaks Hunt Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,11/04/2020
+'04511937,"Lisa Carroll","3817 Hunt Manor Drive","Fairfax","VA","22033","Director","Fair Oaks Hunt Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,11/04/2020
+'06480164,"Luong Harvey Pham","12287 Engelmann Oak Way","Fairfax","VA","22030","President","Fair Oaks Landing Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,12/28/2020
+'06480164,"Ravi Chitneni","12285 Engelmann Oak Way","Fairfax","VA","22030","Treasurer","Fair Oaks Landing Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,12/28/2020
+'06480164,"Sowmya Karparthi","4474 Black Ironwood Drive","Fairfax","VA","22030","Secretary","Fair Oaks Landing Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,12/28/2020
+'03149044,"Charles P. Stone","11092 B Lee Hgwy #103","Fairfax","VA","22030","President","Fair Oaks Square, A Condominium Unit Owners Association",Condo,VA,22030,Fairfax,1/12/21,01/02/2019
+'03149044,"Louis J. Giangi","Po Box 644","Centreville","VA","20122","Treasurer","Fair Oaks Square, A Condominium Unit Owners Association",Condo,VA,22030,Fairfax,1/12/21,01/02/2019
+'03149044,"Kevin Hooks","11094 B. Lee Hwy #102","Fairfax","VA","22030","Director","Fair Oaks Square, A Condominium Unit Owners Association",Condo,VA,22030,Fairfax,1/12/21,01/02/2019
+'02708139,"Leon Hartley","12311 Donaldson Street","Fairfax","VA","22033","Secretary","Fair Ridge Community Association",HOA,VA,22033,Fairfax,1/12/21,04/10/2020
+'02708139,"Thomas Buffoni","12301 Quiet Hollow Court","Fairfax","VA","22033","Director","Fair Ridge Community Association",HOA,VA,22033,Fairfax,1/12/21,04/10/2020
+'02708139,"Joe Maccone","12323 Quiet Hollow Court","Fairfax","VA","22033","President","Fair Ridge Community Association",HOA,VA,22033,Fairfax,1/12/21,04/10/2020
+'02708139,"Troy Hascher","12321 Quiet Hollow Court","Fairfax","VA","22033","Vice President","Fair Ridge Community Association",HOA,VA,22033,Fairfax,1/12/21,04/10/2020
+'02708139,"Ross Raphael","12222 Apple Orchard Court","Fairfax","VA","22033","Treasurer","Fair Ridge Community Association",HOA,VA,22033,Fairfax,1/12/21,04/10/2020
+'02472546,"Joseph Farley","3906 Tallow Tree Ct","Fairfax","VA","22033","President","Fair Woods Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,10/23/2020
+'02472546,"Joseph Mcdonald, Jr.","3944 Collis Oak Court","Fairfax","VA","22033","Treasurer","Fair Woods Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,10/23/2020
+'02472546,"Therodore Windgrad","12515 Sweet Leaf Terrace","Fairfax","VA","22033","Secretary","Fair Woods Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,10/23/2020
+'02472546,"Patricia Lewis","12653 Marcum Court","Fairfax","VA","22033","Vice President","Fair Woods Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,10/23/2020
+'02472546,"Pam Gilmore","3851 Zelkova Ct","Fairfax","VA","22033","Director","Fair Woods Homeowners Association",HOA,VA,22033,Fairfax,1/12/21,10/23/2020
+'03088325,"Sapna Batish","11601 Springhouse Place","Reston","VA","20194","President","Fairbrook Cluster Association",HOA,VA,20194,Fairfax,1/12/21,12/23/2020
+'03088325,"Shirley Mabon","111611 Springhosue Place","Reston","VA","20194","Director","Fairbrook Cluster Association",HOA,VA,20194,Fairfax,1/12/21,12/23/2020
+'03088325,"Letitia Lock","11608 Springhouse Place","Reston","VA","20194","Secretary","Fairbrook Cluster Association",HOA,VA,20194,Fairfax,1/12/21,12/23/2020
+'03088325,"Joe Kelly","11600 Springhouse Place","Reston","VA","20194","Treasurer","Fairbrook Cluster Association",HOA,VA,20194,Fairfax,1/12/21,12/23/2020
+'05786660,"Scott Hunt","13552 Plumbago Drive","Centreville","VA","20120","President","Faircrest Community Association",HOA,VA,20120,Fairfax,1/12/21,07/06/2020
+'05786660,"Peter Bielawska","5407 Pachysandra W","Centreville","VA","20120","Secretary","Faircrest Community Association",HOA,VA,20120,Fairfax,1/12/21,07/06/2020
+'05786660,"Steven Yeh","13447 Wood Lilly Lane","Centreville","VA","20120","Treasurer","Faircrest Community Association",HOA,VA,20120,Fairfax,1/12/21,07/06/2020
+'05786660,"Vitro Ponzio Jr.","13691 Wood Lilly Lane ","Centreville","VA","20120","Director","Faircrest Community Association",HOA,VA,20120,Fairfax,1/12/21,07/06/2020
+'05786660,"Yogesh Rajashekharaiah","13534 Prairie Mallow Lane ","Centreville","VA","20120","Director","Faircrest Community Association",HOA,VA,20120,Fairfax,1/12/21,07/06/2020
+'05734116,"Wali Ashparie","5324 Sammie Kay Lane","Centreville","VA","20120","President","Faircrest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,05/07/2020
+'05734116,"Matthew Debrosse","5011 Cool Fountain Lane ","Centreville","VA","20120","Vice President","Faircrest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,05/07/2020
+'05734116,"Dahai Han","5180 Fiery Dawn Court","","VA","20120","Secretary","Faircrest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,05/07/2020
+'05734116,"Sameer Rohatgi","5458 Joseph Johnston Lane ","Centreville","VA","20120","Director","Faircrest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,05/07/2020
+'05734116,"Donna Yeh","13447 Wood Lilly Lane","Centreville","VA","20120","President","Faircrest Homeowners Association",HOA,VA,20120,Fairfax,1/12/21,05/07/2020
+'05113741,"Stephen C. Jewett","10603 Goldeneye Lane ","Fairfax","VA","22032","President","Fairfax Club Estates Homeowners Association",HOA,VA,22032,Fairfax,1/12/21,03/28/2019
+'05113741,"Angela Brown","10652 John Ayres Drive","Fairfax","VA","22032","Vice President","Fairfax Club Estates Homeowners Association",HOA,VA,22032,Fairfax,1/12/21,03/28/2019
+'05113741,"Maria Little","10632 John Ayers Drive","Fairfax","VA","22032","Treasurer","Fairfax Club Estates Homeowners Association",HOA,VA,22032,Fairfax,1/12/21,03/28/2019
+'05113741,"Mike Kyzykowski","10600 Barn Swallow Court","Fairfax","VA","22032","Director","Fairfax Club Estates Homeowners Association",HOA,VA,22032,Fairfax,1/12/21,03/28/2019
+'05113741,"Tim Stacy","10605 Barn Swallow Ct","Fairfax","VA","22032","Director","Fairfax Club Estates Homeowners Association",HOA,VA,22032,Fairfax,1/12/21,03/28/2019
+'02245710,"Anne Marie Mckinnon","9433 Old Courthouse Road","Vienna","VA","22182","Vice President","Fairfax County Spring Lake Association",HOA,VA,22182,Fairfax,1/12/21,12/17/2020
+'02245710,"Louise Armitage","1775 Proffit Road","Vienna","VA","22182","President","Fairfax County Spring Lake Association",HOA,VA,22182,Fairfax,1/12/21,12/17/2020
+'02245710,"Carol Moore","1784 Proffit Road","Vienna","VA","22182","Treasurer","Fairfax County Spring Lake Association",HOA,VA,22182,Fairfax,1/12/21,12/17/2020
+'02245710,"Dal Harper","9404 Lakeside Drive","Vienna","VA","22182","Secretary","Fairfax County Spring Lake Association",HOA,VA,22182,Fairfax,1/12/21,12/17/2020
+'02245710,"Tim Pierson","9359 Old Courthouse Road","Vienna","VA","22182","Director","Fairfax County Spring Lake Association",HOA,VA,22182,Fairfax,1/12/21,12/17/2020
+'05024898,"Timothy Timmons","10793 Glen Mist Lane ","Fairfax","VA","22030","President","Fairfax Downs Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,04/01/2020
+'05024898,"Judith Bell","4918 Ox Road","Fairfax","VA","22030","Treasurer","Fairfax Downs Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,04/01/2020
+'05024898,"Richard Witton","10792 Glen Mist Lane ","Fairfax","VA","22030","Vice President","Fairfax Downs Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,04/01/2020
+'05024898,"Lisa Veigel","10790 Glen Mist Lane","Fairfax","VA","22030","Secretary","Fairfax Downs Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,04/01/2020
+'06119259,"Wayne Pacine","4389 Patriot Park Court","Fairfax","VA","22030","President","Fairfax Gateway Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,01/28/2020
+'06119259,"Jack Thompson","4395 Patriot Park Ct","Fairfax","VA","22030","Vice President","Fairfax Gateway Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,01/28/2020
+'06119259,"Fredrick Hutchison","10589 School Street","Fairfax","VA","22030","Director","Fairfax Gateway Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,01/28/2020
+'02949584,"J. David Sittler","12113 Fairfax Hunt Road ","Fairfax","VA","22030","Director","Fairfax Hunt Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,11/25/2020
+'02949584,"Stephen F. Hunt","6004 Saddle Horse Place","Fairfax","VA","22030","President","Fairfax Hunt Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,11/25/2020
+'02949584,"Christopher D. Wagner","6115 Fox Run","Fairfax","VA","22030","Treasurer","Fairfax Hunt Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,11/25/2020
+'02949584,"Liz Miner","12219 Fairfax Hunt Road","Fairfax","VA","22030","Secretary","Fairfax Hunt Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,11/25/2020
+'02949584,"Stephen Hunt","Po Box 313","Clifton","VA","20124","President","Fairfax Hunt Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,11/25/2020
+'05394218,"Wais Hakimi","7447 Ardglass Court ","Lorton","VA","22079","Treasurer","Fairfax Landing Homeowners Association",HOA,VA,22079,Fairfax,1/12/21,07/28/2020
+'05394218,"Anthony Ekka","7315 Ardglass Drive","Lorton","VA","22079","Director","Fairfax Landing Homeowners Association",HOA,VA,22079,Fairfax,1/12/21,07/28/2020
+'05394218,"Nydia Roman","7327 Ardglass Drive","Lorton","VA","22079","Director","Fairfax Landing Homeowners Association",HOA,VA,22079,Fairfax,1/12/21,07/28/2020
+'05394218,"Sherry Bailey","9075 Two Bays Road ","Lorton","VA","22079","President","Fairfax Landing Homeowners Association",HOA,VA,22079,Fairfax,1/12/21,07/28/2020
+'04898185,"Charles Meade","Po Box 1985 Po Box 1985","Centreville","VA","20122","President","Fairfax National Estates Homeowners Association",HOA,VA,20122,Fairfax,1/12/21,10/21/2020
+'04898185,"Derek Moor","Fairfax National Estates Hoa P.o. Box 1985","Centreville","VA","20122","Treasurer","Fairfax National Estates Homeowners Association",HOA,VA,20122,Fairfax,1/12/21,10/21/2020
+'04898185,"Matt D'Ercole","Fairfax National Estates Hoa P.o Box 1985","Centreville","VA","20122","Secretary","Fairfax National Estates Homeowners Association",HOA,VA,20122,Fairfax,1/12/21,10/21/2020
+'04898185,"Brian Smith","Fairfax National Estates P.o.box 1985","Centreville","VA","20122","Vice President","Fairfax National Estates Homeowners Association",HOA,VA,20122,Fairfax,1/12/21,10/21/2020
+'02904811,"Robert A. Joshua","9604 Ridge Avenue","Fairfax","VA","22030","Treasurer","Fairfax Oaks Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/10/2020
+'02904811,"Tom Casey","9608 Ridge Avenue","Fairfax","VA","22030","President","Fairfax Oaks Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/10/2020
+'02904811,"Matt Hoffert","9626 Ridge Avenue","Fairfax","VA","22030","Vice President","Fairfax Oaks Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/10/2020
+'02904811,"Karen Lockhart","9610 Ridge Avenue","Fairfax","VA","22030","Secretary","Fairfax Oaks Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/10/2020
+'06185912,"David Mrskos","6407 Velleity Lane","Springfield","VA","22152","President","Fairfax Park Homeowners Association",HOA,VA,22152,Fairfax,1/12/21,05/26/2020
+'06185912,"Stanley Haas","6404 Velleity Lane ","Springfield","VA","22152","Treasurer","Fairfax Park Homeowners Association",HOA,VA,22152,Fairfax,1/12/21,05/26/2020
+'06185912,"Tony Chong","6409 Velleity Lane","Springfield","VA","22152","Secretary","Fairfax Park Homeowners Association",HOA,VA,22152,Fairfax,1/12/21,05/26/2020
+'04481362,"Peter Kolovos","4649 Buckhorn Ridge","Fairfax","VA","22030","Vice President","Fairfax Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/12/2020
+'04481362,"Catherine Mccoy","4621 Buckhorn Ridge","Fairfax","VA","22030","Secretary","Fairfax Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/12/2020
+'04481362,"Aphroditi Gouvousis","4655 Buckhorn Ridge","Fairfax","VA","22030","Director","Fairfax Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/12/2020
+'04481362,"Ted Sahlin","12096 Antler Court","Fairfax","VA","22030","Director","Fairfax Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/12/2020
+'04481362,"Carolyn Monroe","12098 Antler Court","Fairfax","VA","22030","President","Fairfax Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/12/2020
+'04999702,"Marianne T. Caulfield","318 N Fairfax Street","Alexandria","VA","22314","Secretary","Fairfax Row Property Owners Association",HOA,VA,22314,Alexandria,1/12/21,03/23/2020
+'04999702,"Patricia Korb","308 N Fairfax Street","Alexandria","VA","22314","Treasurer","Fairfax Row Property Owners Association",HOA,VA,22314,Alexandria,1/12/21,03/23/2020
+'04999702,"Neil Hammerstrom","304 N Fairfax Street","Alexandria","VA","22314","Director","Fairfax Row Property Owners Association",HOA,VA,22314,Alexandria,1/12/21,03/23/2020
+'04999702,"Brian Morris","306 N Fairfax Street ","Alexandria","VA","22314","President","Fairfax Row Property Owners Association",HOA,VA,22314,Alexandria,1/12/21,03/23/2020
+'06689822,"Leah Levy","11201 Robert Carter Road","Fairfax Station","VA","22039","Director","Fairfax Station Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,12/13/2019
+'06689822,"Kurt Seibert","Po Box 162","Fairfax Station","VA","22039","Vice President","Fairfax Station Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,12/13/2019
+'06689822,"Andrew Combe","11663 Capt Rhett Lane ","Fairfax Station","VA","22039","Treasurer","Fairfax Station Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,12/13/2019
+'06689822,"Malcolm Mcgowan","Po Box 162","Fairfax Station","VA","22039","Director","Fairfax Station Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,12/13/2019
+'06689822,"Matthew Howard","Po Box 162","Fairfax Station","VA","22039","President","Fairfax Station Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,12/13/2019
+'01515568,"Brendan Eagan","Po Box 7141","Fairfax Station","VA","22039","Treasurer","Fairfax Station Woods Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,10/16/2020
+'01515568,"Sean Mahoney","Po Box 7141","Fairfax Station","VA","22039","Vice President","Fairfax Station Woods Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,10/16/2020
+'01515568,"Lucille Clark","Po Box 7141","Fairfax Station","VA","22039","Director","Fairfax Station Woods Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,10/16/2020
+'01515568,"Tracey Stevenson","10501 Daysailer Drive","Fairfax Station","VA","22039","President","Fairfax Station Woods Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,10/16/2020
+'01515568,"Paul Gray","Po Box 7141","Fairfax Station","VA","22039","Secretary","Fairfax Station Woods Homeowners Association",HOA,VA,22039,Fairfax,1/12/21,10/16/2020
+'07096811,"George Lockwood","12171 Leeds Chapel Lane","Markham","VA","22643","President","Fairfield Estates Homeowners Association",HOA,VA,22554,Stafford,1/12/21,04/22/2020
+'07096811,"Vince Jones","12287 Tacketts Mill Road ","Stafford","VA","22556","Vice President","Fairfield Estates Homeowners Association",HOA,VA,22554,Stafford,1/12/21,04/22/2020
+'07096811,"Loretta Eaheart","1208 Duet Road","Madison","VA","22727","Secretary","Fairfield Estates Homeowners Association",HOA,VA,22554,Stafford,1/12/21,04/22/2020
+'02391860,"Suzanne Szabo","630 Oleander Circle ","Va Beach","VA","23464","Secretary","Fairfield Gardens Condominium Association",Condo,VA,23464,Virginia Beach,1/12/21,02/14/2020
+'02391860,"John Delvecchio","5205 Jasmine Ct","Virginia Beach","VA","23464","President","Fairfield Gardens Condominium Association",Condo,VA,23464,Virginia Beach,1/12/21,02/14/2020
+'02391860,"Joan Cowan","693 Oleander Circle","Virginia Beach","VA","23464","Director","Fairfield Gardens Condominium Association",Condo,VA,23464,Virginia Beach,1/12/21,02/14/2020
+'02391860,"Bonnie G. Herring","2224 Va. Beach Boulevard #201","Va Beach","VA","23454","Secretary","Fairfield Gardens Condominium Association",Condo,VA,23464,Virginia Beach,1/12/21,02/14/2020
+'02391860,"Mike Kassel","417 Spurlane Circle","Chesapeake","VA","23320","Treasurer","Fairfield Gardens Condominium Association",Condo,VA,23464,Virginia Beach,1/12/21,02/14/2020
+'03508660,"John R. Cammerata","1137 Club Drive","Johnstown","PA","15905","Director","Fairfield Kingsgate Property Owners Association",HOA,VA,23185,James City,1/12/21,01/07/2021
+'03508660,"Denise M. Hammond","P.o. Box 1483","Tappahannock","VA","22560","President","Fairfield Kingsgate Property Owners Association",HOA,VA,23185,James City,1/12/21,01/07/2021
+'03508660,"Barbara J. Faltz Jackson","5415 Frankford Estates Drive ","Baltimore","MD","21206","Treasurer","Fairfield Kingsgate Property Owners Association",HOA,VA,23185,James City,1/12/21,01/07/2021
+'03508660,"Charles Chubb","100 Stonehenge Drive","Fairfield Glade","TN","38558","Vice President","Fairfield Kingsgate Property Owners Association",HOA,VA,23185,James City,1/12/21,01/07/2021
+'03508660,"Peggy Bostic","P O Box 551101","Gastonia","NC","28055","Director","Fairfield Kingsgate Property Owners Association",HOA,VA,23185,James City,1/12/21,01/07/2021
+'07409279,"Neel Gulhar","8897 Hargrove Court ","Fairfax","VA","22031","Treasurer","Fairfield Manor Homeowners Association",HOA,VA,22031,Fairfax,1/12/21,08/26/2020
+'07409279,"Khurram Malik","8901 Hargrove Court","Fairfax","VA","22031","Secretary","Fairfield Manor Homeowners Association",HOA,VA,22031,Fairfax,1/12/21,08/26/2020
+'07409279,"Phu Nguyen","8899 Hargrove Court","Fairfax","VA","22031","President","Fairfield Manor Homeowners Association",HOA,VA,22031,Fairfax,1/12/21,08/26/2020
+'07409279,"Aaron Bronson","8891 Hargrove Court ","Fairfax","VA","22031","Vice President","Fairfield Manor Homeowners Association",HOA,VA,22031,Fairfax,1/12/21,08/26/2020
+'04578506,"Robnette Allen","3904 Shillingford Drive ","Richmond","VA","23223","President","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Shirley Watson","3920 Shillingford Drive ","Richmond","VA","23223","Vice President","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Charles Newton","4008 Shillingford Drive ","Richmond","VA","23223","Treasurer","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Larry Frazier","4012 Shillingford Drive","Richmond","VA","23223","Director","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Lindafaye Newton","4008 Shillingford Drive","Richmond","VA","23223","Secretary","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Fred Cannon","3916 Battersea Place","Richmond","VA","23223","Director","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Iris Harris","3912 Battersea Place","Richmond","VA","23223","Director","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'04578506,"Delquency Capers","4105 Elmswell Drive","Richmond","VA","23223","Director","Fairfield Woods In Henrico Homeowners Association",HOA,VA,23223,Richmond,1/12/21,11/16/2020
+'01422856,"Caroline Fitzpierce","11860 S Lakes Court","Reston","VA","20191","Secretary","Fairgreen Cluster Association",HOA,VA,20191,Fairfax,1/12/21,11/04/2020
+'01422856,"Atif Ifran","2123 Colts Neck Ct","Reston","VA","20191","Director","Fairgreen Cluster Association",HOA,VA,20191,Fairfax,1/12/21,11/04/2020
+'01422856,"Jenni Jacyna Aka Jennifer Canning","11852 S Lakes Ct","","VA","20191","President","Fairgreen Cluster Association",HOA,VA,20191,Fairfax,1/12/21,11/04/2020
+'01422856,"Debbie Carroll","11856 S Lakes Ct","Reston","VA","20191","Treasurer","Fairgreen Cluster Association",HOA,VA,20191,Fairfax,1/12/21,11/04/2020
+'01422856,"Nancy Streiff","2129 Colts Neck Ct","Reston","VA","20191","Vice President","Fairgreen Cluster Association",HOA,VA,20191,Fairfax,1/12/21,11/04/2020
+'05004817,"Mark L. Pedry","10856 Flowerstone Street","Oakton","VA","22124","President","Fairhunt Estates Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,03/26/2020
+'05004817,"Loren W. Hershey","2451 Fairhunt Court","Oakton","VA","22124","Director","Fairhunt Estates Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,03/26/2020
+'05004817,"Scott W. Pohlman","10865 Flowerstone Street","Oakton","VA","22124","Director","Fairhunt Estates Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,03/26/2020
+'05004817,"Doug Traxler","2448 Fairhunt Ct","Oakton","VA","22124","Director","Fairhunt Estates Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,03/26/2020
+'01305283,"Betty Merkle","4720 Trail Wynd Court","Glen Allen","VA","23059","Director","Fairlawn Townhouses Association",HOA,VA,23075,Henrico,1/12/21,02/10/2020
+'01305283,"Crystal Smith Randolph","Po Box 423","Highland Springs","VA","23075","President","Fairlawn Townhouses Association",HOA,VA,23075,Henrico,1/12/21,02/10/2020
+'01305283,"Adrienne Irigaray","2828 Glen Gary Drive","Richmond","VA","23233","Treasurer","Fairlawn Townhouses Association",HOA,VA,23075,Henrico,1/12/21,02/10/2020
+'01305283,"Brenda Peters","313 Cadarwood Road","Henrico","VA","23075","Secretary","Fairlawn Townhouses Association",HOA,VA,23075,Henrico,1/12/21,02/10/2020
+'01305283,"Neferititera Lee","426 Roxana Road","Highland Springs","VA","23075","Director","Fairlawn Townhouses Association",HOA,VA,23075,Henrico,1/12/21,02/10/2020
+'05100839,"Mike Gutshall","3538 S Utah Street","Arlington","VA","22206","Vice President","Fairlington Arbor Condominium",Condo,VA,22206,Arlington,1/12/21,09/30/2020
+'05100839,"Nia Vroustouris","4429 S 36th Street","Arlington","VA","22206","Treasurer","Fairlington Arbor Condominium",Condo,VA,22206,Arlington,1/12/21,09/30/2020
+'05100839,"Jeff Hewitt","3454 S Utah Street B1","Arlington","VA","22206","Secretary","Fairlington Arbor Condominium",Condo,VA,22206,Arlington,1/12/21,09/30/2020
+'05100839,"Matthew D. Duncan","3463 S Wakefield Street","Arlington","VA","22206","President","Fairlington Arbor Condominium",Condo,VA,22206,Arlington,1/12/21,09/30/2020
+'05100839,"Doug Tipsword","4437 S 36th Street A2","Arlington","VA","22206","Vice President","Fairlington Arbor Condominium",Condo,VA,22206,Arlington,1/12/21,09/30/2020
+'03935723,"Christine Smith","4720 31st Street S","Arlington","VA","22206","President","Fairlington Court Homeowners Association",HOA,VA,22206,Arlington,1/12/21,07/22/2020
+'03935723,"Zuraya Tapia-Hadley","4712 31st Street S","Arlington","VA","22206","Vice President","Fairlington Court Homeowners Association",HOA,VA,22206,Arlington,1/12/21,07/22/2020
+'03935723,"Mareike Hohbach","4718 31st Street S","Arlington","VA","22206","Treasurer","Fairlington Court Homeowners Association",HOA,VA,22206,Arlington,1/12/21,07/22/2020
+'03935723,"Deborah Staren-Doby","4716 31st Street S","Arlington","VA","22206","Secretary","Fairlington Court Homeowners Association",HOA,VA,22206,Arlington,1/12/21,07/22/2020
+'03935723,"Terra Hilton","4702 S 31st Street","Arlington","VA","22206","Director","Fairlington Court Homeowners Association",HOA,VA,22206,Arlington,1/12/21,07/22/2020
+'05197181,"Renee Powelette","4670 B 36th Street S","Arlington","VA","22206","President","Fairlington Mews Condominium",Condo,VA,22206,Arlington,1/12/21,04/22/2020
+'05197181,"Lori Stuntz","4608 S 36th Street","Arlington","VA","22206","Treasurer","Fairlington Mews Condominium",Condo,VA,22206,Arlington,1/12/21,04/22/2020
+'05197181,"Jacqueline A. Livingston","4652 S 36th Street #B","Arlington","VA","22206","Secretary","Fairlington Mews Condominium",Condo,VA,22206,Arlington,1/12/21,04/22/2020
+'05197181,"Ryan Hamel","4694 36th Street S #B","Arlington","VA","22206","Director","Fairlington Mews Condominium",Condo,VA,22206,Arlington,1/12/21,04/22/2020
+'05197181,"Gabriel Butler","4629 36th Street S #A1","Arlington","VA","22206","Director","Fairlington Mews Condominium",Condo,VA,22206,Arlington,1/12/21,04/22/2020
+'03057866,"Carol Libbon","9506 Treemont Lane","Spotsylvania","VA","22553","Vice President","Fairview Commons Community Association",HOA,VA,22407,Fredericksburg,1/12/21,06/16/2020
+'03057866,"Maureen Weierbach","5161 Dominion Drive","Fredericksburg","VA","22407","President","Fairview Commons Community Association",HOA,VA,22407,Fredericksburg,1/12/21,06/16/2020
+'03057866,"John Griffith","5163 Dominion Drive","Fredericksburg","VA","22407","Treasurer","Fairview Commons Community Association",HOA,VA,22407,Fredericksburg,1/12/21,06/16/2020
+'03057866,"Linda Timmes-Ross","4315 Gov Almond Road ","Locust Grove","VA","22508","Secretary","Fairview Commons Community Association",HOA,VA,22407,Fredericksburg,1/12/21,06/16/2020
+'03057866,"Robin Destackelberg","5145 Dominion Drive","Fredericksburg","VA","22407","Director","Fairview Commons Community Association",HOA,VA,22407,Fredericksburg,1/12/21,06/16/2020
+'05111117,"Annette L. Miller","2715 Fairview Court","Alexandria","VA","22311","President","Fairview Homeowners Association",HOA,VA,22311,Alexandria,1/12/21,11/17/2020
+'05111117,"John Esposito","5331 Echols Avenue","Alexandria","VA","22311","Vice President","Fairview Homeowners Association",HOA,VA,22311,Alexandria,1/12/21,11/17/2020
+'05111117,"Thomas J. Van Horn","2711 Fairview Court","Alexandria","VA","22311","Treasurer","Fairview Homeowners Association",HOA,VA,22311,Alexandria,1/12/21,11/17/2020
+'05111117,"Nandan Kenkeremath","2707 Fairview Court","Alexandria","VA","22311","Secretary","Fairview Homeowners Association",HOA,VA,22311,Alexandria,1/12/21,11/17/2020
+'05111117,"Jessica Rogers","2703 Fairview Court","Alexandria","VA","22311","Director","Fairview Homeowners Association",HOA,VA,22311,Alexandria,1/12/21,11/17/2020
+'02459907,"Lisa Tychsen","7705 Camp Alger Avenue","Falls Church","VA","22042","President","Fairview Park Homeowners Association",HOA,VA,22042,Fairfax,1/12/21,08/20/2020
+'02459907,"Tracy Scriba","7755 Camp Alger Avenue","Falls Church","VA","22042","Vice President","Fairview Park Homeowners Association",HOA,VA,22042,Fairfax,1/12/21,08/20/2020
+'02459907,"Mandy (Amanda) Burton","7731 Camp Alger Avenue","Falls Church","VA","22042","Director","Fairview Park Homeowners Association",HOA,VA,22042,Fairfax,1/12/21,08/20/2020
+'02459907,"Claire Shields","7707 Camp Alger Avenue","Falls Church","VA","22042","Secretary","Fairview Park Homeowners Association",HOA,VA,22042,Fairfax,1/12/21,08/20/2020
+'02459907,"William Coley","7725 Camp Alger Avenue","Falls Church","VA","22042","Treasurer","Fairview Park Homeowners Association",HOA,VA,22042,Fairfax,1/12/21,08/20/2020
+'02675205,"Charlie Towson","2929 Walnut Street #1700 Fmc Tower At Cra Centre S","Philadelphia","PA","19104","President","Fairview Park Owners Association",Condo,VA,22102,Fairfax,1/12/21,02/21/2020
+'02675205,"EJ Strittmatter Santano","2929 Walnut Street #1700 Fmc Tower At Cra Centre S","Philadelphia","PA","19104","Treasurer","Fairview Park Owners Association",Condo,VA,22102,Fairfax,1/12/21,02/21/2020
+'02675205,"Jennifer Matthews Rice","2929 Walnut Street #1700 Fmc Tower At Cra Centre S","Philadelphia","PA","19104","Secretary","Fairview Park Owners Association",Condo,VA,22102,Fairfax,1/12/21,02/21/2020
+'02675205,"Tara Berger","2929 Walnut Street #1700 Fmc Tower At Cra Centre S","Philadelphia","PA","19104","Director","Fairview Park Owners Association",Condo,VA,22102,Fairfax,1/12/21,02/21/2020
+'02675205,"Debbie Vigna","2929 Walnut Street #1700 Fmc Tower At Cra Centre S","Philadelphia","PA","19104","Director","Fairview Park Owners Association",Condo,VA,22102,Fairfax,1/12/21,02/21/2020
+'03884533,"James Brown","4002 Kimberley Glen Court","Chantilly","VA","20151","President","Fairview Square Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,01/21/2020
+'03312394,"Ivana  Moore","5928 Fairview Woods Drive","Fairfax Station","VA","22039","President","Fairview Woods Community Association",HOA,VA,22039,Fairfax,1/12/21,12/03/2020
+'03312394,"Melinda Kaltenbaugh","5920 Fairview Woods Drive","Fairfax Station","VA","22039","Secretary","Fairview Woods Community Association",HOA,VA,22039,Fairfax,1/12/21,12/03/2020
+'03312394,"Hartwell "Phil" Philips","5925 Fairview Woods Drive ","Fairfax Station","VA","22039","Treasurer","Fairview Woods Community Association",HOA,VA,22039,Fairfax,1/12/21,12/03/2020
+'01353127,"Joan Fletcher","1801 N Shore Court","Reston","VA","20190","President","Fairway Cluster Association",HOA,VA,20190,Fairfax,1/12/21,12/29/2020
+'01353127,"Robert Mervine","1800 N Shore Count","Reston","VA","20190","Treasurer","Fairway Cluster Association",HOA,VA,20190,Fairfax,1/12/21,12/29/2020
+'01353127,"Jun Wang","1819 N Shore Court","Reston","VA","20190","Secretary","Fairway Cluster Association",HOA,VA,20190,Fairfax,1/12/21,12/29/2020
+'01353127,"Lois Butowsky","1803 N Shore Court","Reston","VA","20190","Director","Fairway Cluster Association",HOA,VA,20190,Fairfax,1/12/21,12/29/2020
+'01353127,"Kim Lockhart","1804 N Shore Court","Reston","VA","20190","Director","Fairway Cluster Association",HOA,VA,20190,Fairfax,1/12/21,12/29/2020
+'06480552,"Jon Cassady","1890 Preston White Drive #260","Reston","VA","20191","President","Fairway Executive Center Condominium Association",Condo,VA,20191,Fairfax,1/12/21,11/30/2020
+'06480552,"Monica Neshat, Dds","1890 Preston White Drive #260","Reston","VA","20191","Director","Fairway Executive Center Condominium Association",Condo,VA,20191,Fairfax,1/12/21,11/30/2020
+'06480552,"Susie Sylvester","1890 Preston White Drive #260","Reston","VA","20190","Vice President","Fairway Executive Center Condominium Association",Condo,VA,20191,Fairfax,1/12/21,11/30/2020
+'06480552,"Mark Anderson","1890 Preston White Drive #260","Reston","VA","20191","Treasurer","Fairway Executive Center Condominium Association",Condo,VA,20191,Fairfax,1/12/21,11/30/2020
+'06480552,"Manesh Gupta","1890 Preston White Drive #260","Reston","VA","20191","Secretary","Fairway Executive Center Condominium Association",Condo,VA,20191,Fairfax,1/12/21,11/30/2020
+'03256443,"Lorelei Nelson","396 Clageett Street Sw","Leesburg","VA","20175","President","Fairway Manor Homeowners Association",HOA,VA,20175,Loudoun,1/12/21,07/23/2020
+'03256443,"Teresa Smith","1206 Periwinkle Way Sw","Leesburg","VA","20175","Vice President","Fairway Manor Homeowners Association",HOA,VA,20175,Loudoun,1/12/21,07/23/2020
+'03256443,"Phil Retsch","1203 Periwinkle Way Sw","Leesburg","VA","20175","Secretary","Fairway Manor Homeowners Association",HOA,VA,20175,Loudoun,1/12/21,07/23/2020
+'03256443,"Chris Cox","388 Clagett Street Sw","Leesburg","VA","20175","Treasurer","Fairway Manor Homeowners Association",HOA,VA,20175,Loudoun,1/12/21,07/23/2020
+'02787075,"Ajdin Muratovic","1623 S Barton Street","Arlington","VA","22204","President","Fairway Village Unit Owners Association",Condo,VA,22204,Arlington,1/12/21,11/25/2020
+'02787075,"William Daly","1595 S Barton Street","Arlington","VA","22204","Treasurer","Fairway Village Unit Owners Association",Condo,VA,22204,Arlington,1/12/21,11/25/2020
+'02787075,"Dustin Bednarz","1651 S Barton Street ","Arlington","VA","22204","Secretary","Fairway Village Unit Owners Association",Condo,VA,22204,Arlington,1/12/21,11/25/2020
+'03004165,"Pamela Gordon","1041 Shoal Creek Trail","Chesapeake","VA","23320","Director","Fairways Homeowners Association",HOA,VA,23320,Chesapeake,1/12/21,09/11/2020
+'03004165,"Bonnie Griggs","1010 Shoal Creek Trail","Chesapeake","VA","23320","President","Fairways Homeowners Association",HOA,VA,23320,Chesapeake,1/12/21,09/11/2020
+'03004165,"Marilyn Georges","1038 Shoal Creek Trail","Chesapeake","VA","23320","Vice President","Fairways Homeowners Association",HOA,VA,23320,Chesapeake,1/12/21,09/11/2020
+'04996070,"Carolyn Hartline","548 Fa Irway Lookout","Williamsburg","VA","23188","Treasurer","Fairways Villas - Greensprings Owners Association",Condo,VA,23188,James City,1/12/21,06/18/2020
+'04996070,"Ralph Crandall","193 Shoal Creek","Williamsburg","VA","23188","President","Fairways Villas - Greensprings Owners Association",Condo,VA,23188,James City,1/12/21,06/18/2020
+'04996070,"Sandra Davis","145 Shoal Creek","Williamsburg","VA","23188","Secretary","Fairways Villas - Greensprings Owners Association",Condo,VA,23188,James City,1/12/21,06/18/2020
+'04996070,"Mary Calabrese","280 Bunker Arch","Williamsburg","VA","23188","Director","Fairways Villas - Greensprings Owners Association",Condo,VA,23188,James City,1/12/21,06/18/2020
+'04996070,"Ronald Grosso","C/o 4071 Ironbound Road ","Williamsburg","VA","23188","Director","Fairways Villas - Greensprings Owners Association",Condo,VA,23188,James City,1/12/21,06/18/2020
+'05302369,"Helen Yarbrough","12319 Carnoustine Lane","North Chesterfield","VA","23236","Secretary","Fairways Villas At Stonehenge Owners Association",Condo,VA,23236,Chesterfield,1/12/21,11/09/2020
+'05302369,"Dana Lang","621 Muirfield Ct","N. Chesterfield","VA","23236","Vice President","Fairways Villas At Stonehenge Owners Association",Condo,VA,23236,Chesterfield,1/12/21,11/09/2020
+'05302369,"Jim Brooks","615 Muirfield Ctf","North Chesterfield","VA","23236","Director","Fairways Villas At Stonehenge Owners Association",Condo,VA,23236,Chesterfield,1/12/21,11/09/2020
+'05302369,"Laurie Ann Levereth","12614 Carnoustie Lane","N Chesterfield","VA","23236","President","Fairways Villas At Stonehenge Owners Association",Condo,VA,23236,Chesterfield,1/12/21,11/09/2020
+'05302369,"Kevin Walsh","612 Bellevive Ct","North Chesterfield","VA","23236","Treasurer","Fairways Villas At Stonehenge Owners Association",Condo,VA,23236,Chesterfield,1/12/21,11/09/2020
+'03823689,"Mary Von Posch","1016 B Winged Ft Ct","Chesapeake","VA","23320","President","Fairways Villas Owners Association",Condo,VA,23320,Chesapeake,1/12/21,10/01/2020
+'03823689,"James L. Brinn","1017 A Winged Foot Ct","Chesapeake","VA","23320","Director","Fairways Villas Owners Association",Condo,VA,23320,Chesapeake,1/12/21,10/01/2020
+'03823689,"Janet Rogers","1021 A Winged Ft Ct","Chesapeake","VA","23320","Secretary","Fairways Villas Owners Association",Condo,VA,23320,Chesapeake,1/12/21,10/01/2020
+'03823689,"Iren Upendo Mattoke","10128 Wnge","Chesapeake","VA","23320","Director","Fairways Villas Owners Association",Condo,VA,23320,Chesapeake,1/12/21,10/01/2020
+'03823689,"Pat Johnson","1001 A Winged Foot Court ","Chesapeake","VA","23320","Director","Fairways Villas Owners Association",Condo,VA,23320,Chesapeake,1/12/21,10/01/2020
+'05302310,"Daniel Bradley","612 Farnham Court","Richmond","VA","23236","President","Fairways-willesden Owners Association",Condo,VA,23236,Chesterfield,1/12/21,10/28/2020
+'05302310,"Ray Dingledine","620 Farnham Circle","Richmond","VA","23236","Director","Fairways-willesden Owners Association",Condo,VA,23236,Chesterfield,1/12/21,10/28/2020
+'05302310,"Don Ford","621 Farnham Circle","N. Chesterfield","VA","23236","Treasurer","Fairways-willesden Owners Association",Condo,VA,23236,Chesterfield,1/12/21,10/28/2020
+'05302310,"Mike Chandler","603 Farnham Circle","Richamond","VA","23236","Secretary","Fairways-willesden Owners Association",Condo,VA,23236,Chesterfield,1/12/21,10/28/2020
+'05302310,"Terry Perkins","650 Farnham Circle","Richmond","VA","23236","Director","Fairways-willesden Owners Association",Condo,VA,23236,Chesterfield,1/12/21,10/28/2020
+'04029807,"Sandra Cary","89 E Dedham Street # 905","Boston","MA","02118","Treasurer","Fairwinds Community Association",HOA,VA,22124,Fairfax,1/12/21,01/09/2021
+'04029807,"Jessica Gurzo","11737 Saddle Crescent Circle","Oakton","VA","22124","President","Fairwinds Community Association",HOA,VA,22124,Fairfax,1/12/21,01/09/2021
+'04029807,"Brandi Antal","11727 Saddle Crescent Circle","Oakton","VA","22124","Vice President","Fairwinds Community Association",HOA,VA,22124,Fairfax,1/12/21,01/09/2021
+'04029807,"Marjorie Gill","11714 Saddle Crescent Circle","Oakton","VA","22124","Secretary","Fairwinds Community Association",HOA,VA,22124,Fairfax,1/12/21,01/09/2021
+'04029807,"Robert Putch","11715 Saddle Crescent Circle","Oakton","VA","22124","Director","Fairwinds Community Association",HOA,VA,22124,Fairfax,1/12/21,01/09/2021
+'06760565,"Richard Holden","3704 Farnsworth Drive","Chesapeake","VA","23321","President","Falcon Ridge At Leesville Lake Homeowner's Association",HOA,VA,23321,Chesapeake,1/12/21,06/04/2020
+'06760565,"Patricia H. Holden","3704 Farnsworth Drive","Chesapeake","VA","23321","Director","Falcon Ridge At Leesville Lake Homeowner's Association",HOA,VA,23321,Chesapeake,1/12/21,06/04/2020
+'01852474,"Margaret G. Walker","208 Falcon Ridge Road","Great Falls","VA","22066","Treasurer","Falcon Ridge Homes Association",HOA,VA,22066,Fairfax,1/12/21,11/25/2020
+'01852474,"Carlos Valerias","222 Falcon Ridge Road ","Great Falls","VA","22066","Director","Falcon Ridge Homes Association",HOA,VA,22066,Fairfax,1/12/21,11/25/2020
+'01852474,"David Warner","212 Falcon Ridge Road ","Great Falls","VA","22066","President","Falcon Ridge Homes Association",HOA,VA,22066,Fairfax,1/12/21,11/25/2020
+'04656302,"Edith Parish","11806 Hunting Ridge Drive","Fredericksburg","VA","22407","President","Falcon Ridge Property Owners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/07/2020
+'04656302,"Martha Adams","11909 Hunting Ridge Drive","Fredricksburg","VA","22407","Treasurer","Falcon Ridge Property Owners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/07/2020
+'04656302,"Vera Slemp","11803 Hunting Ridge Drive","Fredericksburg","VA","22407","Vice President","Falcon Ridge Property Owners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/07/2020
+'04656302,"Cathleen L. Turner","8115 Lake Pleasant Drive","Springfield","VA","22153","Secretary","Falcon Ridge Property Owners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/07/2020
+'04656302,"Linwood Walker","11512 Woodland View Drive","Fredericksburg","VA","22407","Director","Falcon Ridge Property Owners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/07/2020
+'08168874,"Randolph L. Smith","7521 Falkland Drive","Gainesville","VA","20155","Vice President","Falkland Farms Estates Homeowners Assoc",HOA,VA,20155,Prince William,1/12/21,09/10/2020
+'08168874,"Rosemary Ann Gaffney","7500 Bobedge Drive","Gainesville","VA","20155","Treasurer","Falkland Farms Estates Homeowners Assoc",HOA,VA,20155,Prince William,1/12/21,09/10/2020
+'08168874,"Edward T. Mclean","7571 Falkland Drive","Gainesville","VA","20155","President","Falkland Farms Estates Homeowners Assoc",HOA,VA,20155,Prince William,1/12/21,09/10/2020
+'06779680,"Jason Hopkins","4940 Old Main Street #101","Henrico","VA","23231","President","Fall Line Condominiums Association",Condo,VA,23231,Henrico,1/12/21,07/23/2020
+'06779680,"Jay Huggins","4940 Old Main Street #504","Henrico","VA","23231","Secretary","Fall Line Condominiums Association",Condo,VA,23231,Henrico,1/12/21,07/23/2020
+'06779680,"Karen Cooper","4940 Old Main Street #409","Henrico","VA","23231","Treasurer","Fall Line Condominiums Association",Condo,VA,23231,Henrico,1/12/21,07/23/2020
+'06779680,"Willie Mckinney","4940 Oid Main Street #603","Henrico","VA","23231","Director","Fall Line Condominiums Association",Condo,VA,23231,Henrico,1/12/21,07/23/2020
+'06779680,"Kevin Nielsen","4940 Old Main Street #307","Henrico","VA","23231","Vice President","Fall Line Condominiums Association",Condo,VA,23231,Henrico,1/12/21,07/23/2020
+'02068674,"Mike Fallon","12208 Sugar Maple Drive","Herndon","VA","20170","President","Falls Brook Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,05/04/2020
+'02068674,"Birt Webley","1131 Bandy Run Road ","Herndon","VA","20170","Vice President","Falls Brook Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,05/04/2020
+'02068674,"David E. Rogers","12208 Sugar Creek Court","Herndon","VA","20170","Treasurer","Falls Brook Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,05/04/2020
+'02068674,"Caroline Duff","12206 Sugar Creek Court","Herndon","VA","20170","Secretary","Falls Brook Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,05/04/2020
+'04057766,"Ellen A. Merry","1134 S Washington Street #203","Falls Church","VA","22046","Director","Falls Chase Condominium Unit Owners Association",Condo,VA,22046,Fairfax,1/12/21,01/27/2020
+'04057766,"Kimberly Ciccarelli","1136 S Washington Street #T1","Falls Church","VA","22046","President","Falls Chase Condominium Unit Owners Association",Condo,VA,22046,Fairfax,1/12/21,01/27/2020
+'04057766,"Wendy Stevens","1136 S Washington Street #102","Falls Church","VA","22046","Director","Falls Chase Condominium Unit Owners Association",Condo,VA,22046,Fairfax,1/12/21,01/27/2020
+'04057766,"Janis Thompson Larsen","1138 S Washington Street #201","Falls Church","VA","22046","Treasurer","Falls Chase Condominium Unit Owners Association",Condo,VA,22046,Fairfax,1/12/21,01/27/2020
+'04057766,"Beverly L. Mattson","1134 S Washington Street #T2","Falls Church","VA","22046","Secretary","Falls Chase Condominium Unit Owners Association",Condo,VA,22046,Fairfax,1/12/21,01/27/2020
+'05510060,"Jeffrey Hagler","Po Box 6706","Falls Church","VA","22040","President","Falls Church Crest Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,11/10/2020
+'05510060,"Andrew Mason","Po Box 6706","Falls Church","VA","22040","Vice President","Falls Church Crest Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,11/10/2020
+'05510060,"William Romenius","Po Box 6706","Falls Church","VA","22040","Director","Falls Church Crest Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,11/10/2020
+'04795761,"Danny Smith","2836 Little Falls Place","Falls Church","VA","22042","President","Falls Court Homeowners' Association",HOA,VA,22042,Fairfax,1/12/21,12/29/2020
+'04795761,"Mattthew Kuldell","2810 Little Fall Place","Falls Church","VA","22042","Vice President","Falls Court Homeowners' Association",HOA,VA,22042,Fairfax,1/12/21,12/29/2020
+'04795761,"William D. Farnam","2830 Little Falls Place","Falls Church","VA","22042","Director","Falls Court Homeowners' Association",HOA,VA,22042,Fairfax,1/12/21,12/29/2020
+'05906961,"James Hick","823 Falls Creek Drive","Chesapeake","VA","23322","President","Falls Creek Property Owners' Association",HOA,VA,23322,Chesapeake,1/12/21,01/13/2021
+'05906961,"Paul Stearns","836 Falls Creek Drive","Chesapeake","VA","23322","Treasurer","Falls Creek Property Owners' Association",HOA,VA,23322,Chesapeake,1/12/21,01/13/2021
+'05906961,"Herbert Mumford","701 Falls Creek Court","Chesapeake","VA","23322","Vice President","Falls Creek Property Owners' Association",HOA,VA,23322,Chesapeake,1/12/21,01/13/2021
+'07389380,"Christopher Sheng","2651 Brayden Court","Falls Church","VA","22043","President","Falls Crest Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,05/22/2020
+'07389380,"Bryan Pynchon","2650 Brayden Court","Falls Church","VA","22043","Vice President","Falls Crest Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,05/22/2020
+'07389380,"Arcel Castillo","2654 Brayden Court","Falls Church","VA","22043","Director","Falls Crest Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,05/22/2020
+'07721103,"Tracy Graves","1886 Metro Center Dr; 4th Fl","Reston","VA","20190","President","Falls Grove Homeowners Association",HOA,VA,20111,Prince William,1/12/21,02/07/2020
+'07721103,"David Becerra","1886 Metro Center Dr4th Floor","Reston","VA","20190","Vice President","Falls Grove Homeowners Association",HOA,VA,20111,Prince William,1/12/21,02/07/2020
+'07721103,"Tyrone Boddie","8104 Levi Cr # 6","Manassas","VA","20111","President","Falls Grove Homeowners Association",HOA,VA,20111,Prince William,1/12/21,02/07/2020
+'07721103,"Carmelita Wesley","8116 Levi Ct","Manassas","VA","20111","Vice President","Falls Grove Homeowners Association",HOA,VA,20111,Prince William,1/12/21,02/07/2020
+'01603976,"Lahshmi Laszlo","10510 Cavalcade Street","Great Falls","VA","22066","President","Falls Manor Community Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,08/02/2019
+'01603976,"Steve Nichols","10621 Cavalcade Street","Great Falls","VA","22066","Vice President","Falls Manor Community Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,08/02/2019
+'01603976,"Paul J. Summers","932 War Admiral Street","Great Falls","VA","22066","Vice President","Falls Manor Community Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,08/02/2019
+'01603976,"John Morgan","10616 Cavalcade Street","Great Falls","VA","22066","Treasurer","Falls Manor Community Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,08/02/2019
+'01603976,"Marisa Zavislak","930 War Admiral","Great Falls","VA","22066","Treasurer","Falls Manor Community Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,08/02/2019
+'04425666,"Richard Kendrick","144 Rees Place","Falls Church","VA","22046","Treasurer","Falls Park Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,01/30/2020
+'04425666,"James Klemic","132 Rees Place","Falls Church","VA","22046","Director","Falls Park Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,01/30/2020
+'04425666,"Michael Mort","154 Rees Place","Falls Church","VA","22046","President","Falls Park Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,01/30/2020
+'04425666,"Susan Green","160 Rees Place","Falls Church","VA","22046","Secretary","Falls Park Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,01/30/2020
+'04425666,"William Pedersen","146 Rees Place","Falls Church","VA","22046","Director","Falls Park Homeowners Association",HOA,VA,22046,Fairfax,1/12/21,01/30/2020
+'03848777,"Amy Yam","2406 Falls Place Court ","Falls Church","VA","22043","Vice President","Falls Place Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,01/14/2021
+'03848777,"Lou Kauffman","2422 Falls Place Ct","Falls Church","VA","22043","President","Falls Place Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,01/14/2021
+'03848777,"Michael Ryan","2413 Falls Place Court","Falls Church","VA","22043","Treasurer","Falls Place Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,01/14/2021
+'03848777,"Cathy Baumer","2411 Falls Place Court ","Falls Church","VA","22043","Secretary","Falls Place Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,01/14/2021
+'05797568,"Constance Block","7 Carson Drive","Fredericksburg","VA","22406","Secretary","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05797568,"Richard Chevrette","15 Calloway Drive","Fredericksburg","VA","22406","President","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05797568,"Virginia Closs","15 Shadwell Ct","Fredericksburg","VA","22406","Vice President","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05797568,"Christine Nace","10 Hanover Drive","Fredericksburg","VA","22046","Director","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05797568,"John Deegan Jr.","32 Highlander Drive","","VA","22406","Director","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05797568,"Elizabeth  Kelley","2 Ashland Circle","Fredericksburg","VA","22406","Treasurer","Falls Run Community Association",HOA,VA,22406,Fredericksburg,1/12/21,07/06/2020
+'05547146,"Shephard W. Hill","Po Box 112","Great Falls","VA","22066","President","Falls Run Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,02/18/2020
+'05547146,"Steven Walker","Po Box 112","Great Falls","VA","22066","Vice President","Falls Run Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,02/18/2020
+'05547146,"Raj Patil","Po Box 112","Great Falls","VA","22066","Treasurer","Falls Run Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,02/18/2020
+'06412100,"Margaret Jackisch","6908 Fairfax Drive #110","Arlington","VA","22213","Vice President","Falls Station Condominium",Condo,VA,22213,Arlington,1/12/21,08/20/2020
+'06412100,"Franz Gimmler","6924 Fairfax Drive #130","Arlington","VA","22213","Director","Falls Station Condominium",Condo,VA,22213,Arlington,1/12/21,08/20/2020
+'06412100,"Richard Payling-Wright","6924 Fairfax Drive #414","Arlington","VA","22213","Treasurer","Falls Station Condominium",Condo,VA,22213,Arlington,1/12/21,08/20/2020
+'06412100,"Chloie M. Favinger","6916 Fairfax Drive #114","Arlington","VA","22213","Secretary","Falls Station Condominium",Condo,VA,22213,Arlington,1/12/21,08/20/2020
+'06412100,"Gregory Girardin","6916 N Fairfax Drive #200","Arlington","VA","22213","President","Falls Station Condominium",Condo,VA,22213,Arlington,1/12/21,08/20/2020
+'04508446,"Daniel Smith","6252 Dubin Drive","Alexandria","VA","22310","President","Fallstone Of Alexandria Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,09/30/2019
+'04508446,"Jay Ryan","6256 Harbin Drive","Alexandria","VA","22310","Vice President","Fallstone Of Alexandria Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,09/30/2019
+'04508446,"Stephen Dinos","6255 Harbin Drive ","Alex","VA","22310","Treasurer","Fallstone Of Alexandria Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,09/30/2019
+'04508446,"Betty Hobbs","6259 Harbin Drive","Alex","VA","22310","Secretary","Fallstone Of Alexandria Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,09/30/2019
+'04508446,"Jennifer Stepetic","6260 Harbin Drive","Alexandria","VA","22310","Director","Fallstone Of Alexandria Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,09/30/2019
+'04422119,"Jack Espinal","3011 Fallswood Glen Court","Falls Church","VA","22044","President","Fallswood Court Homeowners Association",HOA,VA,22044,Fairfax,1/12/21,01/15/2021
+'04422119,"David Wolfe","3022 Fallswood Glen Ct","Falls Church","VA","22044","Vice President","Fallswood Court Homeowners Association",HOA,VA,22044,Fairfax,1/12/21,01/15/2021
+'04422119,"Marianne Maher-Kolcio","3005 Fallswood Glen Court","Falls Church","VA","22044","Treasurer","Fallswood Court Homeowners Association",HOA,VA,22044,Fairfax,1/12/21,01/15/2021
+'04422119,"Janice Wise","3014 Fallswood Glen Court","Falls Church","VA","22044","Secretary","Fallswood Court Homeowners Association",HOA,VA,22044,Fairfax,1/12/21,01/15/2021
+'04422119,"Mary Lyn Field-Nguer","3011 Fallswood Glen Ct","Falls Church","VA","22044","Director","Fallswood Court Homeowners Association",HOA,VA,22044,Fairfax,1/12/21,01/15/2021
+'06365878,"Kirk A. Boyd","810 Olde Georgetown Ct","Great Falls","VA","22066","Director","Fallswood Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,04/02/2020
+'06365878,"Mike Mccarthy","806 Olde Georgetown Ct","Great Falls","VA","22066","Director","Fallswood Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,04/02/2020
+'06365878,"T. Mark Flanagan,Jr.","805 Olde Georgetown Court","Great Falls","VA","22066","President","Fallswood Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,04/02/2020
+'06365878,"Angelantonio Dell'Atti","812 Old Georgetown Court","Great Falls","VA","22066","Treasurer","Fallswood Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,04/02/2020
+'04343398,"Carl D. Moje","1615 Far Hills Road","Charlottesville","VA","22901","Secretary","Far Hills Owners Association",HOA,VA,22901,Albemarle,1/12/21,09/09/2020
+'04343398,"Caroline Dessouky","1485 Yellow Wood Drive","Charlottesville","VA","22901","President","Far Hills Owners Association",HOA,VA,22901,Albemarle,1/12/21,09/09/2020
+'04343398,"Thomas Albro","1893 Green Beech Drive","Charlottesville","VA","22901","Director","Far Hills Owners Association",HOA,VA,22901,Albemarle,1/12/21,09/09/2020
+'04343398,"William M. Detmer","1459 Golden Chain Lane","Charlottesville","VA","22901","Treasurer","Far Hills Owners Association",HOA,VA,22901,Albemarle,1/12/21,09/09/2020
+'04343398,"Karen Riordan","1390 Corktree Lane","Charlottesville","VA","22901","President","Far Hills Owners Association",HOA,VA,22901,Albemarle,1/12/21,09/09/2020
+'02542520,"John Coleman","214 Lawton Street","Falls Church","VA","22046","President","Faraday Professional Center Owners Association",Condo,VA,20190,Fairfax,1/12/21,02/14/2020
+'02542520,"Charles Burt","1800 Michael Faraday Drive #204","Reston","VA","20190","Vice President","Faraday Professional Center Owners Association",Condo,VA,20190,Fairfax,1/12/21,02/14/2020
+'02542520,"Kim Hendon","397 Herndon Pkwy #100","Herndon","VA","20170","Treasurer","Faraday Professional Center Owners Association",Condo,VA,20190,Fairfax,1/12/21,02/14/2020
+'02542520,"Bob Mitchell","1800 Michael Faraday Drive #104","Reston","VA","20190","Treasurer","Faraday Professional Center Owners Association",Condo,VA,20190,Fairfax,1/12/21,02/14/2020
+'02542520,"David Surprise","1810 Michael Faraday Drive #203","Reston","VA","20190","Secretary","Faraday Professional Center Owners Association",Condo,VA,20190,Fairfax,1/12/21,02/14/2020
+'04370045,"William  Carter","9360 Pamunky Crest Drive","Mechanicsville","VA","23111","President","Farmington Farms Homeowners Association",HOA,VA,23111,Hanover,1/12/21,10/02/2020
+'04370045,"Robert  Stimpson","1966 Retreat Drive","","VA","23111","Secretary","Farmington Farms Homeowners Association",HOA,VA,23111,Hanover,1/12/21,10/02/2020
+'04370045,"Judith Tidd","2018 Retreat Drive","","VA","23111","Treasurer","Farmington Farms Homeowners Association",HOA,VA,23111,Hanover,1/12/21,10/02/2020
+'03228533,"Marcus Lopez","36538 Innisbrook Circle","Purcellville","VA","20132","President","Farmington On The Green Homeowners Association",HOA,VA,20132,Loudoun,1/12/21,05/07/2020
+'03228533,"Frank Stearns","36604 Innisbrook Circle","Purcellville","VA","20132","Vice President","Farmington On The Green Homeowners Association",HOA,VA,20132,Loudoun,1/12/21,05/07/2020
+'03228533,"Jeff Mitchell","36605 Innisbrook Circle ","Purcellville","VA","20132","Treasurer","Farmington On The Green Homeowners Association",HOA,VA,20132,Loudoun,1/12/21,05/07/2020
+'03228533,"Richard Witherspoon","17002 Lakewood Ct","Purcellville","VA","20132","Secretary","Farmington On The Green Homeowners Association",HOA,VA,20132,Loudoun,1/12/21,05/07/2020
+'01232131,"Jon Cole","285 Farmington Drive","Charlottesville","VA","22901","President","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Kari Couling","1170 Tennis Road","Charlottesville","VA","22901","Secretary","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Catherine Stuart Greer","2485 N Dogwood Lane","Charlottesville","VA","22901","Director","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Thomas Foster","1545 Brook Hill Lane","Charlottesville","VA","22901","Treasurer","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Anne Jones","676 IVy Lane","Charlottesville","VA","22901","Director","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Sally Carroll","750 Covey Hill Road","Charlottesville","VA","22901","Director","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Deborah Rowe","2740 Farmington Heights","Charlottesville","VA","22901","Director","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'01232131,"Kacie Snellings","720 Covey Hill Road","Charlottesville","VA","22901","Director","Farmington Property Owners Association",HOA,VA,22901,Albemarle,1/12/21,01/15/2021
+'04477311,"Greg Luczyk","P O Box 1423","Ashburn","VA","20147","President","Farmwell Hunt Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,09/18/2020
+'04477311,"Jignesh Gandhi","21401 Fitzgerald Drive","Ashburn","VA","20147","Director","Farmwell Hunt Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,09/18/2020
+'04477311,"Laurie Keefe","21364 Hansberry Terrace","Ashburn","VA","20147","Secretary","Farmwell Hunt Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,09/18/2020
+'04477311,"Ryan Timm","43598 Milby Ct","Ashburn","VA","20147","Director","Farmwell Hunt Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,09/18/2020
+'04477311,"Jason Garman","43802 Abbott Place","Ashburn","VA","20147","Director","Farmwell Hunt Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,09/18/2020
+'06497820,"Fred Barham","5220 Elston Lane ","Virginia Beach","VA","23455","Treasurer","Farrcroft At Ridgely Manor Condominium Association",Condo,VA,23455,Virginia Beach,1/12/21,12/07/2020
+'06497820,"Kristina Hodges","1005 Gamston Lane","Virginia Beach","VA","23455","Secretary","Farrcroft At Ridgely Manor Condominium Association",Condo,VA,23455,Virginia Beach,1/12/21,12/07/2020
+'06497820,"Stephen C. Kurz","1160 Farrcroft Way","Va Beach","VA","23455","President","Farrcroft At Ridgely Manor Condominium Association",Condo,VA,23455,Virginia Beach,1/12/21,12/07/2020
+'06497820,"Keri Jenkins","1021 Farrcroft Way","Va Beach","VA","23455","Vice President","Farrcroft At Ridgely Manor Condominium Association",Condo,VA,23455,Virginia Beach,1/12/21,12/07/2020
+'06497820,"Sheila Dall","1225 Farrcroft Way","Virginia Beach","VA","23455","Director","Farrcroft At Ridgely Manor Condominium Association",Condo,VA,23455,Virginia Beach,1/12/21,12/07/2020
+'05048962,"Todd Hardiman","10082 Daniels Run Way","Fairfax","VA","22030","President","Farrcroft Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/26/2020
+'05048962,"Thomas Eccles","3844 Farr Oak Circle","Fairfax","VA","22030","Secretary","Farrcroft Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/26/2020
+'05048962,"Tony J. Cothron","10095 Cover Place","Fairfax","VA","22030","Treasurer","Farrcroft Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/26/2020
+'05048962,"Dhiraj Gulati","10083 Daniel's Run Way","Fairfax","VA","22030","Vice President","Farrcroft Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/26/2020
+'05048962,"Ann O. Wickersham","3865 Lewiston Place","Fairfax","VA","22030","Director","Farrcroft Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,06/26/2020
+'07910953,"Theo J. De Wolff","12610 Lizfield Way","Glen Allen","VA","23059","President","Farrington Place Homeowners' Association",HOA,VA,23059,Hanover,1/12/21,12/22/2020
+'07910953,"Elizabeth D. Dewolff","12610 Lizfield Way","Glen Allen","VA","23059","Treasurer","Farrington Place Homeowners' Association",HOA,VA,23059,Hanover,1/12/21,12/22/2020
+'07821705,"Holly Cameron","2325 N Quebec Street","Arlington","VA","22207","President","Farrington Ridge Homeowners Association",HOA,VA,22207,Arlington,1/12/21,09/18/2020
+'07821705,"Farhad Bassirat","2329 N Quebec Street","Arlington","VA","22207","Vice President","Farrington Ridge Homeowners Association",HOA,VA,22207,Arlington,1/12/21,09/18/2020
+'06079099,"Saleem Ahmad","21799 Ladyslipper Square","Ashburn","VA","20147","Treasurer","Faulkner's Landing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,12/14/2020
+'06079099,"Amos Hewitt","21842 Ladyslipper Square","Ashburn","VA","20147","Secretary","Faulkner's Landing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,12/14/2020
+'06079099,"Barbara Stamps","21838 Ladyslipper Square","Ashburn","VA","20147","President","Faulkner's Landing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,12/14/2020
+'06079099,"Madina Tahiry","21846 Ladyslipper Square","Ashburn","VA","20147","Vice President","Faulkner's Landing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,12/14/2020
+'03704525,"Gregory Wells","500 N Hurstone Place #400","Louisiville","KY","40222","Vice President","Fawn Lake Community Association",HOA,VA,22551,Spotsylvania,1/12/21,12/27/2019
+'03704525,"Helen A. Bradley","11300 Longstreet Drive","Spotsylvania","VA","22551","Secretary","Fawn Lake Community Association",HOA,VA,22551,Spotsylvania,1/12/21,12/27/2019
+'03704525,"Stephen Gress, Jr.","11512 Henegan Place","Spotsylvania","VA","22551","President","Fawn Lake Community Association",HOA,VA,22551,Spotsylvania,1/12/21,12/27/2019
+'03704525,"James O'Donnell","11208 Chivadry Chase Lane","Spotsylvania","VA","22551","Director","Fawn Lake Community Association",HOA,VA,22551,Spotsylvania,1/12/21,12/27/2019
+'07922479,"Richard Entsminger","1355 Beverly Road #240","Mclean","VA","22101","Director","Featherstone Station Homeowners Association",HOA,VA,22191,Prince William,1/12/21,10/06/2020
+'07922479,"Joseph M. Jacobs","1355 Beverly Road #240","Mclean","VA","22101","Director","Featherstone Station Homeowners Association",HOA,VA,22191,Prince William,1/12/21,10/06/2020
+'07922479,"James Perry","1355 Beverly Road #240","Mclean","VA","22101","Director","Featherstone Station Homeowners Association",HOA,VA,22191,Prince William,1/12/21,10/06/2020
+'06489330,"Robert Cornman","603 Queensbury Lane","Williamsburg","VA","23185","Treasurer","Felgates Woods Homeowners Association",HOA,VA,23185,James City,1/12/21,12/29/2020
+'06489330,"Brian Jonigan","513 Queensbury Lane","Williamsburg","VA","23185","Vice President","Felgates Woods Homeowners Association",HOA,VA,23185,James City,1/12/21,12/29/2020
+'06489330,"Jim Frazier","810 Queensbury Lane","Williamsburg","VA","23185","President","Felgates Woods Homeowners Association",HOA,VA,23185,James City,1/12/21,12/29/2020
+'06489330,"Gwendolyn Vanburen","708 Queensbury Lane","Williamsburg","VA","23185","Director","Felgates Woods Homeowners Association",HOA,VA,23185,James City,1/12/21,12/29/2020
+'06489330,"Rositsa Ivanova","813 Queensbury Lane","Williamsburg","VA","23185","Secretary","Felgates Woods Homeowners Association",HOA,VA,23185,James City,1/12/21,12/29/2020
+'06918809,"Hilary Scherrer","2342 N Van Buren Court ","Arlington","VA","22205","President","Fenwick Court Homeowners Association",HOA,VA,22205,Arlington,1/12/21,01/27/2020
+'06918809,"Martha Olson","2338 N Van Buren Court ","Arlington","VA","22205","Director","Fenwick Court Homeowners Association",HOA,VA,22205,Arlington,1/12/21,01/27/2020
+'06918809,"Curt Hoelscher","2331 N Van Buren Ct","Arlington","VA","22205","Vice President","Fenwick Court Homeowners Association",HOA,VA,22205,Arlington,1/12/21,01/27/2020
+'04301784,"John Oliver","1203 Essex Manor Court","Alexandria","VA","22308","President","Fenwick Estates Homeowners Association",HOA,VA,22308,Alexandria,1/12/21,07/22/2020
+'04301784,"Kathleen Weisblatt","1204 Essex Manor Court","Alexandria","VA","22308","Vice President","Fenwick Estates Homeowners Association",HOA,VA,22308,Alexandria,1/12/21,07/22/2020
+'04301784,"Ines Thornburg","7629 Essex Manor Court","Alexandria","VA","22308","Vice President","Fenwick Estates Homeowners Association",HOA,VA,22308,Alexandria,1/12/21,07/22/2020
+'04301784,"David Dennison","7631 Essex Manor Court","Alexandria","VA","22308","Secretary","Fenwick Estates Homeowners Association",HOA,VA,22308,Alexandria,1/12/21,07/22/2020
+'04301784,"Leslie Carney","7621 Admiral Drive","Alexandria","VA","22308","Director","Fenwick Estates Homeowners Association",HOA,VA,22308,Alexandria,1/12/21,07/22/2020
+'05271697,"Jody Greason","1621 Godfrey Lane","Virginia Beach","VA","23454","Treasurer","Ferebee Cove Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,07/23/2019
+'05271697,"William S. Tennant","1625 Godfrey Lane","Va Beach","VA","23454","President","Ferebee Cove Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,07/23/2019
+'05271697,"Nancy Hines","1629 Godfrey Lane","Va Beach","VA","23454","Director","Ferebee Cove Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,07/23/2019
+'05271697,"Doug Altamura","1637 Godfrey Lane","Va Beach","VA","23454","Vice President","Ferebee Cove Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,07/23/2019
+'05271697,"Jenn Altamura","1637 Godfrey Lane","Va Beach","VA","23454","Secretary","Ferebee Cove Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,07/23/2019
+'03685708,"Terry Feagler","408 Ferguson Bend","Yorktown","VA","23693","Director","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'03685708,"Fred Ardis","325 Ferguson Bend","Yorktown","VA","23693","President","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'03685708,"Jeff Brown","321 Ferguson Bend","Yorktown","VA","23693","Vice President","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'03685708,"Joe Haxlay","104 Fergusin Bend","Yorktown","VA","23693","Treasurer","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'03685708,"Teri Feagler","408 Ferguson Bend","","VA","23693","Director","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'03685708,"Michael Sears","343 Fergusin Bend","Yorktown","VA","23693","Secretary","Ferguson Glade Owner's Association",HOA,VA,23693,York,1/12/21,12/07/2020
+'04833505,"Shari Walsh","14500 Meeting Camp Road ","Centerville","VA","20121","President","Fern Woods Homeowners Association",HOA,VA,20121,Fairfax,1/12/21,03/04/2020
+'04833505,"Tiffany Upshaw","6700 Mossy Bank Lane","Centreville","VA","20121","Treasurer","Fern Woods Homeowners Association",HOA,VA,20121,Fairfax,1/12/21,03/04/2020
+'04833505,"Pamela Sarlouis","14506 Meeting Camp Road","Centrevielle","VA","20121","Secretary","Fern Woods Homeowners Association",HOA,VA,20121,Fairfax,1/12/21,03/04/2020
+'04833505,"Okyay Nalcaoglu","6702 Mossy Bank Lane","Centreville","VA","20121","Vice President","Fern Woods Homeowners Association",HOA,VA,20121,Fairfax,1/12/21,03/04/2020
+'05165949,"Kevin A. Clancey","3720 Captain Wynne Drive","Williamsburg","VA","23185","Treasurer","Fernbrook Homeowners Association",HOA,VA,23185,James City,1/12/21,01/15/2020
+'05165949,"James Mefford","3721 General Gookin Court","Williamsburg","VA","23185","Vice President","Fernbrook Homeowners Association",HOA,VA,23185,James City,1/12/21,01/15/2020
+'05165949,"Richard S. Atkinson","2796 Jonas Profit Trail","Williamsburg","VA","23185","President","Fernbrook Homeowners Association",HOA,VA,23185,James City,1/12/21,01/15/2020
+'05165949,"Mike Mitchell","3720 Captain Wynne Drive","Williamsburg","VA","23185","Director","Fernbrook Homeowners Association",HOA,VA,23185,James City,1/12/21,01/15/2020
+'05165949,"B. J.  Hennessey","2880 Jonas Profit Trail","Williamsburg","VA","23185","Director","Fernbrook Homeowners Association",HOA,VA,23185,James City,1/12/21,01/15/2020
+'06743660,"Glenda Barnes","9508 Ferry Hall Ct","","VA","22309","President","Ferry Landing Preserve Homeowners Association",HOA,VA,22309,Alexandria,1/12/21,02/10/2020
+'06743660,"Mary Ellen Khosia","9504 Ferry Hall Ct","","VA","22309","Vice President","Ferry Landing Preserve Homeowners Association",HOA,VA,22309,Alexandria,1/12/21,02/10/2020
+'06743660,"Emily Lussier","9512 Ferry Hall Ct","Alexandria","VA","22309","Treasurer","Ferry Landing Preserve Homeowners Association",HOA,VA,22309,Alexandria,1/12/21,02/10/2020
+'02873719,"Pam Grobmyer","1818 Hearthglow Lane","","VA","22901","President","Fieldbrook Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,05/20/2020
+'02873719,"Ruth Kidney","1810 Hearthglow Lane ","Charlottesville","VA","22901","Vice President","Fieldbrook Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,05/20/2020
+'02873719,"Erin Sanchez","1791 Heathglow Lane","","VA","22901","Treasurer","Fieldbrook Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,05/20/2020
+'02873719,"Kathie Joseph","1797 Hearthglow Lane ","Charlottesville","VA","22901","Secretary","Fieldbrook Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,05/20/2020
+'02873719,"Rich Lacasse","1971 Redington Lane ","","VA","22901","Director","Fieldbrook Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,05/20/2020
+'03445517,"William Stutz","3516 Mallard Cove","Williamsburg","VA","23185","President","Fieldcrest Homeowners Association",HOA,VA,23185,James City,1/12/21,11/06/2103
+'03445517,"Christine Collins","3214 Deerfield Court","Williamsburg","VA","23185","Vice President","Fieldcrest Homeowners Association",HOA,VA,23185,James City,1/12/21,11/06/2103
+'03445517,"Wences Anguzo","3512 Robins Way","","VA","23185","Treasurer","Fieldcrest Homeowners Association",HOA,VA,23185,James City,1/12/21,11/06/2103
+'03445517,"Alisa Smith","3509 Robins Way","Williamsburg","VA","23185","Secretary","Fieldcrest Homeowners Association",HOA,VA,23185,James City,1/12/21,11/06/2103
+'03445517,"Kristy Walls","3513 Neal Court","","VA","23185","Director","Fieldcrest Homeowners Association",HOA,VA,23185,James City,1/12/21,11/06/2103
+'06352629,"Deana Czaban","19505 Airwell Court","Purcelleville","VA","20132","Treasurer","Fieldstone Farm Community Association",HOA,VA,20132,Loudoun,1/12/21,03/26/2020
+'06352629,"Amy L. Cornell","35770 Canvas Lane","Purcellville","VA","20132","Secretary","Fieldstone Farm Community Association",HOA,VA,20132,Loudoun,1/12/21,03/26/2020
+'06352629,"John R. Smith","35738 Portrait Vista Lane","Purcellville","VA","20132","Director","Fieldstone Farm Community Association",HOA,VA,20132,Loudoun,1/12/21,03/26/2020
+'07063969,"Janelle Erica-Star Nelson","17 Stratum Way","Hampton","VA","23661","Secretary","Fieldstone Glen At Aberdeen Condominium Association",Condo,VA,23661,Hampton,1/12/21,02/28/2020
+'07063969,"Tia Peterson","37 Stratum Way","Hampton","VA","23661","President","Fieldstone Glen At Aberdeen Condominium Association",Condo,VA,23661,Hampton,1/12/21,02/28/2020
+'07063969,"Tomekia Moore-Rouse","18 Stratum Way","Hampton","VA","23661","Treasurer","Fieldstone Glen At Aberdeen Condominium Association",Condo,VA,23661,Hampton,1/12/21,02/28/2020
+'07063969,"Linda C. Whitfield","3 Stratum Way","Hampton","VA","23661","Secretary","Fieldstone Glen At Aberdeen Condominium Association",Condo,VA,23661,Hampton,1/12/21,02/28/2020
+'06706766,"Russell Greggs","1332 Abelia Way","Virginia Beach","VA","23454","President","Fieldstone Glen Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,04/10/2020
+'06706766,"Jennifer Dolchite","409 Fieldstone Glen Way","Virginia Beach","VA","23454","Vice President","Fieldstone Glen Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,04/10/2020
+'06706766,"Mark Smit","1348 Abelia Way","","VA","23454","Treasurer","Fieldstone Glen Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,04/10/2020
+'06706766,"Bonnie Firman","437 Fieldstone","","VA","23454","Secretary","Fieldstone Glen Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,04/10/2020
+'06706766,"George Sorrentino","437 Fieldstone Glen Way","","VA","23454","Director","Fieldstone Glen Condominium Association",Condo,VA,23454,Virginia Beach,1/12/21,04/10/2020
+'06061535,"Cory Perloff","236 Rebecca Drive","Winchester","VA","22603","Treasurer","Fieldstone Homeowners Association",HOA,VA,22602,Frederick,1/12/21,11/25/2020
+'06061535,"J. Carl Setzer","201 Rebecca Drive","Winchester","VA","22602","President","Fieldstone Homeowners Association",HOA,VA,22602,Frederick,1/12/21,11/25/2020
+'06061535,"Gerald F. Caffrey","202 Rebecca Drive","Winchester","VA","22602","Vice President","Fieldstone Homeowners Association",HOA,VA,22602,Frederick,1/12/21,11/25/2020
+'06061535,"Todd Lockcuff","113 Nassau Drive","Winchester","VA","22602","Secretary","Fieldstone Homeowners Association",HOA,VA,22602,Frederick,1/12/21,11/25/2020
+'06061535,"William Nohie","121 Nassau Drive","Winchester","VA","22602","Director","Fieldstone Homeowners Association",HOA,VA,22602,Frederick,1/12/21,11/25/2020
+'06626444,"Stacey  Spadafora","203 Cobblestone Drive","Winchester","VA","22602","Treasurer","Fieldstone Townhome Association",HOA,VA,22602,Frederick,1/12/21,05/18/2020
+'06626444,"Janis Baldwin","107 Kingsley Drive","Winchester","VA","22602","Vice President","Fieldstone Townhome Association",HOA,VA,22602,Frederick,1/12/21,05/18/2020
+'06626444,"Theodore Theologis","Po Box 6721","","VA","22106","President","Fieldstone Townhome Association",HOA,VA,22602,Frederick,1/12/21,05/18/2020
+'04834164,"Joseph Klingshirn","100 Chanticlair Drive","Yorktown","VA","23693","President","Finch Terrace Owner's Association",HOA,VA,23693,York,1/12/21,04/26/2019
+'04834164,"Adrienne Lewis","119 Belmont Cirle","Yorktown","VA","23693","Vice President","Finch Terrace Owner's Association",HOA,VA,23693,York,1/12/21,04/26/2019
+'04834164,"Brittany Collins","240 Belmont Circle","Yorktown","VA","23693","Secretary","Finch Terrace Owner's Association",HOA,VA,23693,York,1/12/21,04/26/2019
+'04834164,"Samuel Mabry","112 Chanticlair Drive","Yorktown","VA","23693","Director","Finch Terrace Owner's Association",HOA,VA,23693,York,1/12/21,04/26/2019
+'07233232,"James Dudley Howard","511 Elnor Road","Bumpass","VA","23024","President","Finney Estates Homeowners Association",HOA,VA,22551,Spotsylvania,1/12/21,03/31/2020
+'07233232,"Kathleen Charlotte Loveless","6911 Cloudy Way","Spotsylvania","VA","22551","Secretary","Finney Estates Homeowners Association",HOA,VA,22551,Spotsylvania,1/12/21,03/31/2020
+'05616891,"Cheng Yu Huang","12412 Castner Court","Fairfax","VA","22030","President","First Addition To Cannon Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,07/13/2020
+'05616891,"Tuan Ngo","12416 Castner Ct","Fairfax","VA","22030","Director","First Addition To Cannon Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,07/13/2020
+'05616891,"Sherry Brown","12415 Castner Court","Fairfax","VA","22030","Secretary","First Addition To Cannon Ridge Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,07/13/2020
+'05418785,"Robert Ulrich","11919 First Branch Court ","Chesterfield","VA","23838","President","First Branch At Woodland Pond Community Association",HOA,VA,23838,Chesterfield,1/12/21,07/28/2020
+'05418785,"Brandon Smith","8700 First Branch Lane ","Chesterfield","VA","23838","Treasurer","First Branch At Woodland Pond Community Association",HOA,VA,23838,Chesterfield,1/12/21,07/28/2020
+'05418785,"Rhonda Jean Kyanko","11924 Brook Pt Place","Chesterfield","VA","23838","Secretary","First Branch At Woodland Pond Community Association",HOA,VA,23838,Chesterfield,1/12/21,07/28/2020
+'02462729,"Michael Yu","9916 Oakdale Woods Court","Vienna","VA","22181","Treasurer","First Oakton Place Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,01/05/2021
+'02462729,"Denny Lienau","9920 Oakdale Woods Ct","Vienna","VA","22181","Vice President","First Oakton Place Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,01/05/2021
+'02462729,"Owen Munford","9900 Oakdale Woods Court ","Vienna","VA","22181","President","First Oakton Place Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,01/05/2021
+'01753318,"Lindsay Rovde","4600 Duke Street #331","Alexandria","VA","22304","Vice President","First Owners' Association Of Forty Six Hundred Condominium",Condo,VA,22304,Alexandria,1/12/21,05/04/2020
+'01753318,"Gregory Stull","4600 Duke Street #1212","Alexandria","VA","22304","Treasurer","First Owners' Association Of Forty Six Hundred Condominium",Condo,VA,22304,Alexandria,1/12/21,05/04/2020
+'01753318,"Carol Montague","4600 Duke Street #1404","Alexandria","VA","22304","Secretary","First Owners' Association Of Forty Six Hundred Condominium",Condo,VA,22304,Alexandria,1/12/21,05/04/2020
+'01753318,"Linda Valenzano","4600 Duke Street #1210","Alexandria","VA","22304","Director","First Owners' Association Of Forty Six Hundred Condominium",Condo,VA,22304,Alexandria,1/12/21,05/04/2020
+'01753318,"David Fochtman","4600 Duke Street #1600","Alexandria","VA","22304","President","First Owners' Association Of Forty Six Hundred Condominium",Condo,VA,22304,Alexandria,1/12/21,05/04/2020
+'01779701,"Vicci Lancaster","2749 Carter Farm Court","Alexandria","VA","22306","President","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'01779701,"Michael Niles","8256 Clifton Farm Ct","Alexandria","VA","22306","Treasurer","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'01779701,"Gretchen Raber","2753 Carter Farm Ct","Alexandria","VA","22306","Vice President","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'01779701,"Jacqueline Washington","8200 Clifton Farm Court ","Alexandria","VA","22306","Secretary","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'01779701,"Jennifer Russell","8200 Cedar Landing Court ","Alexandria","VA","22306","Director","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'01779701,"Marina Hoffman","8217 Lafaye Ct","Alexandria","VA","22306","Director","First River Farms Association",HOA,VA,22306,Alexandria,1/12/21,08/03/2020
+'07015589,"Elonzia Holmes","115 Keeper Street","Portsmouth","VA","23703","President","First Watch At River Pointe Unit Owners Association",Condo,VA,23703,Portsmouth,1/12/21,10/22/2020
+'07015589,"Ira Mcmillan","112 Nautico Way","Portsmouth","VA","23703","Vice President","First Watch At River Pointe Unit Owners Association",Condo,VA,23703,Portsmouth,1/12/21,10/22/2020
+'07015589,"Wycliffe Miller","174 Nautico Way","Portsmouth","VA","23703","Treasurer","First Watch At River Pointe Unit Owners Association",Condo,VA,23703,Portsmouth,1/12/21,10/22/2020
+'07015589,"Barbara Harrison","168 Nautico Way","Portsmouth","VA","25703","Secretary","First Watch At River Pointe Unit Owners Association",Condo,VA,23703,Portsmouth,1/12/21,10/22/2020
+'07015589,"Kenyata H. Williams","104 Keeper Street","Portsmouth","VA","23703","Director","First Watch At River Pointe Unit Owners Association",Condo,VA,23703,Portsmouth,1/12/21,10/22/2020
+'03433901,"Neil O'Connor","180 Point Heron","Newport News","VA","23606","Secretary","Fisher's Landing Homeowners' Association",HOA,VA,23606,Newport News,1/12/21,09/04/2020
+'03433901,"Robert E. Yancey","168 Reynolds Drive","Newport News","VA","23606","Director","Fisher's Landing Homeowners' Association",HOA,VA,23606,Newport News,1/12/21,09/04/2020
+'03433901,"Eric Kean","160 Point Heron Drive","Newport News","VA","23606","President","Fisher's Landing Homeowners' Association",HOA,VA,23606,Newport News,1/12/21,09/04/2020
+'03433901,"Martha Miller","162 Point Heron Drive","Newport News","VA","23606","Treasurer","Fisher's Landing Homeowners' Association",HOA,VA,23606,Newport News,1/12/21,09/04/2020
+'05668397,"Donn Hall","46 Ironwood Road","Fredericksburg","VA","22405","President","Fitzhugh Homeowners Association",HOA,VA,22405,Fredericksburg,1/12/21,10/16/2020
+'05668397,"Andrew Wright","32 IVy Creek Lane","Fredericksburg","VA","22405","Vice President","Fitzhugh Homeowners Association",HOA,VA,22405,Fredericksburg,1/12/21,10/16/2020
+'05668397,"Clay Oliver","74 Ironwood Road ","Fredericksburg","VA","22405","Treasurer","Fitzhugh Homeowners Association",HOA,VA,22405,Fredericksburg,1/12/21,10/16/2020
+'05668397,"Will Huffman","92 IVy Creek Lane","Fredericksburg","VA","22405","Secretary","Fitzhugh Homeowners Association",HOA,VA,22405,Fredericksburg,1/12/21,10/16/2020
+'03634573,"James J. J Johnson","7827 Mill River Court","Chesterfield","VA","23832","President","Five Forks Village Community Association",HOA,VA,23832,Chesterfield,1/12/21,10/16/2020
+'03634573,"Dawn Miltier","7924 Waterman Lane","Chesterfield","VA","23832","Director","Five Forks Village Community Association",HOA,VA,23832,Chesterfield,1/12/21,10/16/2020
+'03634573,"Carolyn Coleman","7924 Mill River Lane","Chesterfield","VA","23832","Vice President","Five Forks Village Community Association",HOA,VA,23832,Chesterfield,1/12/21,10/16/2020
+'03634573,"Andre Barnes","9019 Scotts Bluff Lane","","VA","23832","Treasurer","Five Forks Village Community Association",HOA,VA,23832,Chesterfield,1/12/21,10/16/2020
+'03634573,"Francis Burke","9119 Cascade Creek Land","","VA","23832","Director","Five Forks Village Community Association",HOA,VA,23832,Chesterfield,1/12/21,10/16/2020
+'06416275,"Chris Kaila","6320 Five Mile Centre Park","Fredericksburg","VA","22407","President","Five Mile Centre Park Condominium Owners Association",Condo,VA ,22407,Fredericksburg,1/12/21,05/27/2020
+'06416275,"Donna Hart","6308 Five Mile Central Park #215","Fredericksburg","VA","22407","Secretary","Five Mile Centre Park Condominium Owners Association",Condo,VA ,22407,Fredericksburg,1/12/21,05/27/2020
+'06416275,"Tony Coder","647 Avon Bend Road","Charlestown","WV","25404","Vice President","Five Mile Centre Park Condominium Owners Association",Condo,VA ,22407,Fredericksburg,1/12/21,05/27/2020
+'06416275,"Anne Motz","8456-a Tyco Road ","Vienna","VA","22182","Secretary","Five Mile Centre Park Condominium Owners Association",Condo,VA ,22407,Fredericksburg,1/12/21,05/27/2020
+'04784377,"Frank Hegeler","9725 Cheriton Court","Vienna","VA","22181","Secretary","Five Oaks Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,12/12/2019
+'04784377,"Diana Lohmeyer","9727 Cheriton Court ","Vienna","VA","22181","President","Five Oaks Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,12/12/2019
+'04784377,"Lomi Kil","9722 Cheriton Ct","Vienna","VA","22181","Vice President","Five Oaks Homeowners Association",HOA,VA,22181,Fairfax,1/12/21,12/12/2019
+'02552214,"Shelley Wreck","6409 Fleetside Ct","Alexandria","VA","22310","President","Fleetside Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,04/29/2020
+'02552214,"William J. Hannon","6418 Fleetside Ct","Alexandria","VA","22310","Treasurer","Fleetside Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,04/29/2020
+'02552214,"Eric Norton","6416 Fleetside Ct","Alexandria","VA","22310","Secretary","Fleetside Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,04/29/2020
+'02552214,"Guenet Fesseha","6411 Fleetside Ct","Alexandria","VA","22310","Vice President","Fleetside Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,04/29/2020
+'02018232,"Laura De Otalvaro","10419 Graystone Court ","Oakton","VA","22124","President","Flint Hill Manor Townhouses Association",HOA,VA,22124,Fairfax,1/12/21,12/16/2020
+'02018232,"Emily Jemison","10307 Granite Creek Lane","Oakton","VA","22124","Secretary","Flint Hill Manor Townhouses Association",HOA,VA,22124,Fairfax,1/12/21,12/16/2020
+'02018232,"Sani Mcdonough","10417 Graystone Court ","Oakton","VA","22124","Director","Flint Hill Manor Townhouses Association",HOA,VA,22124,Fairfax,1/12/21,12/16/2020
+'02018232,"Theresa Croson","10333 Granite Creek Lane ","Oakton","VA","22124","Vice President","Flint Hill Manor Townhouses Association",HOA,VA,22124,Fairfax,1/12/21,12/16/2020
+'03263100,"Chris Spangler","9707 Flint Hill Ct","Fredericksburg","VA","22407","Treasurer","Flint Hill Station Property Owners' Association",HOA,VA,22407,Fredericksburg,1/12/21,06/29/2020
+'03263100,"Michael Cotter","9700 Flint Hill Court","Fredericksburg","VA","22407","Director","Flint Hill Station Property Owners' Association",HOA,VA,22407,Fredericksburg,1/12/21,06/29/2020
+'03263100,"Jim Schroetter","9614 Flint Hill Ct","Fredericksburg","VA","22407","Vice President","Flint Hill Station Property Owners' Association",HOA,VA,22407,Fredericksburg,1/12/21,06/29/2020
+'03263100,"Aileen Campbell","9715 Flint Hill Ct","Fredericksburg","VA","22407","Director","Flint Hill Station Property Owners' Association",HOA,VA,22407,Fredericksburg,1/12/21,06/29/2020
+'03263100,"Bradley Kelley","9600 Flint Hill Court","Fredericksburg","VA","22407","Secretary","Flint Hill Station Property Owners' Association",HOA,VA,22407,Fredericksburg,1/12/21,06/29/2020
+'05737192,"Adam Resnick","3174 Borge Street","Oakton","VA","22124","President","Flintwood Community Association",HOA,VA,22124,Fairfax,1/12/21,03/06/2020
+'05737192,"Brenda Doe","3178 Borge Street","Oakton","VA","22124","Director","Flintwood Community Association",HOA,VA,22124,Fairfax,1/12/21,03/06/2020
+'05737192,"Laura Johnson","3176 Borge Street","Oakton","VA","22124","Director","Flintwood Community Association",HOA,VA,22124,Fairfax,1/12/21,03/06/2020
+'03800893,"Eugene Stockton","Po Box 621","Fork Union","VA","23055","Treasurer","Fluvanna Meadows Homeowners' Association",HOA,VA,22963,Fluvanna,1/12/21,07/06/2020
+'03800893,"Jim Cioban","161 Little Pond Lane ","Palmyra","VA","22963","Vice President","Fluvanna Meadows Homeowners' Association",HOA,VA,22963,Fluvanna,1/12/21,07/06/2020
+'03800893,"Lisa Cioban","161 L Ttle Pond Lane ","Palmyra","VA","22963","Secretary","Fluvanna Meadows Homeowners' Association",HOA,VA,22963,Fluvanna,1/12/21,07/06/2020
+'03800893,"Barry Johnson","39 Little Pond Lane","Palmyra","VA","22963","Treasurer","Fluvanna Meadows Homeowners' Association",HOA,VA,22963,Fluvanna,1/12/21,07/06/2020
+'05051222,"Kevin Troy","21758 Goose Cross Terrace","Ashburn","VA","20147","President","Flynn's Crossing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,10/08/2020
+'05051222,"Jenna Wickenhofer","21790 Goose Cross Terrace","Ashburn","VA","20147","Secretary","Flynn's Crossing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,10/08/2020
+'05051222,"Jesse Lefranc","21786 Goose Cross Terrace","Ashburn","VA","20147","Vice President","Flynn's Crossing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,10/08/2020
+'05051222,"Pedda Anjaneya","21784 Goose Cross Terrace","Ashburn","VA","20147","Director","Flynn's Crossing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,10/08/2020
+'05051222,"Tarrik Ghannam","43666 Saint Helena Terr.","Ashburn","VA","20147","Director","Flynn's Crossing Homeowners Association",HOA,VA,20147,Loudoun,1/12/21,10/08/2020
+'01562537,"Stephen Sewall","12201 Folkstone Drive","Herndon","VA","20171","Vice President","Folkstone Homes Association",HOA,VA,20171,Fairfax,1/12/21,03/11/2020
+'01562537,"Rajul Teredesai","12117 Wwood Hills Drive ","Herndon","VA","20171","Treasurer","Folkstone Homes Association",HOA,VA,20171,Fairfax,1/12/21,03/11/2020
+'01562537,"Paul D. Harrington","2962 Fort Lee Street","Herndon","VA","20171","Director","Folkstone Homes Association",HOA,VA,20171,Fairfax,1/12/21,03/11/2020
+'01562537,"Aleksandra Sandstrom","12112 Wwood Hills Drive ","Herndon","VA","20171","President","Folkstone Homes Association",HOA,VA,20171,Fairfax,1/12/21,03/11/2020
+'01562537,"Ralph S. Boyd","12234 Folkstone Drive ","Herndon","VA","20171","Secretary","Folkstone Homes Association",HOA,VA,20171,Fairfax,1/12/21,03/11/2020
+'07848005,"Robert Moskowitz","2410 Hurst Street","Falls Church","VA","22043","President","Follin Hill Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,11/21/2019
+'07848005,"Kirsten Milhorn","2412 Hurst Street","Falls Church","VA","22043","Secretary","Follin Hill Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,11/21/2019
+'07848005,"James Perley","2406 Hurst Street","Falls Church","VA","22043","Director","Follin Hill Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,11/21/2019
+'07848005,"Owen Pinkerton","2404 Hurst Street","Falls Church","VA","22043","Director","Follin Hill Homeowners Association",HOA,VA,22043,Fairfax,1/12/21,11/21/2019
+'05085709,"Frederic Ward","1707 Verona Drive","Charlottesville","VA","22901","Director","Fontana Owners Association",HOA,VA,22911,Albemarle,1/12/21,08/28/2020
+'05085709,"D. Kyle Hall","1686 Caprt Way","Charlottesville","VA","22911","President","Fontana Owners Association",HOA,VA,22911,Albemarle,1/12/21,08/28/2020
+'05085709,"Burton Bears, Jr.","1692 Capri Way","Charlottesville","VA","22911","Treasurer","Fontana Owners Association",HOA,VA,22911,Albemarle,1/12/21,08/28/2020
+'05085709,"Andrew  Cox","1974 Via Florence Road","Charlottesville","VA","22911","Director","Fontana Owners Association",HOA,VA,22911,Albemarle,1/12/21,08/28/2020
+'05085709,"Thomas Mcdonald","1676 Capri Way","Charlottesville","VA","22911","Vice President","Fontana Owners Association",HOA,VA,22911,Albemarle,1/12/21,08/28/2020
+'02895530,"Robert Moeller","100 Manchester Drive","Williamsburg","VA","23188","President","Ford's Colony At Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,06/23/2020
+'02895530,"Carmen Hegge Kleiser","100 Manchester Drive","Williamsburg","VA","23188","Vice President","Ford's Colony At Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,06/23/2020
+'02895530,"Sara Frazer","100 Manchester Drive","Williamsburg","VA","23188","Secretary","Ford's Colony At Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,06/23/2020
+'02895530,"George Spalthoff","100 Manchester","Williamsburg","VA","23188","Director","Ford's Colony At Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,06/23/2020
+'02895530,"Ray Van Cott","100 Manchester Drive","","VA","23188","Treasurer","Ford's Colony At Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,06/23/2020
+'03426343,"Russell Perkins","483 Fords Road","Manakin Sabot","VA","23103","President","Fords Owners Association",HOA,VA,23103,Goochland,1/12/21,07/06/2020
+'03426343,"Jeff Treutel","606 Fed L N","Manakin Sabot","VA","23103","Secretary","Fords Owners Association",HOA,VA,23103,Goochland,1/12/21,07/06/2020
+'03426343,"Cheryl Brunk","515 Fords Road","Manakin Sabot","VA","23103","Treasurer","Fords Owners Association",HOA,VA,23103,Goochland,1/12/21,07/06/2020
+'03426343,"Dorothy Koch","476 Fords Road","Manakin Sabot","VA","23103","Director","Fords Owners Association",HOA,VA,23103,Goochland,1/12/21,07/06/2020
+'03426343,"Myra Wood","596 Fed Lane","Manakin Sabot","VA","23103","Director","Fords Owners Association",HOA,VA,23103,Goochland,1/12/21,07/06/2020
+'07360860,"Fred Morrow Iii","12816 Glen Forest Court","Manassas","VA","20110","Vice President","Forest Glen Estates Homeowners Association",HOA,VA,20110,Prince William,1/12/21,04/06/2020
+'07360860,"Katrina Mclennon","6201 Glen Wood Loop","Manassas","VA","20110","President","Forest Glen Estates Homeowners Association",HOA,VA,20110,Prince William,1/12/21,04/06/2020
+'07360860,"Raven Andrews","6238 Glen Wood Loop","Manassas","VA","20112","Treasurer","Forest Glen Estates Homeowners Association",HOA,VA,20110,Prince William,1/12/21,04/06/2020
+'06798797,"Michael A. Himes","573 Forest Glen Lane","Palmyra","VA","22963","President","Forest Glen Homeowners Association",HOA,VA,22963,Fluvanna,1/12/21,05/20/2020
+'06798797,"David A. Wolfe","178 Forest Glen Lane","Palmya","VA","22963","Vice President","Forest Glen Homeowners Association",HOA,VA,22963,Fluvanna,1/12/21,05/20/2020
+'06798797,"Lisa Himes","573 Forest Glen Lane","Palmyra","VA","22963","Director","Forest Glen Homeowners Association",HOA,VA,22963,Fluvanna,1/12/21,05/20/2020
+'02708923,"John Gillian","4916 Banbridge Ct","Henrico","VA","23228","President","Forest Green Ii Homeowners' Association",HOA,VA,23228,Henrico,1/12/21,05/06/2020
+'02708923,"Lance Ragland","4910 Banbridge Court","Henrico","VA","23228","Vice President","Forest Green Ii Homeowners' Association",HOA,VA,23228,Henrico,1/12/21,05/06/2020
+'02708923,"Nancy Nietman","4908 Banbridge Ct","Henrico","VA","23228","Treasurer","Forest Green Ii Homeowners' Association",HOA,VA,23228,Henrico,1/12/21,05/06/2020
+'02708923,"Jon Pryor","4912 Banbridge Court","Henrico","VA","23228","Secretary","Forest Green Ii Homeowners' Association",HOA,VA,23228,Henrico,1/12/21,05/06/2020
+'02708923,"Kimberly Griffin","4902 Banbridge Court","Henrico","VA","23228","Director","Forest Green Ii Homeowners' Association",HOA,VA,23228,Henrico,1/12/21,05/06/2020
+'01487149,"Andrea Hoffman","2371 S Queen Street","Arlington","VA","22202","President","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Leland "Bud" Wood","2333 S Rolfe Street","Arlington","VA","22202","Vice President","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Karen M. Smith","2327 S Queen Street","Arlington","VA","22202","Treasurer","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Theresa Godwin","2409 S Queen Street","Arlington","VA","22202","Secretary","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Bruce Klappa","2413 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Gina Oliver","2337 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Michael Petrina","2365 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Jessica Pierce","2334 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"David Simonson","1805 28th Street S","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Martin Suydam","2411 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'01487149,"Patrick Tucker","2422 S Queen Street","Arlington","VA","22202","Director","Forest Hills Community Association",HOA,VA,22202,Arlington,1/12/21,10/02/2020
+'03119682,"Mike Sandkuhler","3482 Pin Oak Ct","Catharpin","VA","20143","Vice President","Forest Hills Estates Association",HOA,VA,20143,Prince William,1/12/21,10/19/2020
+'03119682,"Michael Jasmin","Po Box 743","Centreville","VA","20122","Director","Forest Hills Estates Association",HOA,VA,20143,Prince William,1/12/21,10/19/2020
+'03119682,"Noel Murphy","3490 Pin Oak Court","Catharpin","VA","20143","Director","Forest Hills Estates Association",HOA,VA,20143,Prince William,1/12/21,10/19/2020
+'03119682,"Rachel Sandkuhler","3482 Pin Oak Ct","Catharpin","VA","20143","Treasurer","Forest Hills Estates Association",HOA,VA,20143,Prince William,1/12/21,10/19/2020
+'03119682,"Brian Jurgensen","12781 Chatter Brook Drive","Catharpin","VA","20143","President","Forest Hills Estates Association",HOA,VA,20143,Prince William,1/12/21,10/19/2020
+'05466677,"Christina Walkinshaw","11607 Forest Hill Court","Fairfax","VA","22030","Vice President","Forest Hills Of Fairfax Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,09/26/2020
+'05466677,"Karey Gammell","11612 Forest Hill Court","Fairfax","VA","22030","Treasurer","Forest Hills Of Fairfax Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,09/26/2020
+'05466677,"James G. Zellmer","11610 Forest Hill Ct","Fairfax","VA","22030","President","Forest Hills Of Fairfax Homeowners Association",HOA,VA,22030,Fairfax,1/12/21,09/26/2020
+'01854991,"James M. Trent","10219 Forest Lake Drive ","Great Falls","VA","22066","President","Forest Lake Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,05/06/2020
+'01854991,"Heather Berg","10208 Forrest Lake Drive ","Great Falls","VA","22066","Vice President","Forest Lake Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,05/06/2020
+'01854991,"Susan Canis","10207 Forest Lake Drive ","Great Falls","VA","22066","Treasurer","Forest Lake Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,05/06/2020
+'01854991,"Rouget F. Henschel","10211 Forest Lake Drive ","Great Falls","VA","22066","Director","Forest Lake Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,05/06/2020
+'01854991,"Taras Popowycz","10213 Forest Lake Drive ","Great Falls","VA","22066","Secretary","Forest Lake Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,05/06/2020
+'03315553,"Derek Duval","3104 Edgewater Drive","Charlottesville","VA","22911","President","Forest Lakes Community Association",HOA,VA,22911,Albemarle,1/12/21,11/01/2019
+'03315553,"Scott A. Elliff","1885 Kernwood Place","Charlottesville","VA","22911","Treasurer","Forest Lakes Community Association",HOA,VA,22911,Albemarle,1/12/21,11/01/2019
+'03315553,"Micheal Tubridy","3018 Watercrest Drive","Charlottesville","VA","22911","Director","Forest Lakes Community Association",HOA,VA,22911,Albemarle,1/12/21,11/01/2019
+'03315553,"Sue Friedman","2544 Brandermill Place","Charlottesville","VA","22911","Secretary","Forest Lakes Community Association",HOA,VA,22911,Albemarle,1/12/21,11/01/2019
+'03315553,"James Baranik","1925 Becker Drive","Charlottesville","VA","22911","Director","Forest Lakes Community Association",HOA,VA,22911,Albemarle,1/12/21,11/01/2019
+'05424528,"David Allison","42825 Still Creek Drive","Ashburn","VA","20148","President","Forest Manor Homeowners Association",HOA,VA,20148,Loudoun,1/12/21,06/29/2020
+'05424528,"Evan Koppel","22474 Forest Manor Drive","Ashburn","VA","20148","Secretary","Forest Manor Homeowners Association",HOA,VA,20148,Loudoun,1/12/21,06/29/2020
+'05424528,"Wendy Huth","22486 Forest Manor Drive","Ashburn","VA","20148","Treasurer","Forest Manor Homeowners Association",HOA,VA,20148,Loudoun,1/12/21,06/29/2020
+'05424528,"Venkat Narlapati","22490 Forest Manor Drive","Ashburn","VA","20148","Director","Forest Manor Homeowners Association",HOA,VA,20148,Loudoun,1/12/21,06/29/2020
+'05424528,"Ronald Dasilva","42844 Early Light Place","Ashburn","VA","20148","Vice President","Forest Manor Homeowners Association",HOA,VA,20148,Loudoun,1/12/21,06/29/2020
+'04147120,"William H. Gibbs","17439 Kagera Drive","Dumfries","VA","22025","Vice President","Forest Park Homeowners Association",HOA,VA,22025,Prince William,1/12/21,12/17/2020
+'04147120,"Bill Verno","17470 Tangariro Square","Dumfries","VA","22025","Director","Forest Park Homeowners Association",HOA,VA,22025,Prince William,1/12/21,12/17/2020
+'04147120,"Scott Bearden","4033 Mammoth Cave Loop","Dumfries","VA","22025","President","Forest Park Homeowners Association",HOA,VA,22025,Prince William,1/12/21,12/17/2020
+'04147120,"Christopher Templeton","17320 Pacific Rim Terrace","Dumfries","VA","22025","Secretary","Forest Park Homeowners Association",HOA,VA,22025,Prince William,1/12/21,12/17/2020
+'05941067,"Aaron Graves","17506 Victoria Falls Drive","Dumfries","VA","22025","President","Forest Park Ii Homeowners Association",HOA,VA,22025,Prince William,1/12/21,04/09/2020
+'05941067,"Kim Gantt","4395 Palton Drive","Dumfries","VA","22025","Vice President","Forest Park Ii Homeowners Association",HOA,VA,22025,Prince William,1/12/21,04/09/2020
+'05941067,"Fondu Conteh","4375 Palton Drive","Dumfries","VA","22025","Treasurer","Forest Park Ii Homeowners Association",HOA,VA,22025,Prince William,1/12/21,04/09/2020
+'05941067,"Nancy Curtas","Po Box 1866 Blackwood Management Inc","Fredericksburg","VA","22402","Director","Forest Park Ii Homeowners Association",HOA,VA,22025,Prince William,1/12/21,04/09/2020
+'03313616,"Sonia Gupta","9306 Forest Point Circle","Manassas","VA","20110","President","Forest Point Condominium",Condo,VA,20110,Prince William,1/12/21,11/18/2019
+'03313616,"Ha Nguyen","5401 Ashleigh Road","Fairfax","VA","22030","Vice President","Forest Point Condominium",Condo,VA,20110,Prince William,1/12/21,11/18/2019
+'03313616,"Ezatullah Yaqub","41548 Goshen Ridge Place","Aldie","VA","20105","Treasurer","Forest Point Condominium",Condo,VA,20110,Prince William,1/12/21,11/18/2019
+'01828185,"Bill Brindley","118 Pepperidge Place","Sterling","VA","20164","President","Forest Ridge Homeowners Association",HOA,VA,20164,Loudoun,1/12/21,03/30/2020
+'01828185,"Brandon White","108 Applegate Drive ","Sterling","VA","20164","Vice President","Forest Ridge Homeowners Association",HOA,VA,20164,Loudoun,1/12/21,03/30/2020
+'01828185,"Marianne T. Brindley","118 Pepperidge Place ","Sterling","VA","20164","Director","Forest Ridge Homeowners Association",HOA,VA,20164,Loudoun,1/12/21,03/30/2020
+'01828185,"Glenn Heselton","106 Juneberry Ct","Sterling","VA","20164","Director","Forest Ridge Homeowners Association",HOA,VA,20164,Loudoun,1/12/21,03/30/2020
+'01828185,"Dianne Longham-Butts","133 Briarwood Ct","Sterling","VA","20164","Director","Forest Ridge Homeowners Association",HOA,VA,20164,Loudoun,1/12/21,03/30/2020
+'04376208,"James Tupper","3394 Moubry Lane","Charlottesville","VA","22911","Treasurer","Forest Ridge Owners Association",HOA,VA,22911,Albemarle,1/12/21,12/15/2020
+'04376208,"Charles Jones","3525 Springfield Lane","Charlottesville","VA","22911","President","Forest Ridge Owners Association",HOA,VA,22911,Albemarle,1/12/21,12/15/2020
+'04376208,"Jamal Manafi","3406 Moubry Lane","Charlottesville","VA","22911","Director","Forest Ridge Owners Association",HOA,VA,22911,Albemarle,1/12/21,12/15/2020
+'04376208,"Cynthia Dragich","3418 Moubry Lane","Charlottesville","VA","22911","Director","Forest Ridge Owners Association",HOA,VA,22911,Albemarle,1/12/21,12/15/2020
+'04376208,"Susan Peatman","3420 Moubry Lane","Charlottesville","VA","22911","Secretary","Forest Ridge Owners Association",HOA,VA,22911,Albemarle,1/12/21,12/15/2020
+'07376536,"David Cook","1200 Honeysuckle Way","Stafford","VA","22556","President","Forest View Estates Homeowners Association",HOA,VA,22556,Stafford,1/12/21,04/06/2020
+'07376536,"Mick Motley","610 Honeyscukle Way","Stafford","VA","22556","Treasurer","Forest View Estates Homeowners Association",HOA,VA,22556,Stafford,1/12/21,04/06/2020
+'07376536,"Vicki Rush-Whiteman","340 Greenbrier Drive","Stafford","VA","22556","Secretary","Forest View Estates Homeowners Association",HOA,VA,22556,Stafford,1/12/21,04/06/2020
+'07376536,"Broudi Cook","1200 Honeysuckie Way","Stafford","VA","22555","Vice President","Forest View Estates Homeowners Association",HOA,VA,22556,Stafford,1/12/21,04/06/2020
+'07376536,"Susan Reas","611 Hornbeam Court","Stafford","VA","22556","Director","Forest View Estates Homeowners Association",HOA,VA,22556,Stafford,1/12/21,04/06/2020
+'04757118,"Elsie Mersereau","13412 Vista Forest Drive ","Woodbridge","VA","22192","Treasurer","Forest Vista Home Owners Association",HOA,VA,22191,Prince William,1/12/21,12/17/2020
+'04757118,"Kumnit (James) Nong","13301 Vista Forest Drive","Woodbridge","VA","22192","President","Forest Vista Home Owners Association",HOA,VA,22191,Prince William,1/12/21,12/17/2020
+'04757118,"Aristides Monatvo","3621 Tupelo Court","Woodbridge","VA","22191","Vice President","Forest Vista Home Owners Association",HOA,VA,22191,Prince William,1/12/21,12/17/2020
+'04757118,"Nasim Feroz","3636 Tupelo Court","Woodbridge","VA","22191","Director","Forest Vista Home Owners Association",HOA,VA,22191,Prince William,1/12/21,12/17/2020
+'04757118,"Allen Woodhouse","13315 Vista Forest Drive","Woodbridge","VA","22192","Secretary","Forest Vista Home Owners Association",HOA,VA,22191,Prince William,1/12/21,12/17/2020
+'01605195,"Stefannie Smith","11314 Forest Walk Drive","Spotsylvania","VA","22551","President","Forest Walk Lot Owners Association",HOA,VA,22551,Spotsylvania,1/12/21,06/17/2020
+'01605195,"Gareth O'Bannon","12612 Acorn Lane","Spotsylvania","VA","22551","Vice President","Forest Walk Lot Owners Association",HOA,VA,22551,Spotsylvania,1/12/21,06/17/2020
+'01605195,"Charles Parry","12504 Shady Lane","Spotsylvania","VA","22551","Director","Forest Walk Lot Owners Association",HOA,VA,22551,Spotsylvania,1/12/21,06/17/2020
+'06089569,"Marie Endozie","60 Susa Drive #105","Stafford","VA","22554","Director","Foreston Retail Condominium Owners Association",Condo,VA,22554,Stafford,1/12/21,12/16/2019
+'06089569,"Anne Motz","8456-a Tyco Road ","Vienna","VA","22182","Secretary","Foreston Retail Condominium Owners Association",Condo,VA,22554,Stafford,1/12/21,12/16/2019
+'06089569,"Marie King","60 Susa Drive #107","Stafford","VA","22554","President","Foreston Retail Condominium Owners Association",Condo,VA,22554,Stafford,1/12/21,12/16/2019
+'06089569,"Leonard Lacey","60 Susan Drive #111","Stafford","VA","22554","Vice President","Foreston Retail Condominium Owners Association",Condo,VA,22554,Stafford,1/12/21,12/16/2019
+'06089569,"Martha    Rodriquez","6322 Willowfield Way","Springfield","VA","22150","Treasurer","Foreston Retail Condominium Owners Association",Condo,VA,22554,Stafford,1/12/21,12/16/2019
+'07284326,"Janet Tillage","921 Forrest Street","Charlottesville","VA","22903","President","Forrest View Condominium Association",Condo,VA,22903,Charlottesville,1/12/21,08/21/2020
+'07284326,"Mary Walker","919 Forrest Street","Charlottesville","VA","22903","Vice President","Forrest View Condominium Association",Condo,VA,22903,Charlottesville,1/12/21,08/21/2020
+'07284326,"Joyce Calloway","913 Forrest Street","Charlottesville","VA","22903","Secretary","Forrest View Condominium Association",Condo,VA,22903,Charlottesville,1/12/21,08/21/2020
+'07284326,"Thelma Carrey","907 Forrest Street","Charlottesville","VA","22903","Treasurer","Forrest View Condominium Association",Condo,VA,22903,Charlottesville,1/12/21,08/21/2020
+'07284326,"Bessie Conway","915 Forest Street","Charlottesville","VA","22903","Director","Forrest View Condominium Association",Condo,VA,22903,Charlottesville,1/12/21,08/21/2020
+'06069439,"Gary Miller","100 Meeting House StationSquare","Herndon","VA","20170","Secretary","Fortnightly Square Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,11/04/2019
+'06069439,"Eric Fielding","755 Center Street","Herndon","VA","20170","Vice President","Fortnightly Square Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,11/04/2019
+'06069439,"Cathy Wilkes","130 Fortnightly Boulevard .","Herndon","VA","20170","President","Fortnightly Square Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,11/04/2019
+'06069439,"Michael Peterson","753 Center Street","Herndon","VA","20170","Treasurer","Fortnightly Square Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,11/04/2019
+'07884901,"Kenneth Fortune","406 Hanover Street ","Fredericksburg","VA","22401","Director","Fortunes Landing Community Association",HOA,VA,22553,Spotsylvania,1/12/21,03/11/2019
+'07884901,"Kathleen Fortune","406 Hanover Street","Fredericksburg","VA","22401","Director","Fortunes Landing Community Association",HOA,VA,22553,Spotsylvania,1/12/21,03/11/2019
+'07884901,"Brenda Hansen","11107 Blue Heron","Spotsylvania","VA","22553","Director","Fortunes Landing Community Association",HOA,VA,22553,Spotsylvania,1/12/21,03/11/2019
+'02343689,"Brea Cusson","7350 Foster Lane","Nokesville","VA","20181","President","Foster Subdivision Homeowners Association",HOA,VA,20181,Prince William,1/12/21,10/06/2020
+'02343689,"Karen Zirpoli","7274 Foster Lane","Nokesville","VA","20181","Treasurer","Foster Subdivision Homeowners Association",HOA,VA,20181,Prince William,1/12/21,10/06/2020
+'02343689,"Bruce Decker","7349 Foster Lane","Nokesville","VA","20181","Director","Foster Subdivision Homeowners Association",HOA,VA,20181,Prince William,1/12/21,10/06/2020
+'02343689,"Juanita Miller","7526 Foster Lane","Nokesville","VA","20181","Secretary","Foster Subdivision Homeowners Association",HOA,VA,20181,Prince William,1/12/21,10/06/2020
+'02343689,"Howard Baker","7329 Foster Lane","Nokesville","VA","20181","Director","Foster Subdivision Homeowners Association",HOA,VA,20181,Prince William,1/12/21,10/06/2020
+'07396930,"Megan Lorenz","6187 Royal Crest Lane","Alexandria","VA","22310","President","Fosters Crest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,07/21/2020
+'07396930,"Beth Chicowski","6240 Summit Point Court","Alexandria","VA","22310","Vice President","Fosters Crest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,07/21/2020
+'06898308,"Jim Kavitz","5207 Foundation Street","Williamsburg","VA","23188","President","Foundation Square Unit Owners Association",Condo,VA,23188,James City,1/12/21,06/16/2020
+'06898308,"David Eberlly","205 Roger Webster","Williamsburg","VA","23185","Secretary","Foundation Square Unit Owners Association",Condo,VA,23188,James City,1/12/21,06/16/2020
+'06898308,"Jim Guiliano","5408 Foundation Street","Williamsburg","VA","23188","Vice President","Foundation Square Unit Owners Association",Condo,VA,23188,James City,1/12/21,06/16/2020
+'06898308,"Ginny Hartman","5000 Foundation Street","Williamsburg","VA","23188","Treasurer","Foundation Square Unit Owners Association",Condo,VA,23188,James City,1/12/21,06/16/2020
+'06898308,"Denise Weber","5405 Foundation Street","Williamsburg","VA","23188","Director","Foundation Square Unit Owners Association",Condo,VA,23188,James City,1/12/21,06/16/2020
+'06506588,"Cindy Birsinger","16292 Maple Hall Drive","Midlothian","VA","23113","President","Founders Bridge Club Villas Association",HOA,VA,23113,Chesterfield,1/12/21,01/05/2021
+'06506588,"Al Rose","16250 Maple Hall Drive","Midlothian","VA","23113","Vice President","Founders Bridge Club Villas Association",HOA,VA,23113,Chesterfield,1/12/21,01/05/2021
+'06506588,"Vanessa Wigand","16255 Maple Hall Drive","Midlothian","VA","23113","Secretary","Founders Bridge Club Villas Association",HOA,VA,23113,Chesterfield,1/12/21,01/05/2021
+'05613799,"Ted Maxwell","2411 Founders Creek Ct","","VA","23113","Secretary","Founders Bridge Golf Villas Association",HOA,VA,23113,Chesterfield,1/12/21,06/29/2020
+'05613799,"Keith Hubbard","2351 Founders Creek Court ","Midlothian","VA","23113","Treasurer","Founders Bridge Golf Villas Association",HOA,VA,23113,Chesterfield,1/12/21,06/29/2020
+'05613799,"Alfred Dispoto","2345 Founders Creek Ct","Midlothian","VA","23113","President","Founders Bridge Golf Villas Association",HOA,VA,23113,Chesterfield,1/12/21,06/29/2020
+'05613799,"Scott Mcfadden","19037 Founders Knoll Terr","","VA","23113","Vice President","Founders Bridge Golf Villas Association",HOA,VA,23113,Chesterfield,1/12/21,06/29/2020
+'05613799,"Jim Leprell","2430 Founders Creek Ct","","VA","23113","Director","Founders Bridge Golf Villas Association",HOA,VA,23113,Chesterfield,1/12/21,06/29/2020
+'05604848,"David Wright","2512 Maple Hall Court","Midlothian","VA","23113","President","Founders Bridge Property Owners Association",HOA,VA,23113,Chesterfield,1/12/21,05/06/2020
+'05604848,"Mike Koontz","16013 Pine Vale Place","Midlothian","VA","23113","Vice President","Founders Bridge Property Owners Association",HOA,VA,23113,Chesterfield,1/12/21,05/06/2020
+'05604848,"John Cramer","2837 Founders Bridge Road ","Midlothian","VA","23113","Secretary","Founders Bridge Property Owners Association",HOA,VA,23113,Chesterfield,1/12/21,05/06/2020
+'05604848,"Scott Dearnley","2518 Founders Bridge Road","Midlothian","VA","23113","Treasurer","Founders Bridge Property Owners Association",HOA,VA,23113,Chesterfield,1/12/21,05/06/2020
+'05604848,"Tom Gellagher","2200 Founders View Lane","Midlothian","VA","23113","Director","Founders Bridge Property Owners Association",HOA,VA,23113,Chesterfield,1/12/21,05/06/2020
+'01907120,"Jeff Lipsky","108 Princess Street ","Alexandria","VA","22314","President","Founders Park Community Association",HOA,VA,22314,Alexandria,1/12/21,01/30/2019
+'01907120,"Bridgett Taylor","404 N Lee Street","Alexandria","VA","22314","Vice President","Founders Park Community Association",HOA,VA,22314,Alexandria,1/12/21,01/30/2019
+'01907120,"Beth Gross","124 Queen Street","Alexandria","VA","22314","Treasurer","Founders Park Community Association",HOA,VA,22314,Alexandria,1/12/21,01/30/2019
+'01907120,"Chris Wilson","115 Quay Street","Alexandria","VA","22314","Secretary","Founders Park Community Association",HOA,VA,22314,Alexandria,1/12/21,01/30/2019
+'01907120,"Sally Tamm","406 N Lee Street","Alexandria","VA","22314","Director","Founders Park Community Association",HOA,VA,22314,Alexandria,1/12/21,01/30/2019
+'06038913,"Beth Johnson","216 Arlington Place","Carrollton","VA","23314","Director","Founders Pointe Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/31/2020
+'06038913,"Jonathan Holt","217 Summerhouse Lane","Carrollton","VA","23314","Vice President","Founders Pointe Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/31/2020
+'06038913,"Aaron Millikin","5131 River Club Drive #210","Suffolk","VA","23435","President","Founders Pointe Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/31/2020
+'06038913,"Bridger Field","505 Founders Pointe Trail","Carrollton","VA","23314","Treasurer","Founders Pointe Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/31/2020
+'03035938,"Michelle Veghte","5592 Lee Highway","Arlington","VA","22207","Secretary","Fountain Court Condominium Unit Owners Association",Condo,VA,22207,Arlington,1/12/21,09/14/2020
+'03035938,"Timothy Roseboom","5530 Lee Highway","Arlington","VA","22207","Vice President","Fountain Court Condominium Unit Owners Association",Condo,VA,22207,Arlington,1/12/21,09/14/2020
+'03035938,"David Giroux","5556 Lee Hwy","Arlington","VA","22207","President","Fountain Court Condominium Unit Owners Association",Condo,VA,22207,Arlington,1/12/21,09/14/2020
+'03035938,"Susan E. Brainerd","6706 Farcroft Terrace","Laytonsville","MD","20882","Treasurer","Fountain Court Condominium Unit Owners Association",Condo,VA,22207,Arlington,1/12/21,09/14/2020
+'03035938,"Michael A. Downey","5580 Lee Highway","Arlington","VA","22207","Director","Fountain Court Condominium Unit Owners Association",Condo,VA,22207,Arlington,1/12/21,09/14/2020
+'06584437,"Todd D. Rogers","9245 Shady Grove Road #200","Mechanicsville","VA","23116","Vice President","Fountain Park Owners Association",HOA,VA,23139,Powhatan,1/12/21,04/08/2020
+'06584437,"Mark Sargent","2790 Windy Hill Lane","Powhatan","VA","23139","Treasurer","Fountain Park Owners Association",HOA,VA,23139,Powhatan,1/12/21,04/08/2020
+'06584437,"Elaine Bolte","2790 Windy Hill Lane","Powhatan","VA","23139","President","Fountain Park Owners Association",HOA,VA,23139,Powhatan,1/12/21,04/08/2020
+'05882279,"Florence G. Kingston","2400 Washington Avenue 3rd Fl","Newport News","VA","23607","Treasurer","Fountain Plaza One Condominium Association",Condo,VA,23602,Newport News,1/12/21,12/18/2020
+'05882279,"Robert King","701 Town Center Drive #100","Newport News","VA","23606","President","Fountain Plaza One Condominium Association",Condo,VA,23602,Newport News,1/12/21,12/18/2020
+'06798763,"Robert M. King","999 Waterside Drive #1400","Norfolk","VA","23510","President","Fountain Way Parking Garage Condominium Association",Condo,VA,23510,Norfolk,1/12/21,08/20/2020
+'06798763,"Florence G. Kingston","2400 Washington Avenue 3rd Flr","Newport News","VA","23607","Treasurer","Fountain Way Parking Garage Condominium Association",Condo,VA,23510,Norfolk,1/12/21,08/20/2020
+'03955671,"Greg Yadzinski","10901 Shadow Lane","Fairfax Station","VA","22039","President","Fountainhead Community Association",HOA,VA,22039,Fairfax,1/12/21,07/09/2020
+'03955671,"Patricia President","8227 Shadowridge Drive ","Fairfax Station","VA","22039","Secretary","Fountainhead Community Association",HOA,VA,22039,Fairfax,1/12/21,07/09/2020
+'03955671,"Thomas Blaine Sabal","8215 Shadowridge Drive ","Fairfax Station","VA","22039","Treasurer","Fountainhead Community Association",HOA,VA,22039,Fairfax,1/12/21,07/09/2020
+'06475867,"Michael Colangelo","205 Chestnut Lane","Fredericksburg","VA","22408","President","Four Mile Fork Business Center Condominium Unit Owners Association",Condo,VA,22408,Fredericksburg,1/12/21,10/29/2020
+'06475867,"Blair Thurmond","17608 Longdraft Road","Gaithersburg","MD","20878","Vice President","Four Mile Fork Business Center Condominium Unit Owners Association",Condo,VA,22408,Fredericksburg,1/12/21,10/29/2020
+'06475867,"Paul Watson","31 Dayton Circle","Fredericksburg","VA","22405","Treasurer","Four Mile Fork Business Center Condominium Unit Owners Association",Condo,VA,22408,Fredericksburg,1/12/21,10/29/2020
+'06475867,"John Tait","Po Box 1866","Fredericksburg","VA","22402","Director","Four Mile Fork Business Center Condominium Unit Owners Association",Condo,VA,22408,Fredericksburg,1/12/21,10/29/2020
+'05002324,"Charmica Epps","8204 Heather Ridge Court","Richmond","VA","23231","Secretary","Four Mile Run Homeowners Association",HOA,VA,23231,Henrico,1/12/21,05/06/2020
+'05002324,"Valerie Walters","7729 Shoveler Drive","Richmond","VA","23231","President","Four Mile Run Homeowners Association",HOA,VA,23231,Henrico,1/12/21,05/06/2020
+'05002324,"Leah Ford","7801 King Eider Drive","Richmond","VA","23231","Vice President","Four Mile Run Homeowners Association",HOA,VA,23231,Henrico,1/12/21,05/06/2020
+'02033447,"Jill Valentine","6405 Four Oaks Lane ","Burke","VA","22015","Treasurer","Four Oaks Estates Homeowners Association",HOA,VA,22015,Fairfax,1/12/21,02/28/2020
+'02033447,"Susan Hurst Smith","9704 Tiny Court","Burke","VA","22015","President","Four Oaks Estates Homeowners Association",HOA,VA,22015,Fairfax,1/12/21,02/28/2020
+'02033447,"Larry Galvin","6401 Four Oaks Lane ","Burke","VA","22015","Vice President","Four Oaks Estates Homeowners Association",HOA,VA,22015,Fairfax,1/12/21,02/28/2020
+'02033447,"Cathy Owens","9703 Tiny Court","Burke","VA","22015","Secretary","Four Oaks Estates Homeowners Association",HOA,VA,22015,Fairfax,1/12/21,02/28/2020
+'05749452,"Tom Michaelman","17381 Four Seasons Drive","","VA","22025","Director","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'05749452,"Jeff Riddle","16221 Timid Creek Court","","VA","22025","Vice President","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'05749452,"James O'Malley","16892 Four Seasons Drive","Dumfries","VA","22025","President","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'05749452,"Ruth Ogilvie","3705 Grey Ghost Ct","Dumfries","VA","22025","Director","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'05749452,"Chuck Wilde","13231 Rising Fawn Terrace","","VA","22025","Treasurer","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'05749452,"Brad Brandley","4039 Greath Harvest Court","Dumfries","VA","22025","Secretary","Four Seasons At Historic Virginia Community Association",HOA,VA,22025,Prince William,1/12/21,03/19/2020
+'01527589,"Gary Porter","13 Spring Court","","VA","22903","President","Four Seasons Condominiums Association",Condo,VA,22901,Albemarle,1/12/21,04/27/2020
+'01527589,"Juanita Geer","33 Spring Ct","Charlottesville","VA","22901","Secretary","Four Seasons Condominiums Association",Condo,VA,22901,Albemarle,1/12/21,04/27/2020
+'01527589,"Brian Mitchell","30 Spring Ct","","VA","22901","Director","Four Seasons Condominiums Association",Condo,VA,22901,Albemarle,1/12/21,04/27/2020
+'01527589,"Bruce Gray","27 Spring Court","Charlottesville","VA","22901","Vice President","Four Seasons Condominiums Association",Condo,VA,22901,Albemarle,1/12/21,04/27/2020
+'01527589,"Margie Danner","2 Spring Court ","Charlottesville","VA","22901","Treasurer","Four Seasons Condominiums Association",Condo,VA,22901,Albemarle,1/12/21,04/27/2020
+'01442201,"Jane Austin","1191 Autumnhaze Ct","Herndon","VA","20170","Treasurer","Four Seasons Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,01/04/2021
+'01442201,"Noe Hores","19449 Promenade Drive","Leesburg","VA","20176","Vice President","Four Seasons Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,01/04/2021
+'01442201,"Patrick Mulvihill","1203 Springtide Place","Herndon","VA","20170","Secretary","Four Seasons Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,01/04/2021
+'01442201,"Walter Shorter","559 Early Fall Ct","Herndon","VA","20170","President","Four Seasons Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,01/04/2021
+'01442201,"Jason Wall","1103 Whitewater Place","Herndon","VA","20170","Director","Four Seasons Homeowners Association",HOA,VA,20170,Fairfax,1/12/21,01/04/2021
+'01298348,"Megan Maloney","316 Lake Forest Lane","","VA","22901","Secretary","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01298348,"James P. Abell","1451 Monterey Drive ","Charlottesville","VA","22901","Secretary","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01298348,"Linda Sue Mccormick","1448 Monterey Drive","Charlottesville","VA","22901","Treasurer","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01298348,"Mary Hackett","1476 Monterey Drive","Charlottesville","VA","22901","President","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01298348,"Deborah Kelsey","1536 Lake Forest Drive","Charlottesville","VA","22901","Director","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01298348,"Steven J. Ward","1515 Lake Forest Drive","","VA","22901","Director","Four Seasons Patio House Association",HOA,VA,22901,Albemarle,1/12/21,03/18/2020
+'01265511,"Katie Rudy","125 Woodlake Drive","Charlottesville","VA","22901","Director","Four Seasons Townhouse Association",HOA,VA,22901,Albemarle,1/12/21,05/12/2020
+'01265511,"Donna Redmond","65 Woodlake Drive","Charlottesville","VA","22901","President","Four Seasons Townhouse Association",HOA,VA,22901,Albemarle,1/12/21,05/12/2020
+'01265511,"Elizabeth Coles","57 Woodlake Drive","Charlottesville","VA","22901","Vice President","Four Seasons Townhouse Association",HOA,VA,22901,Albemarle,1/12/21,05/12/2020
+'01265511,"Mike Quillion","55 Woodlake Drive","","VA","22901","Director","Four Seasons Townhouse Association",HOA,VA,22901,Albemarle,1/12/21,05/12/2020
+'01265511,"Symia Tabron","158 Woodlake Drive ","Charlottesville","VA","22901","Director","Four Seasons Townhouse Association",HOA,VA,22901,Albemarle,1/12/21,05/12/2020
+'08233785,"Kathleen Phillips","502 S Columbus Street","Alexandria","VA","22314","Director","Fourteen Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/26/2020
+'08233785,"John Pontecorvo","712 Wilkes Street","Alexandria","VA","22314","President","Fourteen Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/26/2020
+'08233785,"Kelly Whte","710 Wilkes Street","Alexandria","VA","22314","Secretary","Fourteen Homeowners' Association",HOA,VA,22314,Alexandria,1/12/21,10/26/2020
+'04863890,"Catherine Polen","105 Prosperity Avenue SE #B","Leesburg","VA","20175","President","Fox Chapel At Tudor Knolls Condominium Owners Association",Condo,VA,20175,Loudoun,1/12/21,12/02/2020
+'04863890,"Elizabeth Ritenour","105 Prosperity Avenue SE #C","Leesburg","VA","20175","Vice President","Fox Chapel At Tudor Knolls Condominium Owners Association",Condo,VA,20175,Loudoun,1/12/21,12/02/2020
+'04863890,"Mike Miller","122 Fort Evans Road SE #C","Leesburg","VA","20175","Treasurer","Fox Chapel At Tudor Knolls Condominium Owners Association",Condo,VA,20175,Loudoun,1/12/21,12/02/2020
+'04863890,"Janet Lickey","101 Prosperity Avenue SE #C","Leesburg","VA","20175","Secretary","Fox Chapel At Tudor Knolls Condominium Owners Association",Condo,VA,20175,Loudoun,1/12/21,12/02/2020
+'08051997,"Kirk Petrie","5770 Fox Chapel Estates Drive","Fairfax","VA","22030","President","Fox Chapel Estates Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,07/15/2020
+'08051997,"Russell Hennessey","5800 Fox Chapel Estates Drive","Fairfax","VA","22030","Director","Fox Chapel Estates Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,07/15/2020
+'08051997,"Raji Bezwada","5801 Fox Chapel Estates Drive","Fairfax","VA","22030","Director","Fox Chapel Estates Homeowners Association",HOA,VA,20151,Fairfax,1/12/21,07/15/2020
+'03284577,"Mary Blackmoor","13415 Fox Chase Lane","Spotsylvania","VA","22550","Secretary","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Shane Musselman","13612 Fox Chase Lane","Spotsylvania","VA","22553","President","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Karen Cercone","10748 Greenbriar Lane","Spotsylvania","VA","22553","Vice President","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Dave Frey","13603 Fox Chase Lane","Spotsylvania","VA","22553","Treasurer","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Lisa D'Albis","10802 Heathermore Place","Spotsylvania","VA","22553","Director","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Janet Gates","13411 Fox Chase Lane","Spotsylvania","VA","22553","Director","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Jamie King","10754 Greenbriar Lane","Spotsylvania","VA","22553","Director","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'03284577,"Wayne Worrell","13607 Fox Chase Lane","Spotsylvania","VA","22553","Director","Fox Chase Homeowners Association",HOA,VA,22553,Spotsylvania,1/12/21,10/26/2020
+'06746010,"John Beveridge","4922 Sunset Lane","Annandale","VA","22003","Director","Fox Creek Farm Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,03/18/2020
+'06746010,"Patrick Latessa","6846 Elm Street 2nd Floor","Mclean","VA","22101","Vice President","Fox Creek Farm Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,03/18/2020
+'06746010,"William Malone","9719 Rolling Ridge Drive","Fairfax Station","VA","22039","Director","Fox Creek Farm Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,03/18/2020
+'06746010,"David Truitt","11321 Fox Creek Farm Way","Great Falls","VA","22066","Secretary","Fox Creek Farm Homeowners Association",HOA,VA,22066,Fairfax,1/12/21,03/18/2020
+'03027133,"Robert Kossan","46929 Rabbitrun Ter.","Sterling","VA","20164","President","Fox Creek Homeowners' Association",HOA,VA,20164,Loudoun,1/12/21,03/12/2020
+'03027133,"Jareer Elass","46950 Trumpet Circle","Sterling","VA","20164","Vice President","Fox Creek Homeowners' Association",HOA,VA,20164,Loudoun,1/12/21,03/12/2020
+'03027133,"Charles Urick","46911 Trumpet Circle","Sterling","VA","20164","Treasurer","Fox Creek Homeowners' Association",HOA,VA,20164,Loudoun,1/12/21,03/12/2020
+'03027133,"Patrick Mcmahon","46826 Rabbitrun Ter","Sterling","VA","20164","Secretary","Fox Creek Homeowners' Association",HOA,VA,20164,Loudoun,1/12/21,03/12/2020
+'03027133,"Kathleen Highet","46913 Rabbitrun Terr","Sterling","VA","20164","Director","Fox Creek Homeowners' Association",HOA,VA,20164,Loudoun,1/12/21,03/12/2020
+'06879282,"Carol Walsh","120 Carnaby Way","Leesburg","VA","20176","President","Fox Creek Mews At Carnaby Square Homeowners Association",HOA,VA,20176,Loudoun,1/12/21,12/29/2020
+'06879282,"Victoria Petty-Nawrath","130 Carnaby Way","Leesburg","VA","20176","Secretary","Fox Creek Mews At Carnaby Square Homeowners Association",HOA,VA,20176,Loudoun,1/12/21,12/29/2020
+'06879282,"William Colbert","123 Paddington Way Ne","Leesburg","VA","20176","Director","Fox Creek Mews At Carnaby Square Homeowners Association",HOA,VA,20176,Loudoun,1/12/21,12/29/2020
+'06879282,"Daniel Lantonio","108 Paddington Way Ne","Leesburg","VA","20176","Director","Fox Creek Mews At Carnaby Square Homeowners Association",HOA,VA,20176,Loudoun,1/12/21,12/29/2020
+'03458742,"Roya Khalilian","2107 Arrowleaf Drice","Vienna","VA","22182","Secretary","Fox Creek Property Owners Association",HOA,VA,22182,Fairfax,1/12/21,08/25/2020
+'03458742,"Hadi Alsegaf","2101 Arowleaf Drive","Vienna","VA","22182","President","Fox Creek Property Owners Association",HOA,VA,22182,Fairfax,1/12/21,08/25/2020
+'03458742,"Steve Hryckiewicz","8157 Silverberry Way","Vienna","VA","22182","Treasurer","Fox Creek Property Owners Association",HOA,VA,22182,Fairfax,1/12/21,08/25/2020
+'07417850,"Steven A. Weiler","4302 Fox Haven Lane","Alexandria","VA","22304","President","Fox Haven Homeowners Association",HOA,VA,22304,Alexandria,1/12/21,09/30/2020
+'07417850,"Jesse T. Mcmahan","4303 Fox Haven Lane","Alexandria","VA","22304","Director","Fox Haven Homeowners Association",HOA,VA,22304,Alexandria,1/12/21,09/30/2020
+'07417850,"Joel E. Angeles","4300 Fox Haven Lane","Alexandria","VA","22304","Director","Fox Haven Homeowners Association",HOA,VA,22304,Alexandria,1/12/21,09/30/2020
+'07417850,"Maura A. Daly","4305 Fox Haven Lane","Alexandria","VA","22304","Director","Fox Haven Homeowners Association",HOA,VA,22304,Alexandria,1/12/21,09/30/2020
+'01496264,"Claudette Richardson","4420 Foxden Drive","Richmond","VA","23223","Vice President","Fox Hill Home Owners Association",HOA,VA,23223,Richmond,1/12/21,01/04/2021
+'01496264,"Susie Clayborne","812 Grayfox Drive","Richmond","VA","23223","Treasurer","Fox Hill Home Owners Association",HOA,VA,23223,Richmond,1/12/21,01/04/2021
+'01496264,"Lily Lemons","914 Grayfox Circle","Richmond","VA","23223","Secretary","Fox Hill Home Owners Association",HOA,VA,23223,Richmond,1/12/21,01/04/2021
+'01496264,"Annette Robinson","4407 Haden Drive","Richmond","VA","23223","Director","Fox Hill Home Owners Association",HOA,VA,23223,Richmond,1/12/21,01/04/2021
+'01496264,"Joyce Monroe","4400 Silverfox Lane","Richmond","VA","23223","President","Fox Hill Home Owners Association",HOA,VA,23223,Richmond,1/12/21,01/04/2021
+'05223565,"Sean Porter","13552 Den Hollow Court","Manassas","VA","20112","President","Fox Hollow Homeowners Association",HOA,VA,20112,Prince William,1/12/21,07/10/2020
+'05223565,"Rene J. Baca","13565 Den Hollow Court","Manassas","VA","20112","Treasurer","Fox Hollow Homeowners Association",HOA,VA,20112,Prince William,1/12/21,07/10/2020
+'05223565,"Scott Rekdal","13588 Den Hollow Court","Manassas","VA","20112","Secretary","Fox Hollow Homeowners Association",HOA,VA,20112,Prince William,1/12/21,07/10/2020
+'01737972,"Morna Ikeda","12213 Lake James Drive","Herndon","VA","20171","Secretary","Fox Hunt Estates Community Association",HOA,VA,20171,Fairfax,1/12/21,02/07/2020
+'01737972,"James Stroiney","12212 Lake James Drive","Herndon","VA","20171","President","Fox Hunt Estates Community Association",HOA,VA,20171,Fairfax,1/12/21,02/07/2020
+'01737972,"James Boyle","12216 Lake James Drive","Herndon","VA","20171","Vice President","Fox Hunt Estates Community Association",HOA,VA,20171,Fairfax,1/12/21,02/07/2020
+'01737972,"Jonathan Haupt","12214 Lake James Drive","Herndon","VA","20171","Treasurer","Fox Hunt Estates Community Association",HOA,VA,20171,Fairfax,1/12/21,02/07/2020
+'01745041,"Gregory Schwarz","9115 Fox Lair Drive","Burke","VA","22015","President","Fox Lair Community Association",HOA,VA,22015,Fairfax,1/12/21,04/17/2020
+'01745041,"Edward Haggerty","9309 Willow Pond Lane ","Burke","VA","22015","Treasurer","Fox Lair Community Association",HOA,VA,22015,Fairfax,1/12/21,04/17/2020
+'01745041,"Beatrice Cook","5648 Mt. Burnside Way","Burke","VA","22015","Vice President","Fox Lair Community Association",HOA,VA,22015,Fairfax,1/12/21,04/17/2020
+'01745041,"Knutz Ozols","9114 Fox Loin Drive ","Burke","VA","22015","Secretary","Fox Lair Community Association",HOA,VA,22015,Fairfax,1/12/21,04/17/2020
+'07578198,"Malcolm D. Petteway","3993 Whips Run Drive","Woodbridge","VA","22193","Director","Fox Lair Estates Homeowners Association",HOA,VA,22193,Prince William,1/12/21,01/06/2021
+'07578198,"Dr Samia Harris","3980 Whips Run Drive","Woodbridge","VA","22193","Treasurer","Fox Lair Estates Homeowners Association",HOA,VA,22193,Prince William,1/12/21,01/06/2021
+'07578198,"Rehana Shrestra","3989 Whips Run Drive","Woodbridge","VA","22193","Secretary","Fox Lair Estates Homeowners Association",HOA,VA,22193,Prince William,1/12/21,01/06/2021
+'07578198,"Monique  Ceruti","3984 Whips Run Dri","Woodbridge","VA","22193","President","Fox Lair Estates Homeowners Association",HOA,VA,22193,Prince William,1/12/21,01/06/2021
+'01801646,"Mark Kitzmiller","11227 Sorrel Ridge Lane ","Oakton","VA","22124","President","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Andy Louis-Charles","11232 Sorrel Ridge Lane ","Oakton","VA","22124","Vice President","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Andy Freitas","11227 Country Place","Oakton","VA","22124","Treasurer","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Brian Hickey","11202 Sorrel Ridge Lane","Oakton","VA","22124","Director","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Kristin Ayyar","11212 Sorrel Ridge Lane","Oakton","VA","22124","Secretary","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Natalia Roberts","3019 Fox Den Lane","Oakton","VA","22124","Director","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'01801646,"Glen Trible","11205 Sweetwood Lane","Oakton","VA","22124","Director","Fox Lake Property Owners Association",HOA,VA,22124,Fairfax,1/12/21,10/29/2020
+'03203510,"Reed Adams","11316 Glen Park Drive","Fredericksburg","VA","22407","President","Fox Meadows Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/16/2020
+'03203510,"Scott Boyer","11404 Hillsborough Lane ","Fredericksburg","VA","22407","Treasurer","Fox Meadows Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/16/2020
+'03203510,"Ed Marshall","6713 Lakeland Way","Fredericksburg","VA","22407","Vice President","Fox Meadows Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/16/2020
+'03203510,"Bob Carson","6719 Lakeland Way","Fredericksburg","VA","22407","Director","Fox Meadows Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/16/2020
+'03203510,"Damien Oliver","6800 Lakewood Way","Fredericksburg","VA","22407","Secretary","Fox Meadows Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,04/16/2020
+'01383694,"Steve Schirtzinger","12785 Bradwell Road ","Oak Hill","VA","20171","Vice President","Fox Mill Estates Homes Association",HOA,VA,20171,Fairfax,1/12/21,04/08/2020
+'01383694,"Trish Atkins","12627 Etruscan Drive","Oak Hill","VA","20171","Secretary","Fox Mill Estates Homes Association",HOA,VA,20171,Fairfax,1/12/21,04/08/2020
+'01383694,"Josh Anderson","12853 Tewksbury Drive","Oak Hill","VA","20171","President","Fox Mill Estates Homes Association",HOA,VA,20171,Fairfax,1/12/21,04/08/2020
+'01383694,"Marshall Mayer","12821 Framingham Ct","Oak Hill","VA","20171","Treasurer","Fox Mill Estates Homes Association",HOA,VA,20171,Fairfax,1/12/21,04/08/2020
+'01383694,"Karen Conroy","12436 Wendell Holmes Road ","Oak Hill","VA","20171","Director","Fox Mill Estates Homes Association",HOA,VA,20171,Fairfax,1/12/21,04/08/2020
+'03200540,"Charles Hess","9702 Hope Ct","Fredericksburg","VA","22407","Secretary","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03200540,"Paul Milstead","6216 Prosepct Street ","Fredericksburg","VA","22407","Director","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03200540,"Houston Howard","6121 N Danford Street","Fredericksburg","VA","22407","Vice President","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03200540,"George Giddens","9823 Danford Street","Fredericksburg","VA","22407","President","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03200540,"Wesley Mcclain","6312 Cranston Lane ","Fredericksburg","VA","22407","Director","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03200540,"Nicole Cole","9909 Ashmeade Ct","Fredericksburg","VA","22407","Treasurer","Fox Point Homeowners Association",HOA,VA,22407,Fredericksburg,1/12/21,05/11/2020
+'03437282,"Mary Jackomino","3933 Fox Hunt Trl","Williamsburg","VA","23188","Vice President","Fox Ridge Of Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,07/24/2020
+'03437282,"Penelope Payne","Po Box 5100","Williamsburg","VA","23188","Treasurer","Fox Ridge Of Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,07/24/2020
+'03437282,"Susan Cheesman","3916 Fox Hunt Trail","Williamsburg","VA","23188","President","Fox Ridge Of Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,07/24/2020
+'03437282,"Robert Jackson","3930 Fox Hunt Trail","Williamsburg","VA","23188","Secretary","Fox Ridge Of Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,07/24/2020
+'03437282,"Belinda E. Fields","3876 Fox Run","Williamsburg","VA","23188","Director","Fox Ridge Of Williamsburg Homeowners Association",HOA,VA,23188,James City,1/12/21,07/24/2020
+'06073555,"Allen West","8700 Trumpet Court","King George","VA","22485","President","Fox Run Property Owners Association",HOA,VA,22485,King George,1/12/21,12/21/2020
+'06073555,"Amy Serpa","8658 Trumpet Court","King George","VA","22485","Secretary","Fox Run Property Owners Association",HOA,VA,22485,King George,1/12/21,12/21/2020
+'06073555,"Kurt Erickson","8481 Den Circle","King George","VA","22485","Treasurer","Fox Run Property Owners Association",HOA,VA,22485,King George,1/12/21,12/21/2020
+'06073555,"William Windus","8248 Sadle Drive","King George","VA","22485","Vice President","Fox Run Property Owners Association",HOA,VA,22485,King George,1/12/21,12/21/2020
+'02968113,"Logan Antonizzi","4 Devonshire Drive","Fredericksburg","VA","22401","President","Fox Run Subdivision Owners' Association",HOA,VA,22401,Fredericksburg,1/12/21,12/07/2020
+'02968113,"Fred Sisk","18 Devonshire Drive","Fredericksburg","VA","22401","Vice President","Fox Run Subdivision Owners' Association",HOA,VA,22401,Fredericksburg,1/12/21,12/07/2020
+'02968113,"Deborah Crickenberger","15 Devonshire Drive","Fredericksburg","VA","22401","Director","Fox Run Subdivision Owners' Association",HOA,VA,22401,Fredericksburg,1/12/21,12/07/2020
+'02968113,"John G. Conway","12 Devonshire Drive ","Fredericksburg","VA","22401","Director","Fox Run Subdivision Owners' Association",HOA,VA,22401,Fredericksburg,1/12/21,12/07/2020
+'02968113,"M. Christine Conway","12 Devonshire Drive ","Fredericksburg","VA","22401","Treasurer","Fox Run Subdivision Owners' Association",HOA,VA,22401,Fredericksburg,1/12/21,12/07/2020
+'01904754,"Cris Reseigh","3230 History Drive","Oakton","VA","22124","Treasurer","Fox Vale Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,01/14/2020
+'01904754,"Liz Johnson","11703 Fox Glen Drive","Oakton","VA","22124","President","Fox Vale Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,01/14/2020
+'01904754,"Leigh H. Coen","11698 Fox Glen Drive","Oakton","VA","22124","Treasurer","Fox Vale Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,01/14/2020
+'01904754,"David Jenkins","11705 Sumacs Street","Oakton","VA","22124","Director","Fox Vale Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,01/14/2020
+'01904754,"Elisa  Ambrose","11676 Fox Glen Drive","Oakton","VA","22124","Director","Fox Vale Homeowners Association",HOA,VA,22124,Fairfax,1/12/21,01/14/2020
+'05853544,"George Kelly","6933 Fox Downs Drive","Richmond","VA","23231","President","Foxboro Downs Homeowner's Association",HOA,VA,23231,Henrico,1/12/21,09/27/2018
+'05853544,"Quentin Adams","6721 Fox Downs Drive","Richmond","VA","23231","Secretary","Foxboro Downs Homeowner's Association",HOA,VA,23231,Henrico,1/12/21,09/27/2018
+'05853544,"Karen Bryant","1704 Harness Place","Richmond","VA","23231","Treasurer","Foxboro Downs Homeowner's Association",HOA,VA,23231,Henrico,1/12/21,09/27/2018
+'04300786,"Jon Friedline","9051 Cottage Loop","Bristow","VA","20136","President","Foxborough Phase 1 Homeowners Association",HOA,VA,20136,Prince William,1/12/21,06/23/2020
+'04300786,"Jerry Hall","13205 Scottish Hunt Lane ","Bristow","VA","20136","Vice President","Foxborough Phase 1 Homeowners Association",HOA,VA,20136,Prince William,1/12/21,06/23/2020
+'04300786,"Susan Dakin","13216 Golders Green Place","Bristow","VA","20136","Treasurer","Foxborough Phase 1 Homeowners Association",HOA,VA,20136,Prince William,1/12/21,06/23/2020
+'04300786,"Joe Roberts","13144 Scottish Hunt Lane","Bristow","VA","20136","Secretary","Foxborough Phase 1 Homeowners Association",HOA,VA,20136,Prince William,1/12/21,06/23/2020
+'04300786,"Jeff Levine","9054 Cottage Loop","Bristow","VA","20136","Director","Foxborough Phase 1 Homeowners Association",HOA,VA,20136,Prince William,1/12/21,06/23/2020
+'02005056,"Debbie Schumacher","13 Brunswick Drive","Richmond","VA","23238","Secretary","Foxchapel Association",HOA,VA,23238,Henrico,1/12/21,06/02/2020
+'02005056,"Andrew Kidwell","10002 Ramsbury Way","Richmond","VA","23238","Director","Foxchapel Association",HOA,VA,23238,Henrico,1/12/21,06/02/2020
+'02005056,"Brian Lansing","11 Runswick Drive","Richmond","VA","23238","Vice President","Foxchapel Association",HOA,VA,23238,Henrico,1/12/21,06/02/2020
+'02005056,"Eric Hieber","7 Ramsbury Court","Richmond","VA","23238","President","Foxchapel Association",HOA,VA,23238,Henrico,1/12/21,06/02/2020
+'02005056,"Todd Mungo","17 Runswick Drive","Henrico","VA","23238","Treasurer","Foxchapel Association",HOA,VA,23238,Henrico,1/12/21,06/02/2020
+'07295587,"Forrest Mitchell","2619 Hydraulic Road ","Charlottesville","VA","22901","Director","Foxchase Landing Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,10/16/2020
+'07295587,"David Mitchell","2619 Hydraulic Road","Charlottesville","VA","22901","President","Foxchase Landing Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,10/16/2020
+'07295587,"David Mitchell","2619 Hydraulic Road ","Charlottesville","VA","22901","Director","Foxchase Landing Homeowners Association",HOA,VA,22901,Albemarle,1/12/21,10/16/2020
+'05957774,"Ed Stonesifer","725 Lenox Hill Road ","Charlottesville","VA","22903","Vice President","Foxchase Owners' Association",HOA,VA,22903,Charlottesville,1/12/21,10/07/2020
+'05957774,"Christine Bowers","220 Bedford Park Road ","Charlottesville","VA","22903","Treasurer","Foxchase Owners' Association",HOA,VA,22903,Charlottesville,1/12/21,10/07/2020
+'05957774,"Fredric Weinberg","840 Carlyle Place","Charlottesville","VA","22903","Secretary","Foxchase Owners' Association",HOA,VA,22903,Charlottesville,1/12/21,10/07/2020
+'05957774,"Kristine Bourque","525 Foxdale Lane","Charlottesville","VA","22903","Director","Foxchase Owners' Association",HOA,VA,22903,Charlottesville,1/12/21,10/07/2020
+'05957774,"Susan Howell","765 Lenox Hill Road","Charlottesville","VA","22903","President","Foxchase Owners' Association",HOA,VA,22903,Charlottesville,1/12/21,10/07/2020
+'06599153,"David W. Cloak","1100 Boulders Pkwy #101","North Chesterfield","VA","23225","President","Foxcreek Owners Association",HOA,VA,23229,Henrico,1/12/21,04/30/2020
+'06599153,"Kendra Madison","1100 Boulders Pkwy #101","North Chesterfield","VA","23225","Vice President","Foxcreek Owners Association",HOA,VA,23229,Henrico,1/12/21,04/30/2020
+'06599153,"Gregory N. Koontz","1100 Boulders Pkwy #101","Norht Chesterfield","VA","23225","Director","Foxcreek Owners Association",HOA,VA,23229,Henrico,1/12/21,04/30/2020
+'03486107,"John Foley","6254 Fox Branch Ct","Midlothian","VA","23112","President","Foxcroft Homeowners Association",HOA,VA,23112,Chesterfield,1/12/21,09/30/2020
+'03486107,"Kenneth Geon","15531 Fox Gate Court","Midlothian","VA","23112","Treasurer","Foxcroft Homeowners Association",HOA,VA,23112,Chesterfield,1/12/21,09/30/2020
+'03486107,"Doug Desimone","15530 Fox Haven Lane","Midlothian","VA","23112","Secretary","Foxcroft Homeowners Association",HOA,VA,23112,Chesterfield,1/12/21,09/30/2020
+'03486107,"Jason Robertson","5512 Fox Haven Lane","Midlothian","VA","23112","Director","Foxcroft Homeowners Association",HOA,VA,23112,Chesterfield,1/12/21,09/30/2020
+'03486107,"Elizabeth Peterson","5631 Houndmaster Road","Midlothian","VA","23112","Vice President","Foxcroft Homeowners Association",HOA,VA,23112,Chesterfield,1/12/21,09/30/2020
+'04565115,"Jamie Yowell","303 Leaping Fox Lane","Charlottesville","VA","22902","Vice President","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Paul Shockley","115 Running Fox Lane","Charlottesville","VA","22902","Secretary","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Jeff Sessler","1272 Fox Crest Way","Charlottesville","VA","22902","Director","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Kevin Grunden","1181 Foxchase Ridge","Charlottesville","VA","22902","President","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Timothy Cognata","1194 Foxchase Ridge","Charlottesville","VA","22902","Director","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Stephen Saunders","1209 Foxchase Ridge","Charlottesville","VA","22902","Director","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Brianne Heisel","1173 Foxchase Ridge","Charlottesville","VA","22902","Secretary","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Christopher Leblanc","1181 Foxvale Laneq","Charlottesville","VA","22902","Director","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'04565115,"Wayne Snyder","518 Rolling Valley Court","Charlottesville","VA","22902","Director","Foxcroft Owners Association",HOA,VA,22902,Charlottesville,1/12/21,12/10/2020
+'02735876,"Curtis Gaucher","3835 Grand Junction Court ","Fairfax","VA","22033","Treasurer","Foxfield Community Association",HOA,VA,22033,Fairfax,1/12/21,08/18/2020
+'02735876,"Rabin Aboui-Nosn","13115 Cross Keys Ct","Fairfax","VA","22033","Director","Foxfield Community Association",HOA,VA,22033,Fairfax,1/12/21,08/18/2020
+'02735876,"Ryan Hamad","13344 Foxhole Drive","Fairfax","VA","22033","Secretary","Foxfield Community Association",HOA,VA,22033,Fairfax,1/12/21,08/18/2020
+'02735876,"Scott Emmel","Po Box 230455","Centreville","VA","20120","President","Foxfield Community Association",HOA,VA,22033,Fairfax,1/12/21,08/18/2020
+'02735876,"Michael Gartlan","13108 Willoughby Point Drive ","Fairfax","VA","22033","Vice President","Foxfield Community Association",HOA,VA,22033,Fairfax,1/12/21,08/18/2020
+'04827200,"Rich Gaeta","4332 Fair Chase","Williamsburg","VA","23185","President","Foxfield Homeowners Association",HOA,VA,23185,James City,1/12/21,05/06/2020
+'04827200,"Margaret Coleman","2520 Fair Chase","Williamsburg","VA","23185","Treasurer","Foxfield Homeowners Association",HOA,VA,23185,James City,1/12/21,05/06/2020
+'04827200,"Bob Mongold","2525 Burrows Court","Williamsburg","VA","23185","Secretary","Foxfield Homeowners Association",HOA,VA,23185,James City,1/12/21,05/06/2020
+'04827200,"Valerie King","2521 Fair Chase","Williamsburg","VA","23185","Director","Foxfield Homeowners Association",HOA,VA,23185,James City,1/12/21,05/06/2020
+'04827200,"Dan Carlson","2520 Burrows Ct","Williamsburg","VA","23185","Director","Foxfield Homeowners Association",HOA,VA,23185,James City,1/12/21,05/06/2020
+'08124125,"Todd Chahners","15871 City View Drive #200","Midlothian","VA","23113","Director","Foxfield Ii Homeowners' Association",HOA,VA,23113,Chesterfield,1/12/21,10/29/2020
+'08124125,"Leroy Vaughan","2931 Polo Parkway","Midlothian","VA","23113","Director","Foxfield Ii Homeowners' Association",HOA,VA,23113,Chesterfield,1/12/21,10/29/2020
+'08124125,"Donald J. Balzer Jr.","1527 Standing Ridge Road","Powhatan","VA","23139","Vice President","Foxfield Ii Homeowners' Association",HOA,VA,23113,Chesterfield,1/12/21,10/29/2020
+'08124125,"Chris Nash","15871 City View Drive #100","Midlothian","VA","23113","Director","Foxfield Ii Homeowners' Association",HOA,VA,23113,Chesterfield,1/12/21,10/29/2020
+'08124125,"Glenn Melhorn","15871 City View Drive #100","Midlothian","VA","23113","Director","Foxfield Ii Homeowners' Association",HOA,VA,23113,Chesterfield,1/12/21,10/29/2020
+'08064495,"William G. Darden","1001 Scenic Pkwy #104","Chesapeake","VA","23323","President","Foxfield Meadow Homeowners Association",HOA,VA,23434,Suffolk,1/12/21,05/12/2020
+'08064495,"George B. Hill","1001 Scenic Pkwy #104","Chesapeake","VA","23323","Vice President","Foxfield Meadow Homeowners Association",HOA,VA,23434,Suffolk,1/12/21,05/12/2020
+'08064495,"Douglas C. Smith","1001 Scenic Pkwy #104","Chesapeake","VA","23323","Secretary","Foxfield Meadow Homeowners Association",HOA,VA,23434,Suffolk,1/12/21,05/12/2020
+'03327970,"Dara Friedlander","12042 Foxfield Circle","Henrico","VA","23233","President","Foxfield Townhouses At Wellesley Homeowners Association",HOA,VA,23233,Henrico,1/12/21,03/21/2019
+'03327970,"Mark Braley","12049 Foxfield Circle","Henrico","VA","23233","Director","Foxfield Townhouses At Wellesley Homeowners Association",HOA,VA,23233,Henrico,1/12/21,03/21/2019
+'03327970,"Patrick O'Hare","12078 Foxfield Circle","Henrico","VA","23233","Vice President","Foxfield Townhouses At Wellesley Homeowners Association",HOA,VA,23233,Henrico,1/12/21,03/21/2019
+'03327970,"Doug Web","12078 Foxfield Circle","Henrico","VA","23233","Treasurer","Foxfield Townhouses At Wellesley Homeowners Association",HOA,VA,23233,Henrico,1/12/21,03/21/2019
+'03327970,"Sherman Burroughs","4004 Foxfield Place","Henrico","VA","23233","Secretary","Foxfield Townhouses At Wellesley Homeowners Association",HOA,VA,23233,Henrico,1/12/21,03/21/2019
+'04856878,"James Cast","15624 Moss Light Place","Moseley","VA","23120","President","Foxfire Community Association",HOA,VA,23120,Chesterfield,1/12/21,05/13/2019
+'04856878,"Michael Vogellbach","5743 Fire Light Terrace","Moseley","VA","23120","Vice President","Foxfire Community Association",HOA,VA,23120,Chesterfield,1/12/21,05/13/2019
+'04856878,"Katherine Watson","5813 Fire Light Terrace","Moseley","VA","23120","Secretary","Foxfire Community Association",HOA,VA,23120,Chesterfield,1/12/21,05/13/2019
+'04856878,"Kris Burnette","5707 Fire Light Terrace","Moseley","VA","23120","Director","Foxfire Community Association",HOA,VA,23120,Chesterfield,1/12/21,05/13/2019
+'01820448,"Ann Mcmillan","1700 Foxfire Circle","Henrico","VA","23238","Director","Foxfire Homeowners Association",HOA,VA,23238,Henrico,1/12/21,01/09/2020
+'01820448,"Daniel Caffrey","1703 Foxfire Circle","Henrico","VA","23238","President","Foxfire Homeowners Association",HOA,VA,23238,Henrico,1/12/21,01/09/2020
+'01820448,"Maria Rappa","1714 Fox Creek Circle","Henrico","VA","23238","Director","Foxfire Homeowners Association",HOA,VA,23238,Henrico,1/12/21,01/09/2020
+'01820448,"James Wright","1701 Foxfire Circle","Henrico","VA","23238","Director","Foxfire Homeowners Association",HOA,VA,23238,Henrico,1/12/21,01/09/2020
+'01820448,"Margaret Hardesty","1705 Foxfire Circle","Henrico","VA","23238","Vice President","Foxfire Homeowners Association",HOA,VA,23238,Henrico,1/12/21,01/09/2020
+'07570690,"Michael Dyer","1420 King Street #411","Alexandria","VA","22314","President","Foxhaven Manor Homeowners Association",HOA,VA,22314,Alexandria,1/12/21,08/31/2020
+'07570690,"Basim Kattan","2220 46th Street Nw","Washington","DC","20007","Vice President","Foxhaven Manor Homeowners Association",HOA,VA,22314,Alexandria,1/12/21,08/31/2020
+'07570690,"Karen Smith","1420 King Street #411","Alexandria","VA","22314","Treasurer","Foxhaven Manor Homeowners Association",HOA,VA,22314,Alexandria,1/12/21,08/31/2020
+'04363339,"John Kay","101 Ridge Court","Winchester","VA","22603","President","Foxridge At Frederick Homeowners Association",HOA,VA,22603,Frederick,1/12/21,11/23/2020
+'04363339,"Sandra Sutherland","102 Fox Court","","VA","22603","Director","Foxridge At Frederick Homeowners Association",HOA,VA,22603,Frederick,1/12/21,11/23/2020
+'04363339,"Hoa Tran","105 Sawtooth Drive","Stephenson","VA","22656","Secretary","Foxridge At Frederick Homeowners Association",HOA,VA,22603,Frederick,1/12/21,11/23/2020
+'04363339,"Sandra Dillon","112 Ridge Court ","Wincehster","VA","22603","Director","Foxridge At Frederick Homeowners Association",HOA,VA,22603,Frederick,1/12/21,11/23/2020
+'04074688,"Susie Fugitt","12210 Stirrup Cup Lane","Rockville","VA","23146","Vice President","Foxridge Property Owners Association",HOA,VA,23146,Hanover,1/12/21,04/27/2020
+'04074688,"Mary Gail Walton","12251 Hunting Horn Lane","Rockville","VA","23146","Treasurer","Foxridge Property Owners Association",HOA,VA,23146,Hanover,1/12/21,04/27/2020
+'04074688,"George  Walton","12251 Hunting Horn Lane","Rockville","VA","23146","President","Foxridge Property Owners Association",HOA,VA,23146,Hanover,1/12/21,04/27/2020
+'07980576,"Thomas E. Hixon","Po Box 331","Great Falls","VA","22066","President","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Dolly Whelan","Po Box 331","Great Falls","VA","22066","Vice President","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Ann Kainec","Po Box 331","Great Falls","VA","22066","Treasurer","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Thomas Dee","Po Box 331","Great Falls","VA","22066","Secretary","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Randy Long","Po Box 331","Great Falls","VA","22066","Director","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Linda Koppier","Po Box 331","Great Falls","VA","22066","Director","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Petar Milutinovic","Po Box 331","Great Falls","VA","22066","Director","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Jordan Sembower","Po Box 331","Great Falls","VA","22066","Director","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'07980576,"Emily Hemberg","Po Box 331","Great Falls","VA","22066","Director","Foxvale Farm Homeowners' Association",HOA,VA,22066,Fairfax,1/12/21,10/28/2020
+'04232377,"Latonia M. Chavis","110 Silver Fox Trace","Yorktown","VA","23693","Vice President","Foxwood Association",HOA,VA,23693,York,1/12/21,03/07/2020
+'04232377,"Dorothy O. Tenczar","211 Hounds Chase","Yorktown","VA","23693","Treasurer","Foxwood Association",HOA,VA,23693,York,1/12/21,03/07/2020
+'04232377,"Robert P. Donnelly, Jr.","117 Hedgerow Lane","Yorktown","VA","23693","Secretary","Foxwood Association",HOA,VA,23693,York,1/12/21,03/07/2020
+'04232377,"Shawn T. Gallagher","219 Silver Fox Trace","Yorktown","VA","23693","President","Foxwood Association",HOA,VA,23693,York,1/12/21,03/07/2020
+'04232377,"Claudia Hoyes","212 Silver Fox Trace","Yorktown","VA","23693","Director","Foxwood Association",HOA,VA,23693,York,1/12/21,03/07/2020
+'06736714,"Jeffrey Owen","232 Sir Walter Drive","Bumpass","VA","23024","President","Foxwood Manor Property Owners Association",HOA,VA,22043,Fairfax,1/12/21,03/05/2020
+'06736714,"Colleen Hill","4910 Cloverdale Court","La Plata","MD","20646","Treasurer","Foxwood Manor Property Owners Association",HOA,VA,22043,Fairfax,1/12/21,03/05/2020
+'06736714,"Leslie Lynch","5328 Taney Avenue","Alexandria","VA","22304","Vice President","Foxwood Manor Property Owners Association",HOA,VA,22043,Fairfax,1/12/21,03/05/2020
+'01277706,"James T. Breckenridge","6361 Colby Way","Virginia Beach","VA","23464","President","Framingham Village Homes Association",HOA,VA,23464,Virginia Beach,1/12/21,07/13/2020
+'01277706,"Phyllis Brown Feagin","6300 Chestnut Hill Road","Virginia Beach","VA","23464","Vice President","Framingham Village Homes Association",HOA,VA,23464,Virginia Beach,1/12/21,07/13/2020
+'01277706,"Irvin Norris Blake Jr.","467 Bridge Street","Hampton","VA","23669","Treasurer","Framingham Village Homes Association",HOA,VA,23464,Virginia Beach,1/12/21,07/13/2020
+'01277706,"Amber Wood","1329 Depaul Way","Virginia Beach","VA","23464","Director","Framingham Village Homes Association",HOA,VA,23464,Virginia Beach,1/12/21,07/13/2020
+'01277706,"Dr Mamie Johnson","6373 Colby Way","Virginia Beach","VA","23464","Secretary","Framingham Village Homes Association",HOA,VA,23464,Virginia Beach,1/12/21,07/13/2020
+'06907414,"Amanda Ryan","9509 Francis Young Lane ","Vienna","VA","22182","Vice President","Francis Young Estates Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/01/2021
+'06907414,"John Moloney","9519 Francis Young Lane ","Vienna","VA","22182","Director","Francis Young Estates Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/01/2021
+'06907414,"William C. Stacia, Jr.","1846 Mamie Dyer Lane ","Vienna","VA","22182","President","Francis Young Estates Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/01/2021
+'03070307,"Ernest G. Byrum","397 Francisco Way","Newport News","VA","23601","President","Francisco Village Owner's Association",HOA,VA,23601,Newport News,1/12/21,10/31/2020
+'03070307,"Velda K. Witcher","393 Francisco Way","Newport News","VA","23601","Vice President","Francisco Village Owner's Association",HOA,VA,23601,Newport News,1/12/21,10/31/2020
+'01366723,"Katherine Barnoski","6631 Elk Park Ct","Alexandria","VA","22310","Vice President","Franconia Commons Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,03/02/2020
+'01366723,"Chris Bragg","6584 Yadkin Court","Alexandria","VA","22310","President","Franconia Commons Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,03/02/2020
+'01366723,"Naila Rafique","6623 Deer Gap Ct","Alexandria","VA","22310","Treasurer","Franconia Commons Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,03/02/2020
+'01366723,"Katherine Richter","6611 Indian Trail","Alexandria","VA","22310","Director","Franconia Commons Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,03/02/2020
+'01366723,"Teresa Dos","6511 China Grove Ct","Alexandria","VA","22310","Director","Franconia Commons Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,03/02/2020
+'02186062,"Thomas  Bordley","Po Box 150892","Alexandria","VA","22315","President","Franconia Forest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,12/14/2020
+'02186062,"Rick Kortlang","Po Box 150892","Alexandria","VA","22315","Vice President","Franconia Forest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,12/14/2020
+'02186062,"Elaine Anderegg","Po Box 150892","Alexandria","VA","22315","Treasurer","Franconia Forest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,12/14/2020
+'02186062,"Lanita M. Kauffer","Po Box 150892","Alexandria","VA","22315","Secretary","Franconia Forest Homeowners Association",HOA,VA,22310,Alexandria,1/12/21,12/14/2020
+'01297688,"Adam Migus","5702 Thomas Edison Court","Alexandria","VA","22310","Secretary","Franconia Village Association",HOA,VA,22310,Alexandria,1/12/21,12/17/2020
+'01297688,"Jennifer Fimbres","5704 Thomas Edison Ct","Alexandria","VA","22310","Treasurer","Franconia Village Association",HOA,VA,22310,Alexandria,1/12/21,12/17/2020
+'02289049,"Andrew Gawlik","2030 Franklin Cluster Ct","Falls Church","VA","22043","President","Franklin Cluster Homeowners' Association",HOA,VA,22043,Fairfax,1/12/21,04/24/2020
+'02289049,"Thomas A. Heck","2032 Franklin Cluster Ct","Falls Church","VA","22043","Director","Franklin Cluster Homeowners' Association",HOA,VA,22043,Fairfax,1/12/21,04/24/2020
+'02289049,"James Mayes","2034 Franklin Cluster Ct","Falls Church","VA","22043","Secretary","Franklin Cluster Homeowners' Association",HOA,VA,22043,Fairfax,1/12/21,04/24/2020
+'07770936,"Chris Holet","6930 Villa Del Rey Court","Springfield","VA","22150","President","Franklin Commons Homeowners Association",HOA,VA,22150,Fairfax,1/12/21,03/18/2020
+'07770936,"Petr Minar","6809 Gillings Road","","VA","22152","Director","Franklin Commons Homeowners Association",HOA,VA,22150,Fairfax,1/12/21,03/18/2020
+'07770936,"Wyoma Jacob","6926 Villa Del Ray Court","Springfield","VA","22150","Vice President","Franklin Commons Homeowners Association",HOA,VA,22150,Fairfax,1/12/21,03/18/2020
+'07770936,"Tessa Admire","6913 Villa Del Ray Court","Springfield","VA","22150","Secretary","Franklin Commons Homeowners Association",HOA,VA,22150,Fairfax,1/12/21,03/18/2020
+'07770936,"Dawn P. Clements","6901 Villa Del Ray Ct","Springfield","VA","22150","Director","Franklin Commons Homeowners Association",HOA,VA,22150,Fairfax,1/12/21,03/18/2020
+'04303996,"Katherine Scott","12605 Astorian Court ","Oak Hill","VA","20171","President","Franklin Corner Community Association",HOA,VA,20171,Fairfax,1/12/21,07/18/2018
+'04303996,"Jawahar Kauani","3011 Jonquilla Court","Oak Hill","VA","20171","Secretary","Franklin Corner Community Association",HOA,VA,20171,Fairfax,1/12/21,07/18/2018
+'05868484,"Colette Smith","241 Stacey Ct","Culpeper","VA","22701","President","Franklin Meadows Homeowners Association",HOA,VA,22701,Culpeper,1/12/21,10/15/2020
+'05868484,"Eric Peterson","217 Stacey Court","Culpeper","VA","22701","Vice President","Franklin Meadows Homeowners Association",HOA,VA,22701,Culpeper,1/12/21,10/15/2020
+'05868484,"Heidi Allen","216 Meadows Court","Culpeper","VA","22701","Treasurer","Franklin Meadows Homeowners Association",HOA,VA,22701,Culpeper,1/12/21,10/15/2020
+'08128027,"Russell Shield","12909 Oak Lawn Place","Herndon","VA","20171","Director","Franklin Oaks Homeowners' Association",HOA,VA,20171,Fairfax,1/12/21,12/29/2020
+'08128027,"John Troy","12932 Oak Lawn Place","Herndon","VA","20171","President","Franklin Oaks Homeowners' Association",HOA,VA,20171,Fairfax,1/12/21,12/29/2020
+'08128027,"Brent Dann","2986 Franklin Oaks Drive","Herndon","VA","20171","Director","Franklin Oaks Homeowners' Association",HOA,VA,20171,Fairfax,1/12/21,12/29/2020
+'08128027,"Avi Sareen","2880 Franklin Oaks Drive","Herndon","VA","20171","Vice President","Franklin Oaks Homeowners' Association",HOA,VA,20171,Fairfax,1/12/21,12/29/2020
+'07569940,"Gary Mozingo","829 W Ocean View Avenue #B","Norfolk","VA","23503","President","Fran-su By The Bay, A Condominium",Condo,VA,23503,Norfolk,1/12/21,11/02/2020
+'07569940,"Doris Greening","824 W Ocean View Avenue #D","Norfolk","VA","23503","Treasurer","Fran-su By The Bay, A Condominium",Condo,VA,23503,Norfolk,1/12/21,11/02/2020
+'07569940,"Pamela White","824 W Ocean View Avenue #K","Norfolk","VA","23503","Secretary","Fran-su By The Bay, A Condominium",Condo,VA,23503,Norfolk,1/12/21,11/02/2020
+'04154050,"April Jenkins","111 Tinoak Drive","Stephens City","VA","22655","President","Frederick Woods Homeowners Association",HOA,VA,22655,Frederick,1/12/21,08/19/2019
+'04154050,"Darren Jones","116 Button Bush Avenue","Stephens City","VA","22655","Secretary","Frederick Woods Homeowners Association",HOA,VA,22655,Frederick,1/12/21,08/19/2019
+'04154050,"Tim Hockman","103 Tin Oak Drive","Stephens City","VA","22655","Vice President","Frederick Woods Homeowners Association",HOA,VA,22655,Frederick,1/12/21,08/19/2019
+'04154050,"Sandy Miller","112 Cottonwood Avenue","Stephen City","VA","22655","Treasurer","Frederick Woods Homeowners Association",HOA,VA,22655,Frederick,1/12/21,08/19/2019
+'08250383,"Jeremy N. Tweedie","126 Laredo Court","Stephens City","VA","22655","Director","Freedom Crossing Community Association",HOA,VA,22655,Frederick,1/12/21,11/02/2020
+'04429288,"Alexander G. Fassbender","2004 Byrd Road ","Vienna","VA","22182","President","Freedom Park Property Owners' Association",HOA,VA,22182,Fairfax,1/12/21,02/03/2020
+'06450647,"Nick Cordovana","323 W Freemason Street","Norfolk","VA","23510","Director","Freemason Place Condominium Association",Condo,VA,23510,Norfolk,1/12/21,09/18/2020
+'06450647,"Catherine Watkins Scherer","249 W Freemason Place # 208","Norfolk","VA","23510","President","Freemason Place Condominium Association",Condo,VA,23510,Norfolk,1/12/21,09/18/2020
+'06450647,"Patricia York","249 N Freemason Street #406","Norfolk","VA","23510","Treasurer","Freemason Place Condominium Association",Condo,VA,23510,Norfolk,1/12/21,09/18/2020
+'06450647,"Lilla Jo Cole","249 W Freemason Street #409","Norfolk","VA","23510","Secretary","Freemason Place Condominium Association",Condo,VA,23510,Norfolk,1/12/21,09/18/2020
+'06450647,"Dale W. Lester","8141 N View Boulevard ","Norfolk","VA","23518","Vice President","Freemason Place Condominium Association",Condo,VA,23510,Norfolk,1/12/21,09/18/2020
+'03727286,"John T. Kavanaugh","312 College Place","Norfolk","VA","23510","President","Freemason Row Townhouses Association",HOA,VA,23510,Norfolk,1/12/21,03/03/2020
+'03727286,"Bruce Wilcox","300 Dunmore Street ","Norfolk","VA","23510","Director","Freemason Row Townhouses Association",HOA,VA,23510,Norfolk,1/12/21,03/03/2020
+'03727286,"Linwood Beckner","296 College Place ","Norfolk","VA","23510","Secretary","Freemason Row Townhouses Association",HOA,VA,23510,Norfolk,1/12/21,03/03/2020
+'03727286,"Randy Lyall","315 Yarmouth Street","Norfolk","VA","23510","Director","Freemason Row Townhouses Association",HOA,VA,23510,Norfolk,1/12/21,03/03/2020
+'03727286,"Jason Muir","323 Yarmouth Street ","Norfolk","VA","23510","Director","Freemason Row Townhouses Association",HOA,VA,23510,Norfolk,1/12/21,03/03/2020
+'07229701,"Neil Payne","3166 French Hill Drive","Powhatan","VA","23139","President","French Hill Homeowners' Association",HOA,VA,23139,Powhatan,1/12/21,03/31/2020
+'07229701,"Lowayne Bockelmann","2112 French Hill Court","Powhatan","VA","23139","Vice President","French Hill Homeowners' Association",HOA,VA,23139,Powhatan,1/12/21,03/31/2020
+'07229701,"Randy Atherton","3103 French Hill Drive","Powhatan","VA","23139","Treasurer","French Hill Homeowners' Association",HOA,VA,23139,Powhatan,1/12/21,03/31/2020
+'02777910,"Marijo Ahlgrimm","1948 Friendship Place","Falls Church","VA","22043","Director","Friendship Place Homeowner's Association",HOA,VA,22043,Fairfax,1/12/21,09/04/2020
+'02777910,"Shabir Poonawala","7134 Penguin Place","Falls Church","VA","22043","Director","Friendship Place Homeowner's Association",HOA,VA,22043,Fairfax,1/12/21,09/04/2020
+'02777910,"Jim Ahlgrimm","1948 Friendship Place","Falls Church","VA","22043","Vice President","Friendship Place Homeowner's Association",HOA,VA,22043,Fairfax,1/12/21,09/04/2020
+'02777910,"Jim Antetomaso","7130 Penguin Place","Falls Church","VA","22043","President","Friendship Place Homeowner's Association",HOA,VA,22043,Fairfax,1/12/21,09/04/2020
+'02300754,"Robert Jackson","12231 Chapel Road ","Clifton","VA","20124","Treasurer","Frosty Meadows Homeowners Association",HOA,VA,20124,Fairfax,1/12/21,08/16/2020
+'02300754,"Timothy Boudreaux","12221 Chapel Road","Clifton","VA","20124","President","Frosty Meadows Homeowners Association",HOA,VA,20124,Fairfax,1/12/21,08/16/2020
+'02300754,"David V. Aguilar","12213 Chapel Road ","Clifton","VA","20124","Vice President","Frosty Meadows Homeowners Association",HOA,VA,20124,Fairfax,1/12/21,08/16/2020
+'02733319,"Walter Brown","1115 Fort Hayes Drive","Petersburg","VA","23805","Vice President","Ft. Hayes Condominium Association",Condo,VA,23805,Petersburg,1/12/21,07/05/2018
+'02733319,"Edwin M. Betts Jr.","1105 Fort Hayes Drive","Petersburg","VA","23805","Director","Ft. Hayes Condominium Association",Condo,VA,23805,Petersburg,1/12/21,07/05/2018
+'02733319,"Pat Perkins","1117 Fort Hayes Drive","Petersburg","VA","23805","Director","Ft. Hayes Condominium Association",Condo,VA,23805,Petersburg,1/12/21,07/05/2018
+'02733319,"Joanne Setchel","9705 Bunker Court","S. Prince George","VA","23805","President","Ft. Hayes Condominium Association",Condo,VA,23805,Petersburg,1/12/21,07/05/2018
+'02733319,"Lethia Quarles","800 B Fort Hayes Circle","Petersburg","VA","23805","Director","Ft. Hayes Condominium Association",Condo,VA,23805,Petersburg,1/12/21,07/05/2018
+'04035697,"Laura Doyle","9706 Layminster Lane","Vienna","VA","22182","Secretary","Full Cry Farm Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/27/2020
+'04035697,"Sharon Edelmann","1803 Dillory Drive","Vienna","VA","22182","Vice President","Full Cry Farm Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/27/2020
+'04035697,"James Gatto","1802 Pillory Drive","Vienna","VA","22182","President","Full Cry Farm Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/27/2020
+'04035697,"Marjorie Hermes","1805 Watervale Way","","VA","22182","Treasurer","Full Cry Farm Homeowners Association",HOA,VA,22182,Fairfax,1/12/21,01/27/2020
+'02705309,"James Strickler","3203 Miller Heights Road","Oakton","VA","22124","President","Fullerton Business Center Owners' Association",Condo,VA,22124,Fairfax,1/12/21,04/03/2020
+'07333008,"Salil Mahajan","7967 Twist Lane","Springfield","VA","22153","President","Fullerton Industrial Park Condominium Association",Condo,VA,22153,Fairfax,1/12/21,12/27/2019

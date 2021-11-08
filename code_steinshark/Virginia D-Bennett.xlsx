@@ -1,0 +1,789 @@
+,ID#,NAME,ADDRESS,CITY,STATE,ZIP,TITLE,HOANAME,TYPE,HOASTATE,HOAZIP,COUNTY,ENTERED,ASOF
+0,3153525.0,Esther B. Oilman,P O Box 669,Ashland,VA,23005.0,Director,Dabney Condominium Association,Condo,VA,23005.0,Hanover,2018-12-28,2018-11-30
+1,3153525.0,Thomas Oilman,P O Box 669,Ashland,VA,23005.0,President,Dabney Condominium Association,Condo,VA,23005.0,Hanover,2018-12-28,2018-11-30
+2,3153525.0,Andrew Boninti,314 E Water Street,Charlottesville,VA,22902.0,Vice President,Dabney Condominium Association,Condo,VA,23005.0,Hanover,2018-12-28,2018-11-30
+3,8075004.0,"Douglas G. Janney, Jr.",108 Carroll Circle,Fredericksburg,VA,22405.0,President,Dabney Woods Property Owners' Association,HOA,VA,22405.0,Fredericksburg,2018-12-28,2018-05-22
+4,3538469.0,Carmen Hankerson,6124 Trident Lane,Woodbridge,VA,22193.0,Director,Dale City Phase T-19 Section I Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-06-28
+5,3538469.0,Elizabeth Zippert,6188 Trident Lane,Woodbridge,VA,22193.0,President,Dale City Phase T-19 Section I Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-06-28
+6,3538469.0,George Hankerson,6124 Trident Lane,Woodbridge,VA,22193.0,Treasurer,Dale City Phase T-19 Section I Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-06-28
+7,3190782.0,Richard Jenkins,13976 Natick Drive,Manassas,VA,20112.0,President,Dale City Section T-18 Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-02-28
+8,3190782.0,Pamela Abston,5320 Qualey Place,Woodbridge,VA,22193.0,Secretary,Dale City Section T-18 Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-02-28
+9,3190782.0,Cyrille Barr,5218 Quince Court,Woodbridge,VA,22193.0,Treasurer,Dale City Section T-18 Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-02-28
+10,3190782.0,Adam Hunter,5310 Qualey Place,Woodbridge,VA,22193.0,Vice President,Dale City Section T-18 Homeowners Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-02-28
+11,2526481.0,Henry Patterson,14644 Endsley Turn,Woodbridge,VA,22193.0,Director,Dale City Tenth Homeowners' Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-12-29
+12,2526481.0,Mildred Angelini,14580 Earlham Court,Woodbridge,VA,22193.0,President,Dale City Tenth Homeowners' Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-12-29
+13,2526481.0,Tasmin Miller Burnaugh,14612 Earlham Court,Woodbridge,VA,22193.0,Secretary,Dale City Tenth Homeowners' Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-12-29
+14,2526481.0,Marietta Pierce,14630 Endsley Turn,Woodbridge,VA,22193.0,Treasurer,Dale City Tenth Homeowners' Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-12-29
+15,2526481.0,Roger Cornett,14646 Endlsey Turn,Woodbridge,VA,22193.0,Vice President,Dale City Tenth Homeowners' Association,HOA,VA,22193.0,Prince William,2018-12-28,2018-12-29
+16,5878293.0,Kevin Lader,930 Dalmore Drive,Midlothian,VA,23113.0,Treasurer,Dalmore Homeowners Association,HOA,VA,23113.0,Chesterfield,2018-12-28,2018-12-17
+17,5878293.0,Joseph E. Genero,910 Dalmore Drive,Midlothian,VA,23113.0,Vice President,Dalmore Homeowners Association,HOA,VA,23113.0,Chesterfield,2018-12-28,2018-12-17
+18,5878293.0,Robert Latham,920 Dalmore Drive,Midlothian,VA,23113.0,Vice President,Dalmore Homeowners Association,HOA,VA,23113.0,Chesterfield,2018-12-28,2018-12-17
+19,2112043.0,Tina Cooper,121 Oronoco Street,Alexandria,VA,22314.0,Director,Dalton Wharf Office Center Association,Condo,VA,22314.0,Alexandria,2018-12-28,2018-12-31
+20,2112043.0,William T. Gordon,107 Oronoco Street,Alexandria,VA,22314.0,Director,Dalton Wharf Office Center Association,Condo,VA,22314.0,Alexandria,2018-12-28,2018-12-31
+21,2112043.0,Jim Ruber,107 Oronoco Street,Alexandria,VA,22314.0,President,Dalton Wharf Office Center Association,Condo,VA,22314.0,Alexandria,2018-12-28,2018-12-31
+22,2112043.0,Mary Lee Fay,301 N Fairfax Street #101,Alexandria,VA,22314.0,Treasurer,Dalton Wharf Office Center Association,Condo,VA,22314.0,Alexandria,2018-12-28,2018-12-31
+23,2112043.0,Ben Franke,103 Oronoco Street,Alexandria,VA,22314.0,Vice President,Dalton Wharf Office Center Association,Condo,VA,22314.0,Alexandria,2018-12-28,2018-12-31
+24,3379856.0,Carol Gregory,7973 Flager Circle,Manassas,VA,20109.0,Director,Danberry Homeowners Association,HOA,VA,20109.0,Prince William,2018-12-31,2018-10-04
+25,3379856.0,Kyle Putbrese,8080 Milliard Drive,Manassas,VA,20109.0,Director,Danberry Homeowners Association,HOA,VA,20109.0,Prince William,2018-12-31,2018-10-04
+26,3379856.0,Bryan Heiss,7965 Flager Circle,Manassas,VA,20109.0,President,Danberry Homeowners Association,HOA,VA,20109.0,Prince William,2018-12-31,2018-10-04
+27,3379856.0,Keith Castan,8076 Milliard Drive,Manassas,VA,20109.0,Treasurer,Danberry Homeowners Association,HOA,VA,20109.0,Prince William,2018-12-31,2018-10-04
+28,3379856.0,Grant Dillon,8040 Milliard Drive,Manassas,VA,20109.0,Vice President,Danberry Homeowners Association,HOA,VA,20109.0,Prince William,2018-12-31,2018-10-04
+29,1342153.0,Janet Liebenau,5226 Lonsdale Drive,Springfield,VA,22151.0,Director,Danbury Forest Community Association,HOA,VA,22151.0,Fairfax,2018-12-31,2018-07-08
+30,1342153.0,Clyde Harmon,5664 Kirkham Court,Springfield,VA,22151.0,President,Danbury Forest Community Association,HOA,VA,22151.0,Fairfax,2018-12-31,2018-07-08
+31,1342153.0,Donna Quackenbush,5270 Londale Drive,Springfield,VA,22151.0,Secretary,Danbury Forest Community Association,HOA,VA,22151.0,Fairfax,2018-12-31,2018-07-08
+32,1342153.0,Shawn Alestock,5519 Miles Court,Springfield,VA,22151.0,Treasurer,Danbury Forest Community Association,HOA,VA,22151.0,Fairfax,2018-12-31,2018-07-08
+33,1342153.0,Cal Kraft,8393 Uxbridge Court,Springfield,VA,22151.0,Vice President,Danbury Forest Community Association,HOA,VA,22151.0,Fairfax,2018-12-31,2018-07-08
+34,2405611.0,Laura Miles,13617 Depot Street,Midlothian,VA,23113.0,President,Danhurst Woods Association,HOA,VA,23113.0,Chesterfield,2018-12-31,2018-05-03
+35,2405611.0,Shirley Longan,1614 Danhurst Drive,Midlothian,VA,23113.0,Secretary,Danhurst Woods Association,HOA,VA,23113.0,Chesterfield,2018-12-31,2018-05-03
+36,2405611.0,Jenny Youman,1616 Danhurst Drive,Midlothian,VA,23113.0,Treasurer,Danhurst Woods Association,HOA,VA,23113.0,Chesterfield,2018-12-31,2018-05-03
+37,7570096.0,Bradley S. Helmick,100 Dartmouth Drive,Yorktown,VA,23693.0,President,Darby Estates Homeowners Association,HOA,VA,23693.0,York,2018-12-31,2018-12-18
+38,7570096.0,Susan Brown,104 Dartmooth Drive,Yorktown,VA,23693.0,Secretary,Darby Estates Homeowners Association,HOA,VA,23693.0,York,2018-12-31,2018-12-18
+39,7570096.0,Ravindra Patel,110 Dartmouth Drive,Yorktown,VA,23693.0,Treasurer,Darby Estates Homeowners Association,HOA,VA,23693.0,York,2018-12-31,2018-12-18
+40,4048260.0,Julia Turner,6440 Golden Rod Court,Richmond,VA,23231.0,President,Darbytown Meadows Homeowners Association,HOA,VA,23231.0,Henrico,2018-12-31,2018-07-13
+41,4048260.0,Lewis Vaughan,6420 Springcrest Lane,Richmond,VA,23231.0,Secretary,Darbytown Meadows Homeowners Association,HOA,VA,23231.0,Henrico,2018-12-31,2018-07-13
+42,4048260.0,Dometria Dixon,6305 Dawnfield Lane,Richmond,VA,23231.0,Treasurer,Darbytown Meadows Homeowners Association,HOA,VA,23231.0,Henrico,2018-12-31,2018-07-13
+43,4048260.0,Herman Winston,6452 Dawnfield Lane,Richmond,VA,23231.0,Vice President,Darbytown Meadows Homeowners Association,HOA,VA,23231.0,Henrico,2018-12-31,2018-07-13
+44,6744171.0,Reiad Nazzal,126 Pearl Street,Herndon,VA,20170.0,Director,Darlington Oaks Homeowners Association,HOA,VA,20170.0,Fairfax,2018-12-31,2018-01-03
+45,6744171.0,Marcia Bouchard,120 Pearl Street,Herndon,VA,20170.0,President,Darlington Oaks Homeowners Association,HOA,VA,20170.0,Fairfax,2018-12-31,2018-01-03
+46,6744171.0,Fran Tucker,103 Anthem Avenue,Herndon,VA,20170.0,Secretary,Darlington Oaks Homeowners Association,HOA,VA,20170.0,Fairfax,2018-12-31,2018-01-03
+47,6744171.0,Aaron Teich,105 Anthem Avenue,Herndon,VA,20170.0,Treasurer,Darlington Oaks Homeowners Association,HOA,VA,20170.0,Fairfax,2018-12-31,2018-01-03
+48,6744171.0,Marco D'Eredita,565 Van Buren Street,Herndon,VA,20170.0,Vice President,Darlington Oaks Homeowners Association,HOA,VA,20170.0,Fairfax,2018-12-31,2018-01-03
+49,3418134.0,Helen Huang,3212 Navy Drive,Herndon,VA,20171.0,Director,Dartmoor Woods Home Owners' Association,HOA,VA,20171.0,Fairfax,2018-12-31,2018-07-21
+50,3418134.0,Jason Tolbert,3205 Navy Drive,Herndon,VA,20171.0,President,Dartmoor Woods Home Owners' Association,HOA,VA,20171.0,Fairfax,2018-12-31,2018-07-21
+51,3418134.0,Yi Tolbert,3205 Navy Drive,Herndon,VA,20171.0,Secretary,Dartmoor Woods Home Owners' Association,HOA,VA,20171.0,Fairfax,2018-12-31,2018-07-21
+52,3418134.0,Khaled Hussein,125400 Falkirk Drive,Fairfax,VA,22033.0,Treasurer,Dartmoor Woods Home Owners' Association,HOA,VA,20171.0,Fairfax,2018-12-31,2018-07-21
+53,5249750.0,R. Anthony Salgado,1302 Dartmouth Road,Alexandria,VA,22314.0,President,Dartmouth Place Homeowners Association,HOA,VA,22314.0,Alexandria,2018-12-31,2018-07-17
+54,5249750.0,Ysabel Burns McAleer,1303 Dartmouth Road,Alexandria,VA,22314.0,Secretary,Dartmouth Place Homeowners Association,HOA,VA,22314.0,Alexandria,2018-12-31,2018-07-17
+55,5249750.0,Wallace Christner,1301 Dartmouth Road,Alexandria,VA,22314.0,Treasurer,Dartmouth Place Homeowners Association,HOA,VA,22314.0,Alexandria,2018-12-31,2018-07-17
+56,5249750.0,Monica Murphy,1305 Dartmouth Road,Alexandria,VA,22314.0,Vice President,Dartmouth Place Homeowners Association,HOA,VA,22314.0,Alexandria,2018-12-31,2018-07-17
+57,2293355.0,Brvce Buherworth,7715 Shooting Star Drive,Springfield,VA,22152.0,Director,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+58,2293355.0,Carolyn Jones,7714 Lexton Place #A,Springfield,VA,22152.0,Director,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+59,2293355.0,Dave Edwards,7910 Lobeha Lane,Springfield,VA,22152.0,Director,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+60,2293355.0,Gail Ledford,7773 Jewelweed Court,Springfield,VA,22152.0,President,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+61,2293355.0,Steve Richaradson,7803 Winter Cress Lane,Springfield,VA,22152.0,Secretary,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+62,2293355.0,Glen Parker,7860 Painted Daisy Drive,Springfield,VA,22152.0,Treasurer,Daventry Community Association,HOA,VA,22152.0,Fairfax,2018-12-31,2018-04-04
+63,7956410.0,Joshua Mannings,501 Davidson Circle,Chesapeake,VA,23320.0,President,Davidson Commons Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-11-10
+64,7956410.0,Britney Smith,512 Davidson Circle,Chesapeake,VA,23320.0,Secretary,Davidson Commons Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-11-10
+65,5834585.0,Chris Darko,7020 Wesbeam Drive,Mechanicsville,VA,23111.0,Director,Davis Place Subdivision Property Owners' Association,HOA,VA,23111.0,Hanover,2018-12-31,2018-07-31
+66,5834585.0,Mary Davis,8202 Horsham Drive,Mechanicsville,VA,23111.0,Director,Davis Place Subdivision Property Owners' Association,HOA,VA,23111.0,Hanover,2018-12-31,2018-07-31
+67,5834585.0,Sherry S. Heinly,8203 Bobcat Lane,Mechanicsville,VA,23111.0,Director,Davis Place Subdivision Property Owners' Association,HOA,VA,23111.0,Hanover,2018-12-31,2018-07-31
+68,5834585.0,Steve Elliott,7059 Wesbeam Drive,Mechanicsville,VA,23111.0,Director,Davis Place Subdivision Property Owners' Association,HOA,VA,23111.0,Hanover,2018-12-31,2018-07-31
+69,5834585.0,Virgie Noel,7064 Wesbeam Drive,Mechanicsville,VA,23111.0,Director,Davis Place Subdivision Property Owners' Association,HOA,VA,23111.0,Hanover,2018-12-31,2018-07-31
+70,6810576.0,Stuart R. Jones,1185 Harmony Road,Norfolk,VA,23502.0,President,Davis Street Office Park Condominium Unit Owners' Association,Condo,VA,23502.0,Norfolk,2018-12-31,2018-08-06
+71,6810576.0,Jeffrey 0. Keeter,1185 Harmony Road,Norfolk,VA,23502.0,Treasurer,Davis Street Office Park Condominium Unit Owners' Association,Condo,VA,23502.0,Norfolk,2018-12-31,2018-08-06
+72,4422754.0,Amy Chaffman,15412 Blad Eagle Lane,Woodbridge,VA,22191.0,Director,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+73,4422754.0,Maureen Parlette,15405 Marsh Overlook Drive,Woodbridge,VA,22191.0,Director,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+74,4422754.0,Robert Parlette,15405 Marsh Overlook Drive,Woodbridge,VA,22191.0,Director,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+75,4422754.0,Lamarr Johnson,15574 Canvasback Court,Woodbridge,VA,22191.0,President,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+76,4422754.0,Darryl King,15421 Marshoverlook Drive,Woodbridge,VA,22191.0,Secretary,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+77,4422754.0,Germaine Rosebero,15554 Marsh Overlook Drive,Woodbridge,VA,22191.0,Treasurer,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+78,4422754.0,Vern McHargue,15437 Duckling Place,Woodbridge,VA,22191.0,Vice President,Dawson Landing Homeowners Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-02-02
+79,5676663.0,Fred Plumb,3808 Kings Hill Court,Alexandria,VA,22309.0,President,Dawson Woods Homeowners Association,HOA,VA,22309.0,Alexandria,2018-12-31,2018-11-20
+80,5676663.0,Joe Haggerty,3804 Kings Hill Court,Alexandria,VA,22309.0,Vice President,Dawson Woods Homeowners Association,HOA,VA,22309.0,Alexandria,2018-12-31,2018-11-20
+81,7361090.0,Makk Laner,42403 Fawn Meadow Place,Chantilly,VA,20152.0,Director,Dawson's Corner Community Association,HOA,VA,20152.0,Loudoun,2018-12-31,2018-04-04
+82,7361090.0,William Davis,42212 Madturkey Run Place,Chantilly,VA,20152.0,President,Dawson's Corner Community Association,HOA,VA,20152.0,Loudoun,2018-12-31,2018-04-04
+83,7361090.0,Najam Hussain,42657 Lobella Place,Chantilly,VA,20152.0,Secretary,Dawson's Corner Community Association,HOA,VA,20152.0,Loudoun,2018-12-31,2018-04-04
+84,7361090.0,Kimberly Cunningham,26651 Foxwarren Way,Chantilly,VA,20152.0,Treasurer,Dawson's Corner Community Association,HOA,VA,20152.0,Loudoun,2018-12-31,2018-04-04
+85,7361090.0,Christine Bates,42664 Lobella Place,Chantilly,VA,20152.0,Vice President,Dawson's Corner Community Association,HOA,VA,20152.0,Loudoun,2018-12-31,2018-04-04
+86,7150089.0,Richard Kisling,"180 Washington Street, Box 668",Occoquan,VA,22125.0,Director,Dawsons Greene Homeowners Association,HOA,VA,22125.0,Prince William,2018-12-31,2018-12-09
+87,7150089.0,Ann Lawrence,"180 Washington Street, Box 668",Occoquan,VA,22125.0,President,Dawsons Greene Homeowners Association,HOA,VA,22125.0,Prince William,2018-12-31,2018-12-09
+88,7150089.0,"Earnest Porta, Jr.",184 Washington Street #502,Occoquan,VA,22125.0,Treasurer,Dawsons Greene Homeowners Association,HOA,VA,22125.0,Prince William,2018-12-31,2018-12-09
+89,3461605.0,Catherine Sounshago,1839 Wigglesworth Way,Woodbridge,VA,22191.0,Director,Dawson's Ridge Homeowners' Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-01-11
+90,3461605.0,Danielle Honeywood,1721 Wigglesworth Way,Woodbridge,VA,22191.0,Director,Dawson's Ridge Homeowners' Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-01-11
+91,3461605.0,Emmanuel Falaye,1785 Wigglesworth Way,Woodbridge,VA,22191.0,Director,Dawson's Ridge Homeowners' Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-01-11
+92,3461605.0,Yaw Opoku-Boakye,1761 Wigglesworth Way,Woodbridge,VA,22191.0,Director,Dawson's Ridge Homeowners' Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-01-11
+93,3461605.0,Kevin Pope,1774 Wigglesworth Way,Woodbridge,VA,22191.0,President,Dawson's Ridge Homeowners' Association,HOA,VA,22191.0,Prince William,2018-12-31,2018-01-11
+94,4333969.0,Chorine Williams,12866 Daybreak Circle,Newport News,VA,23602.0,President,Daybreak Condominium Unit Owners Association,Condo,VA,23602.0,Newport News,2018-12-31,2018-08-08
+95,4333969.0,Cecelia M. Owens-Graves,144 Ruston Drive,Newport News,VA,23602.0,Secretary,Daybreak Condominium Unit Owners Association,Condo,VA,23602.0,Newport News,2018-12-31,2018-08-08
+96,4333969.0,Gretchen Reinhardt,735 Daylight Court,Newport News,VA,23602.0,Treasurer,Daybreak Condominium Unit Owners Association,Condo,VA,23602.0,Newport News,2018-12-31,2018-08-08
+97,4333969.0,Wendy Daniels,12819 Daybreak Circle,Newport News,VA,23602.0,Vice President,Daybreak Condominium Unit Owners Association,Condo,VA,23602.0,Newport News,2018-12-31,2018-08-08
+98,7746613.0,Douglas K. Jones,P O Box 42150,Fredericksburg,VA,22404.0,President,Deacon Commons Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2017-12-20
+99,7746613.0,Dave Lause,P O Box 42150,Fredericksburg,VA,22404.0,Secretary,Deacon Commons Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2017-12-20
+100,7746613.0,Tim Hall,P O Box 42150,Fredericksburg,VA,22404.0,Treasurer,Deacon Commons Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2017-12-20
+101,7746613.0,Bill Sherman,P O Box 42150,Fredericksburg,VA,22404.0,Vice President,Deacon Commons Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2017-12-20
+102,6759237.0,Joseph Harley,39 Jorda Lane,Fredericksburg,VA,22404.0,Director,Deacon Hill Estates Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2018-11-06
+103,6759237.0,Jairus King,6 Jordan Lane,Fredericksburg,VA,22404.0,President,Deacon Hill Estates Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2018-11-06
+104,6759237.0,Michele Neloms,23 Adrian Way,Fredericksburg,VA,22404.0,Secretary,Deacon Hill Estates Homeowners Association,HOA,VA,22404.0,Fredericksburg,2018-12-31,2018-11-06
+105,7853120.0,Darlene Harrell,2725 Deep Creek Common,Chesapeake,VA,23323.0,President,Deep Creek Commons Condominium Association,Condo,VA,23323.0,Chesapeake,2018-12-31,2018-12-04
+106,7853120.0,Jasmine Johnson,900 Deep Creek Run,Chesapeake,VA,23323.0,Secretary,Deep Creek Commons Condominium Association,Condo,VA,23323.0,Chesapeake,2018-12-31,2018-12-04
+107,4538526.0,Lana Zhand,9611 Tackroom Lane,Great Falls,VA,22066.0,President,Deep Glen Homeowners Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-07-29
+108,4538526.0,Scott Dolgoff,9603 Tackroom Lane,Great Falls,VA,22066.0,Secretary,Deep Glen Homeowners Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-07-29
+109,4538526.0,Spencer Brudno,1102 Hobnail Court,Great Falls,VA,22066.0,Treasurer,Deep Glen Homeowners Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-07-29
+110,3090248.0,"James B. Gurley, Jr.",2250 Old Brick Road #220,Glen Allen,VA,23060.0,Director,Deep Run Owners' Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-06-09
+111,3090248.0,Mercedes McGinty,9933 Mayland Drive,Richmond,VA,23233.0,Director,Deep Run Owners' Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-06-09
+112,3090248.0,Patricia Khogan,4198 Cox Road #201,Glen Allen,VA,23060.0,Director,Deep Run Owners' Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-06-09
+113,3090248.0,Wendy Walton Smith,9900 Independence Park Road,Richmond,VA,23233.0,Director,Deep Run Owners' Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-06-09
+114,3090248.0,Michael Pruitt,1801 Bayberry Court #100,Richmond,VA,23226.0,President,Deep Run Owners' Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-06-09
+115,4485017.0,Ravi Sheth,809 Winter King Court,Chesapeake,VA,23323.0,President,Deer Crossing Owners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-04-25
+116,4485017.0,Priscilla Mills,2044 Sunset Maple Lane,Chesapeake,VA,23323.0,Treasurer,Deer Crossing Owners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-04-25
+117,4485017.0,Jennifer Garbert,2135 Sunset Maple Lane,Chesapeake,VA,23323.0,Vice President,Deer Crossing Owners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-04-25
+118,6606438.0,Sandra Thomas,11835 Fishing Point Drive #101,Newport News,VA,23606.0,President,Deer Park Commons Condominium Association,Condo,VA,23606.0,Newport News,2018-12-31,2018-04-30
+119,6606438.0,John White,614 Jessica Circle,Newport News,VA,23606.0,Secretary,Deer Park Commons Condominium Association,Condo,VA,23606.0,Newport News,2018-12-31,2018-04-30
+120,6606438.0,James Vogan,561 Jessica Circle,Newport News,VA,23606.0,Treasurer,Deer Park Commons Condominium Association,Condo,VA,23606.0,Newport News,2018-12-31,2018-04-30
+121,6606438.0,Ronald Green,11835 Fishing Point Drive #101,Newport News,VA,23606.0,Vice President,Deer Park Commons Condominium Association,Condo,VA,23606.0,Newport News,2018-12-31,2018-04-30
+122,7212871.0,Douglas Elliott Caton,P O Box 5306,Charlottesville,VA,22905.0,Director,Deer Park Homeowners Association,HOA,VA,22903.0,Charlottesville,2018-12-31,2018-01-30
+123,6038921.0,Etta Roberts,P O Box 10353,Alexandria,VA,22310.0,Director,Deer Run Crossing Homeowners' Association,HOA,VA,22310.0,Alexandria,2018-12-31,2018-09-20
+124,6038921.0,Jennifer McLeod,P O Box 10363,Alexandria,VA,22310.0,President,Deer Run Crossing Homeowners' Association,HOA,VA,22310.0,Alexandria,2018-12-31,2018-09-20
+125,6038921.0,Vanessa Girardi,P O Box 10353,Alexandria,VA,22310.0,Secretary,Deer Run Crossing Homeowners' Association,HOA,VA,22310.0,Alexandria,2018-12-31,2018-09-20
+126,6038921.0,Will Hooven,P O Box 10353,Alexandria,VA,22310.0,Treasurer,Deer Run Crossing Homeowners' Association,HOA,VA,22310.0,Alexandria,2018-12-31,2018-09-20
+127,6038921.0,Cliff Miller,P O Box 10353,Alexandria,VA,22310.0,Vice President,Deer Run Crossing Homeowners' Association,HOA,VA,22310.0,Alexandria,2018-12-31,2018-09-20
+128,8030769.0,Emmanuel Mouhteros,126 Strawberry Lane,Newport News,VA,23602.0,President,Deer Run Homes Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-01-25
+129,8030769.0,"Luciano Guerrero, IV",124 Strawberry Lane,Newport News,VA,23602.0,Secretary,Deer Run Homes Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-01-25
+130,8030769.0,Mark E.Peters,109 Strawberry Lane,Newport News,VA,23602.0,Treasurer,Deer Run Homes Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-01-25
+131,8030769.0,Rick Guy,102 Larson Court,Newport News,VA,23602.0,Vice President,Deer Run Homes Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-01-25
+132,3463148.0,Tom Kelley,2808 Pine Lodge Court,Glen Allen,VA,23060.0,Director,Deer Springs Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-09-25
+133,3463148.0,Laura Gwinn,10804 John Cussons Drive,Glen Allen,VA,23060.0,President,Deer Springs Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-09-25
+134,3463148.0,Lindsay Orr,2801 Pine Lodge Court,Glen Allen,VA,23060.0,Secretary,Deer Springs Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-09-25
+135,3463148.0,Michelle Banton,2905 Dillard Drive,Glen Allen,VA,23060.0,Treasurer,Deer Springs Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-09-25
+136,3463148.0,Gina Altman,10808 John Cussons Drive,Glen Allen,VA,23060.0,Vice President,Deer Springs Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-09-25
+137,5028394.0,Pamela Gray,9531 Fawn Park Lane,Mechanicsville,VA,23116.0,Director,Deer Valley Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-05-27
+138,5028394.0,Tom Walsh,9531 Fawn Park Lane,Mechanicsville,VA,23116.0,President,Deer Valley Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-05-27
+139,5028394.0,Helga Pearson,9531 Fawn Park Lane,Mechanicsville,VA,23116.0,Secretary,Deer Valley Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-05-27
+140,5028394.0,Brian Perry,9531 Fawn Park Lane,Mechanicsville,VA,23116.0,Treasurer,Deer Valley Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-05-27
+141,5028394.0,Sarah Coleman,9531 Fawn Park Lane,Mechanicsville,VA,23116.0,Vice President,Deer Valley Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-05-27
+142,5537303.0,Casimir Chilbowski,12041 Morningstar Place,Lovettsville,VA,20180.0,President,Deerfield Estates Homeowners Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-01-17
+143,5537303.0,Joseph Sorrell,39871 Honeysuckle Court,Lovettsville,VA,20180.0,Secretary,Deerfield Estates Homeowners Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-01-17
+144,5537303.0,Theresa Ridderhoff,39851 Columbine Court,Lovettsville,VA,20180.0,Vice President,Deerfield Estates Homeowners Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-01-17
+145,1954528.0,Bruce Saville,180 George Drive,Winchester,VA,22602.0,Director,Deerfield Estates Property Owners' Association,HOA,VA,22602.0,Frederick,2018-12-31,2018-03-31
+146,1954528.0,David Burrell,109 Jackson Drive,Winchester,VA,22602.0,Director,Deerfield Estates Property Owners' Association,HOA,VA,22602.0,Frederick,2018-12-31,2018-03-31
+147,1954528.0,J. Robert Humphrey,141 Bush Drive,Winchester,VA,22602.0,President,Deerfield Estates Property Owners' Association,HOA,VA,22602.0,Frederick,2018-12-31,2018-03-31
+148,1954528.0,Mary B. Fisher,246 Bush Drive,Winchester,VA,22602.0,Treasurer,Deerfield Estates Property Owners' Association,HOA,VA,22602.0,Frederick,2018-12-31,2018-03-31
+149,1954528.0,"William Fletcher, Jr.",210 Jackson Drive,Winchester,VA,22602.0,Vice President,Deerfield Estates Property Owners' Association,HOA,VA,22602.0,Frederick,2018-12-31,2018-03-31
+150,7987878.0,Daniel G. Harris,11345 Old Ridge Road,Doswell,VA,23047.0,President,Deerfield Farm Property Owners Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-05-11
+151,7987878.0,Melissa Hunt,4701 Snowmass Road,Glen Allen,VA,23060.0,Secretary,Deerfield Farm Property Owners Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-05-11
+152,7987878.0,Pat Legault,4701 Snowmass Road,Glen Allen,VA,23060.0,Treasurer,Deerfield Farm Property Owners Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-05-11
+153,2439636.0,Jennifer Haymaker,P O Box 3094,Oakton,VA,22124.0,President,Deerfield Forest Homeowners Association,HOA,VA,22124.0,Fairfax,2018-12-31,2018-03-07
+154,2439636.0,Bruce Chang,P O Box 3094,Oakton,VA,22124.0,Treasurer,Deerfield Forest Homeowners Association,HOA,VA,22124.0,Fairfax,2018-12-31,2018-03-07
+155,2439636.0,Leigh Kennedy,P O Box 3094,Oakton,VA,22124.0,Vice President,Deerfield Forest Homeowners Association,HOA,VA,22124.0,Fairfax,2018-12-31,2018-03-07
+156,2760064.0,Victor Kan,613 Deerfield Pond Court,Great Falls,VA,22066.0,Director,Deerfield Pond Community Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-09-25
+157,2760064.0,James Mraz,9901 Deerfield Pond Drive,Great Falls,VA,22066.0,President,Deerfield Pond Community Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-09-25
+158,2760064.0,Dawn Schnell,606 Deerfield Pond Court,Great Falls,VA,22066.0,Secretary,Deerfield Pond Community Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-09-25
+159,2760064.0,Jennifer Semko,600 Deerfield Pond Court,Great Falls,VA,22066.0,Treasurer,Deerfield Pond Community Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-09-25
+160,2760064.0,Brian Geoghegan,604 Deerfield Pond Court,Great Falls,VA,22066.0,Vice President,Deerfield Pond Community Association,HOA,VA,22066.0,Fairfax,2018-12-31,2018-09-25
+161,5356621.0,David Kelley,13942 Sawteeth Way,Centreville,VA,20121.0,President,Deerfield Ridge Homeowners Association,HOA,VA,20121.0,Fairfax,2018-12-31,2018-07-03
+162,5356621.0,Rick Duncan,5882 Ausable Way,Centreville,VA,20121.0,Vice President,Deerfield Ridge Homeowners Association,HOA,VA,20121.0,Fairfax,2018-12-31,2018-07-03
+163,3368388.0,James Drougas,2436 Cornwallis Avenue,Roanoke,VA,24014.0,Director,Deerlick Home Owners' Association,HOA,VA,23229.0,Henrico,2018-12-31,2018-02-13
+164,3368388.0,Hunter McCardle,675 Peter Jefferson Parkway #250,Charlottesville,VA,22911.0,President,Deerlick Home Owners' Association,HOA,VA,23229.0,Henrico,2018-12-31,2018-02-13
+165,3368388.0,Chad Rowe,675 Peter Jefferson Parkway #250,Charlottesville,VA,22911.0,Secretary,Deerlick Home Owners' Association,HOA,VA,23229.0,Henrico,2018-12-31,2018-02-13
+166,2623650.0,David Saltz,9109-8 Derbyshire Road,Richmond,VA,23229.0,President,Deerwood Condominium Association,Condo,VA,23229.0,Henrico,2018-12-31,2018-09-20
+167,2623650.0,Courtney Graham,9129 Derbyshire Road #A,Richmond,VA,23229.0,Treasurer,Deerwood Condominium Association,Condo,VA,23229.0,Henrico,2018-12-31,2018-09-20
+168,2623650.0,Edward Zakaib,9129 Derbyshire Road #G,Richmond,VA,23229.0,Treasurer,Deerwood Condominium Association,Condo,VA,23229.0,Henrico,2018-12-31,2018-09-20
+169,2623650.0,Skip Bottom,9129 Derbyshire Road,Richmond,VA,23229.0,Treasurer,Deerwood Condominium Association,Condo,VA,23229.0,Henrico,2018-12-31,2018-09-20
+170,7015506.0,Timothy Martin,353 Bayberry Way,Charlottesville,VA,22911.0,President,Deerwood Village Owners' Association,HOA,VA,22911.0,Albemarle,2018-12-31,2018-09-21
+171,7015506.0,Franklin A. Kleckner,120 Deerwood Drive,Charlottesville,VA,22911.0,Secretary,Deerwood Village Owners' Association,HOA,VA,22911.0,Albemarle,2018-12-31,2018-09-21
+172,7015506.0,Glenn Forloines,365 Baybery Way,Charlottesville,VA,22911.0,Vice President,Deerwood Village Owners' Association,HOA,VA,22911.0,Albemarle,2018-12-31,2018-09-21
+173,3727997.0,Richard Moore,245 Dehaven Drive,Clear Brook,VA,22624.0,Director,Dehaveland Estates Property Owners Association,HOA,VA,22624.0,Frederick,2018-12-31,2018-02-15
+174,3727997.0,Terry Frye,368 Dehaven Drive,Clear Brook,VA,22624.0,President,Dehaveland Estates Property Owners Association,HOA,VA,22624.0,Frederick,2018-12-31,2018-02-15
+175,3727997.0,Deborah Matthews,299 Dehaven Drive,Clear Brook,VA,22624.0,Secretary,Dehaveland Estates Property Owners Association,HOA,VA,22624.0,Frederick,2018-12-31,2018-02-15
+176,3727997.0,James Douglas,435 Dehaven Drive,Clear Brook,VA,22624.0,Treasurer,Dehaveland Estates Property Owners Association,HOA,VA,22624.0,Frederick,2018-12-31,2018-02-15
+177,3727997.0,Diane Wingfield,521 Dehaven Drive,Clear Brook,VA,22624.0,Vice President,Dehaveland Estates Property Owners Association,HOA,VA,22624.0,Frederick,2018-12-31,2018-02-15
+178,1566397.0,Gail Hart,1097 Old Denbigh Boulevard,Newport News,VA,23602.0,President,Denbrook Station Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-12-14
+179,1566397.0,Ray Bradford Goodman,64 Wheatland Drive,Hampton,VA,23666.0,Secretary,Denbrook Station Association,HOA,VA,23602.0,Newport News,2018-12-31,2018-12-14
+180,5890017.0,Nisha Parekh,22072 Chelsy Paige Square,Ashburn,VA,20148.0,President,Denton Terrace Homeowners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-06-11
+181,5890017.0,Monica Chiappetti,22066 Cheelsy Paige Square,Ashburn,VA,20148.0,Secretary,Denton Terrace Homeowners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-06-11
+182,5890017.0,Shabeer Syed,22041 Tekst Gauge Square,Ashburn,VA,20148.0,Treasurer,Denton Terrace Homeowners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-06-11
+183,4063731.0,Joann Retzloff,16293 Derby Ridge Road,Montpelier,VA,23192.0,President,Derby Ridge Homeowners' Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-01-22
+184,4063731.0,Evans Dowdy,16271 Derby Ridge Road,Montpelier,VA,23192.0,Secretary,Derby Ridge Homeowners' Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-01-22
+185,4063731.0,Cynthia S. Perdue,14164 Trails End Drive,Montpelier,VA,23192.0,Treasurer,Derby Ridge Homeowners' Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-01-22
+186,2803104.0,Marney Hale,1628 Thenia Place,Woodbridge,VA,22192.0,Director,Devil's Reach Condominium Unit Owners Association,Condo,VA,22192.0,Prince William,2018-12-31,2018-11-19
+187,2803104.0,Teri Tompkins,1688 Devil Lane,Woodbridge,VA,22192.0,Director,Devil's Reach Condominium Unit Owners Association,Condo,VA,22192.0,Prince William,2018-12-31,2018-11-19
+188,2803104.0,Katherine Coughlin,1670 Thenia Place,Woodbridge,VA,22192.0,President,Devil's Reach Condominium Unit Owners Association,Condo,VA,22192.0,Prince William,2018-12-31,2018-11-19
+189,2803104.0,Brenda Carswell,1430 Devil Lane,Woodbridge,VA,22192.0,Treasurer,Devil's Reach Condominium Unit Owners Association,Condo,VA,22192.0,Prince William,2018-12-31,2018-11-19
+190,7697212.0,Dana Langston,4 Embarcadero Center #3200,San Francisco,CA,94111.0,Director,Devin Shafron E and F Land Condominium Owners Association,Condo,VA,20147.0,Loudoun,2018-12-31,2018-08-08
+191,7697212.0,Jeff Tapley,4 Embarcadero Center #3200,San Francisco,CA,94111.0,Director,Devin Shafron E and F Land Condominium Owners Association,Condo,VA,20147.0,Loudoun,2018-12-31,2018-08-08
+192,5225560.0,Angie Hopner,256 Devland Drive,Winchester,VA,22603.0,Director,Devland Farms Property Owners Association,HOA,VA,22603.0,Frederick,2018-12-31,2018-01-05
+193,5225560.0,Richard Choy,497 Devland Drive,Winchester,VA,22603.0,Director,Devland Farms Property Owners Association,HOA,VA,22603.0,Frederick,2018-12-31,2018-01-05
+194,5225560.0,Russell Fowler,497 Devland Drive,Winchester,VA,22603.0,Director,Devland Farms Property Owners Association,HOA,VA,22603.0,Frederick,2018-12-31,2018-01-05
+195,5225560.0,William Walther,212 Devland Drive,Winchester,VA,22603.0,President,Devland Farms Property Owners Association,HOA,VA,22603.0,Frederick,2018-12-31,2018-01-05
+196,5225560.0,Robert Bachert,239 Devland Drive,Winchester,VA,22603.0,Treasurer,Devland Farms Property Owners Association,HOA,VA,22603.0,Frederick,2018-12-31,2018-01-05
+197,4121968.0,Dennis Chavez,29 Thornberry Lane,Stafford,VA,22556.0,President,Devon Green Homeowners Association,HOA,VA,22556.0,Stafford,2018-12-31,2018-12-31
+198,4121968.0,Robert S. Nitzenberger,23 Thornberry Lane,Stafford,VA,22556.0,Treasurer,Devon Green Homeowners Association,HOA,VA,22556.0,Stafford,2018-12-31,2018-12-31
+199,4121968.0,Myria Kutchrary,22 Thornberry Lane,Stafford,VA,22556.0,Vice President,Devon Green Homeowners Association,HOA,VA,22556.0,Stafford,2018-12-31,2018-12-31
+200,4011102.0,Kathy Chaale,1415 Park Garden Lane,Reston,VA,20194.0,President,Devonshire Cluster Association,HOA,VA,20194.0,Fairfax,2018-12-31,2017-10-05
+201,4011102.0,Jeffrey Masalin,1413 Park Garden Lane,Reston,VA,20194.0,Vice President,Devonshire Cluster Association,HOA,VA,20194.0,Fairfax,2018-12-31,2017-10-05
+202,5028949.0,Richard P. Callies,2788 Devonshire Garden Court,Falls Church,VA,22042.0,President,Devonshire Court Homeowners Association,HOA,VA,22042.0,Fairfax,2018-12-31,2018-03-17
+203,2460558.0,Henry Hant,9316 Maybrook Place,Alexandria,VA,22315.0,Director,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+204,2460558.0,Lorr Renwick,6281 Alforth Avenue,Alexandria,VA,22315.0,Director,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+205,2460558.0,Michael Nail,7007 Achiltes Court,Alexandria,VA,22315.0,Director,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+206,2460558.0,Katherine Dove,6997 Adonis Court,Alexandria,VA,22315.0,President,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+207,2460558.0,Brian Blush,6288 Alforth Avenue,Alexandria,VA,22315.0,Secretary,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+208,2460558.0,Deborah Dove,6997 Adonis Court,Alexandria,VA,22315.0,Treasurer,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+209,2460558.0,Tom White,6286 Alforth Avenue,Alexandria,VA,22315.0,Vice President,Devonshire Townhomes Association,HOA,VA,22315.0,Alexandria,2018-12-31,2018-07-02
+210,5358718.0,Bradley Turner,15282 Devonwood Road,Montpelier,VA,23192.0,President,Devonwood Homeowner's Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-02-24
+211,5358718.0,Ryan Johnson,15290 Devonwood Road,Montpelier,VA,23192.0,Secretary,Devonwood Homeowner's Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-02-24
+212,5358718.0,Russ Mask,15266 Devonwood Road,Montpelier,VA,23192.0,Treasurer,Devonwood Homeowner's Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-02-24
+213,5358718.0,Justin Hamm,15262 Devonwood Road,Montpelier,VA,23192.0,Vice President,Devonwood Homeowner's Association,HOA,VA,23192.0,Hanover,2018-12-31,2018-02-24
+214,5694518.0,"Joseph Wargo, Jr.",2417 Dewberry Lane,Virginia Beach,VA,23456.0,President,Dewberry Farm Community Association,HOA,VA,23456.0,Virginia Beach,2018-12-31,2018-11-13
+215,5694518.0,Laura G. Jarvis,2425 Dewberry Lane,Virginia Beach,VA,23456.0,Secretary,Dewberry Farm Community Association,HOA,VA,23456.0,Virginia Beach,2018-12-31,2018-11-13
+216,5694518.0,Ql Zhang,3829 Boysenberry Court,Virginia Beach,VA,23456.0,Vice President,Dewberry Farm Community Association,HOA,VA,23456.0,Virginia Beach,2018-12-31,2018-11-13
+217,6709083.0,Rhonda Morales,P O Box 4422,Virginia Beach,VA,23454.0,President,Diamond Commons Condominium Association,Condo,VA,23454.0,Virginia Beach,2018-12-31,2018-01-31
+218,6709083.0,Michelle Benedicto,820 Gem Court,Virginia Beach,VA,23462.0,Treasurer,Diamond Commons Condominium Association,Condo,VA,23454.0,Virginia Beach,2018-12-31,2018-01-31
+219,6709083.0,Joseph Plaza,885 Gem Court,Virginia Beach,VA,23462.0,Vice President,Diamond Commons Condominium Association,Condo,VA,23454.0,Virginia Beach,2018-12-31,2018-01-31
+220,8017543.0,Georges Kemp,1728 Virginia Beach Boulevard #107,Virginia Beach,VA,23454.0,President,Diamond Hill Condominium Association,Condo,VA,23454.0,Virginia Beach,2018-12-31,2018-01-02
+221,8017543.0,Angela Reichard,1728 Virginia Beach Boulevard #107,Virginia Beach,VA,23454.0,Vice President,Diamond Hill Condominium Association,Condo,VA,23454.0,Virginia Beach,2018-12-31,2018-01-02
+222,3241312.0,Rodney Lesane,715 Gemstone Lane,Virginia Beach,VA,23462.0,Director,Diamond Springs Condominium Association,Condo,VA,23462.0,Virginia Beach,2018-12-31,2018-06-08
+223,3241312.0,Charlotte White,P O Box 41208,Norfolk,VA,23541.0,President,Diamond Springs Condominium Association,Condo,VA,23462.0,Virginia Beach,2018-12-31,2018-06-08
+224,3241312.0,Andrew Garrison,743 Gem Stone Lane,Virginia Beach,VA,23462.0,Treasurer,Diamond Springs Condominium Association,Condo,VA,23462.0,Virginia Beach,2018-12-31,2018-06-08
+225,3241312.0,Marianne Cortese,810 Zircon Court,Virginia Beach,VA,23462.0,Vice President,Diamond Springs Condominium Association,Condo,VA,23462.0,Virginia Beach,2018-12-31,2018-06-08
+226,6727259.0,Scott Gookin,3201 Jermantown Road #150,Fairfax,VA,22030.0,President,Diamond Valley Community Association,HOA,VA,22656.0,Frederick,2018-12-31,2018-01-22
+227,6727259.0,"Theodore Edwin Hunter, III",211 Sawtooth Drive,Stephenson,VA,22656.0,Secretary,Diamond Valley Community Association,HOA,VA,22656.0,Frederick,2018-12-31,2018-01-22
+228,6727259.0,Erik Peterson,209 Mosaic Court,Stephenson,VA,22656.0,Vice President,Diamond Valley Community Association,HOA,VA,22656.0,Frederick,2018-12-31,2018-01-22
+229,2559524.0,Barry Argintar,11000 Sugarbush Terrace,Rockville,MD,20852.0,President,Digges Road Office Center Owners' Association,Condo,VA,20110.0,Prince William,2018-12-31,2018-03-26
+230,2559524.0,Moria Quigley-Skillin,8456-A Tyco Road,Vienna,VA,22182.0,Secretary,Digges Road Office Center Owners' Association,Condo,VA,20110.0,Prince William,2018-12-31,2018-03-26
+231,2559524.0,"Dr. Marsha L. Mason, MD",9001 Digges Road #201,Manassas,VA,20110.0,Treasurer,Digges Road Office Center Owners' Association,Condo,VA,20110.0,Prince William,2018-12-31,2018-03-26
+232,2559524.0,Mark Bartolozzi,9001 Digges Road #206,Manassas,VA,20110.0,Vice President,Digges Road Office Center Owners' Association,Condo,VA,20110.0,Prince William,2018-12-31,2018-03-26
+233,6816359.0,Chelsea Adams,P O Box 5010,Williamsburg,VA,23188.0,Director,Discovery Corner Office Condominium Owners' Association of Unit Owners,Condo,VA,23188.0,James City,2018-12-31,2018-07-09
+234,6816359.0,Liz Moore,5350 Discovery Park Boulevard,Williamsburg,VA,23188.0,President,Discovery Corner Office Condominium Owners' Association of Unit Owners,Condo,VA,23188.0,James City,2018-12-31,2018-07-09
+235,6816359.0,Bill Morrison,266 Nottingham Road,Williamsburg,VA,23185.0,Treasurer,Discovery Corner Office Condominium Owners' Association of Unit Owners,Condo,VA,23188.0,James City,2018-12-31,2018-07-09
+236,6816359.0,Lyle Schiavone,4365 New Town Avenue,Williamsburg,VA,23188.0,Vice President,Discovery Corner Office Condominium Owners' Association of Unit Owners,Condo,VA,23188.0,James City,2018-12-31,2018-07-09
+237,7044878.0,Bob Cook,876 Higgins Avenue,Deltona,FL,32738.0,Director,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+238,7044878.0,John Baker,8419 Clover Leaf Drive,Richmond,TX,77469.0,President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+239,7044878.0,Ron Wacker,4155 Grandchamp Circle,Palm Harbor,FL,34685.0,President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+240,7044878.0,Gary Osbum,303 Silver Sage Drive,Del Rio,TX,78840.0,Secretary,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+241,7044878.0,Kerry Pinkerton,284 N Day Hill Road,Harvest,AL,35749.0,Secretary,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+242,7044878.0,Nina Soltwedel,4736 Harwich Street,Boulder,CO,80301.0,Secretary,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+243,7044878.0,Ricky Keen,8 Beaver Creek Loop,Roland,AR,72135.0,Treasurer,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+244,7044878.0,Becky Hazen,1876 Riverwood Road,Twin Fall,ID,83301.0,Vice President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+245,7044878.0,Jim Sullivan,2238 Emerald Circle,Morro Bay,CA,93442.0,Vice President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+246,7044878.0,John Ricciardi,477 the Gardens Drive,Crossville,TN,38555.0,Vice President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+247,7044878.0,Marshall E. Godwin,8071 Windsor Drive,King George,VA,22485.0,Vice President,Discovery Owners Association,HOA,VA,22485.0,King George,2018-12-31,2018-11-30
+248,7661572.0,"Stanley F. Settle, Jr.",42395 Ryan Road #112-614,Ashburn,VA,20148.0,President,Discovery Square Residential Owners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-05-17
+249,7661572.0,Lisa Settle,42395 Ryan Road #112-614,Ashburn,VA,20148.0,Treasurer,Discovery Square Residential Owners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-05-17
+250,7661572.0,Richard D. Dibella,42395 Ryan Road #112-614,Ashburn,VA,20148.0,Vice President,Discovery Square Residential Owners Association,HOA,VA,20148.0,Loudoun,2018-12-31,2018-05-17
+251,7089436.0,Dev Patel,4595 Sandesara Drive,Prince George,VA,23875.0,Director,Dispatch Station Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-11-08
+252,7089436.0,"John S. Shurm, Jr.",9205 Atlee Branch Lane,Mechanicsville,VA,23116.0,President,Dispatch Station Homeowners Association,HOA,VA,23116.0,Hanover,2018-12-31,2018-11-08
+253,4020772.0,Gary Vandenbos,1706 Esquire Lane,McLean,VA,22101.0,Vice President,Divine Landing Homeowners Association,HOA,VA,22101.0,Fairfax,2018-12-31,2018-12-21
+254,5105242.0,Brian Smith,12314 Sedgeway Lane,Lovettsville,VA,20180.0,President,Dobbins Creek Commons Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-10-12
+255,5105242.0,Darren Cady,12259 Sedgeway Lane,Lovettsville,VA,20180.0,Secretary,Dobbins Creek Commons Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-10-12
+256,5105242.0,Michael Wright,39030 Ridgely Lane,Lovettsville,VA,20180.0,Treasurer,Dobbins Creek Commons Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-10-12
+257,5105242.0,Sahr Nyandemoh,12211 Sedgeway Lane,Lovettsville,VA,20180.0,Vice President,Dobbins Creek Commons Association,HOA,VA,20180.0,Loudoun,2018-12-31,2018-10-12
+258,6322234.0,Shorne Glenn,4429 Anchor Bend Court,Chesapeake,VA,23321.0,President,Dock Harbour Homeowners Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2018-02-28
+259,6322234.0,Ariel Hogug,4404 Mooning Court,Chesapeake,VA,23321.0,Treasurer,Dock Harbour Homeowners Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2018-02-28
+260,6322234.0,Tanjie Rogers,1813 Duck Harbour Road,Chesapeake,VA,23321.0,Vice President,Dock Harbour Homeowners Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2018-02-28
+261,5702261.0,David Frost,1605 River Rock Reach,Chesapeake,VA,23321.0,President,Dock Landing Homeowner's Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2017-11-30
+262,5702261.0,Chris Osborne,1528 Bateau Landing,Chesapeake,VA,23321.0,Secretary,Dock Landing Homeowner's Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2017-11-30
+263,5702261.0,Neal Davis,1609 River Rock Reach,Chesapeake,VA,23321.0,Treasurer,Dock Landing Homeowner's Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2017-11-30
+264,5702261.0,Joyce Welch,1604 Fly Fisher Trail,Chesapeake,VA,23321.0,Vice President,Dock Landing Homeowner's Association,HOA,VA,23321.0,Chesapeake,2018-12-31,2017-11-30
+265,6949630.0,David Van Blaricom,1015 W Franklin Street,Richmond,VA,23220.0,President,Doctor's Row Condominium Unit Owners Association,Condo,VA,23220.0,Richmond,2018-12-31,2018-05-09
+266,4231361.0,Mike Goretsas,60 Piper Palce,Fredericksburg,VA,22405.0,Director,Dogwood Air Park Association,HOA,VA,22405.0,Fredericksburg,2018-12-31,2018-01-28
+267,4231361.0,Sue Harrelson,100 Airpark Boulevard,Fredericksburg,VA,22405.0,President,Dogwood Air Park Association,HOA,VA,22405.0,Fredericksburg,2018-12-31,2018-01-28
+268,4231361.0,Jackie Getgood,15 Skyhawk Lane,Fredericksburg,VA,22405.0,Secretary,Dogwood Air Park Association,HOA,VA,22405.0,Fredericksburg,2018-12-31,2018-01-28
+269,4231361.0,Donna Vaughza,35 Skyhawk Lane,Fredericksburg,VA,22405.0,Treasurer,Dogwood Air Park Association,HOA,VA,22405.0,Fredericksburg,2018-12-31,2018-01-28
+270,6363865.0,Yvonne Boisseau,2250 Old Brick Road #220,Glen Allen,VA,23060.0,President,Dogwood Owners' Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-02-27
+271,6363865.0,Jay Sikorsk,2250 Old Brick Road #220,Glen Allen,VA,23060.0,Secretary,Dogwood Owners' Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-02-27
+272,6363865.0,Peggy Mellon,7202 Cornus Avenue,Chesterfield,VA,23832.0,Treasurer,Dogwood Owners' Association,HOA,VA,23060.0,Henrico,2018-12-31,2018-02-27
+273,6454839.0,Edwin White,116 April Avenue,Stephens City,VA,22655.0,Director,Dogwood Village Homeowners Association,HOA,VA,22655.0,Frederick,2018-12-31,2018-07-23
+274,6454839.0,David Wilt,112 April Avenue,Stephens City,VA,22655.0,President,Dogwood Village Homeowners Association,HOA,VA,22655.0,Frederick,2018-12-31,2018-07-23
+275,6454839.0,Susan S. White,112 April Avenue,Stephens City,VA,22655.0,Treasurer,Dogwood Village Homeowners Association,HOA,VA,22655.0,Frederick,2018-12-31,2018-07-23
+276,6454839.0,David Hurbert,123 April Avenue,Stephens City,VA,22655.0,Vice President,Dogwood Village Homeowners Association,HOA,VA,22655.0,Frederick,2018-12-31,2018-07-23
+277,1009067.0,Doug Lavin,8304 Weller Avenue,McLean,VA,22102.0,President,Dogwood's Addition to Woodhaven Association,HOA,VA,22102.0,Fairfax,2018-12-31,2017-07-28
+278,1009067.0,Brian Kim,8401 Weller Avenue,McLean,VA,22102.0,Treasurer,Dogwood's Addition to Woodhaven Association,HOA,VA,22102.0,Fairfax,2018-12-31,2017-07-28
+279,1009067.0,Ardy Holtman,8328 Weller Avenue,McLean,VA,22102.0,Vice President,Dogwood's Addition to Woodhaven Association,HOA,VA,22102.0,Fairfax,2018-12-31,2017-07-28
+280,1848555.0,Jan Kakarlamudi,95N Sunny Side Drive,Manassas,VA,20112.0,Director,Dolphin Run Condominium Association,Condo,VA,23451.0,Virginia Beach,2018-12-31,2018-04-12
+281,1848555.0,P. D. Love,14424 Tanager Wood Trail,Midlothian,VA,23114.0,Director,Dolphin Run Condominium Association,Condo,VA,23451.0,Virginia Beach,2018-12-31,2018-04-12
+282,1848555.0,Wayne Reever,305 Centerville Turnpike,Chesapeake,VA,23322.0,President,Dolphin Run Condominium Association,Condo,VA,23451.0,Virginia Beach,2018-12-31,2018-04-12
+283,1848555.0,Joyce Hollway,311 Lee Court,Highland Springs,VA,23075.0,Treasurer,Dolphin Run Condominium Association,Condo,VA,23451.0,Virginia Beach,2018-12-31,2018-04-12
+284,1848555.0,Bob Felts,P O Box 111,Lvor,VA,23866.0,Vice President,Dolphin Run Condominium Association,Condo,VA,23451.0,Virginia Beach,2018-12-31,2018-04-12
+285,2982395.0,Gary S. Leff,311 Park Avenue,Falls Church,VA,22046.0,President,Dominion Building Owners Association,HOA,VA,22046.0,Fairfax,2018-12-31,2017-11-29
+286,2982395.0,Chris Roberson,311 Park Avenue,Falls Church,VA,22046.0,Secretary,Dominion Building Owners Association,HOA,VA,22046.0,Fairfax,2018-12-31,2017-11-29
+287,2982395.0,Ronald S. Hauptman,311 Park Avenue,Falls Church,VA,22046.0,Treasurer,Dominion Building Owners Association,HOA,VA,22046.0,Fairfax,2018-12-31,2017-11-29
+288,2982395.0,Scott German,311 Park Avenue,Falls Church,VA,22046.0,Vice President,Dominion Building Owners Association,HOA,VA,22046.0,Fairfax,2018-12-31,2017-11-29
+289,7639297.0,Kenneth J. Griffin,4090-A Lafayette Center Drive,Chantilly,VA,20151.0,President,Dominion Crossing Community Association,HOA,VA,22182.0,Fairfax,2018-12-31,2018-03-16
+290,7639297.0,Paul Overberg,1466 Carrington Ridge Lane,Vienna,VA,22182.0,President,Dominion Crossing Community Association,HOA,VA,22182.0,Fairfax,2018-12-31,2018-03-16
+291,7639297.0,Martin Rizer,4090-A Lafayette Center Drive,Chantilly,VA,20151.0,Treasurer,Dominion Crossing Community Association,HOA,VA,22182.0,Fairfax,2018-12-31,2018-03-16
+292,7639297.0,Mary Batkin,4090-A Lafayette Center Drive,Chantilly,VA,20151.0,Vice President,Dominion Crossing Community Association,HOA,VA,22182.0,Fairfax,2018-12-31,2018-03-16
+293,5593926.0,Lisa Matthews,2965 22nd Street S,Arlington,VA,22204.0,President,Dominion Greens Homeowners Association,HOA,VA,22204.0,Arlington,2018-12-31,2018-06-30
+294,5593926.0,Janos Marton,2956 2nd Street S,Arlington,VA,22204.0,Treasurer,Dominion Greens Homeowners Association,HOA,VA,22204.0,Arlington,2018-12-31,2018-06-30
+295,5593926.0,Douglas Dziak,2828 21st Road S,Arlington,VA,22204.0,Vice President,Dominion Greens Homeowners Association,HOA,VA,22204.0,Arlington,2018-12-31,2018-06-30
+296,1861210.0,Michael Torpy,2544 Herrell Court,Falls Church,VA,22043.0,President,Dominion Heights Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-04-23
+297,1861210.0,Alisa Wrase Vogt,2533 Herrell Court,Falls Church,VA,22043.0,Secretary,Dominion Heights Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-04-23
+298,1861210.0,Daniel Rogan,2537 Herrell Court,Falls Church,VA,22043.0,Treasurer,Dominion Heights Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-04-23
+299,7843279.0,James Cannon,1565 Dominion Hill Court,McLean,VA,22101.0,President,Dominion Hill Homeowners Association,HOA,VA,22101.0,Fairfax,2018-12-31,2018-10-23
+300,7843279.0,Ramez Saba,1561 Dominion Hill Court,McLean,VA,22101.0,President,Dominion Hill Homeowners Association,HOA,VA,22101.0,Fairfax,2018-12-31,2018-10-23
+301,7843279.0,John Marshall,1563 Dominion Hill Court,McLean,VA,22101.0,Vice President,Dominion Hill Homeowners Association,HOA,VA,22101.0,Fairfax,2018-12-31,2018-10-25
+302,7843279.0,Susan Nolan,1557 Dominion Hill Court,McLean,VA,22101.0,Vice President,Dominion Hill Homeowners Association,HOA,VA,22101.0,Fairfax,2018-12-31,2018-10-23
+303,2178317.0,Eric Holland,2283 Kings Garden Way,Falls Church,VA,22043.0,Director,Dominion Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-06-14
+304,2178317.0,Gail Delrobe,2105 Kings Mill Court,Falls Church,VA,22043.0,President,Dominion Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-06-14
+305,2178317.0,Kathy Russell,2135 Kings Mill Court,Falls Church,VA,22043.0,Secretary,Dominion Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-04-25
+306,2178317.0,Patricia Kelly,2165 Kings Garden Way,Falls Church,VA,22043.0,Treasurer,Dominion Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-06-14
+307,2178317.0,Linda Fannin,P O Box 8810,Falls Church,VA,22040.0,Vice President,Dominion Homeowners Association,HOA,VA,22043.0,Fairfax,2018-12-31,2018-06-14
+308,5572607.0,Gearldine Boone,1316 Monarch Reach,Chesapeake,VA,23323.0,Director,Dominion Lakes Homeowners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-04-25
+309,5572607.0,John Weinreich,1302 Eastern Way,Chesapeake,VA,23320.0,President,Dominion Lakes Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-04-25
+310,5572607.0,Angela Herbert,1239 Spruce Lane,Chesapeake,VA,23320.0,Secretary,Dominion Lakes Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-04-25
+311,5572607.0,Jennifer A. Tucker,1302 Piedmont Arch,Chesapeake,VA,23320.0,Treasurer,Dominion Lakes Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-04-25
+312,5572607.0,James Simons,1337 Monaveh Reach,Chesapeake,VA,23320.0,Vice President,Dominion Lakes Homeowners Association,HOA,VA,23320.0,Chesapeake,2018-12-31,2018-04-25
+313,7884620.0,William G. Darden,1001 Scenic Parkway #104,Chesapeake,VA,23323.0,President,Dominion Meadows Homeowners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-01-29
+314,7884620.0,Douglas C. Smith,1001 Scenic Parkway #104,Chesapeake,VA,23323.0,Treasurer,Dominion Meadows Homeowners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-01-29
+315,7884620.0,Georges Hill,1001 Scenic Parkway #104,Chesapeake,VA,23323.0,Vice President,Dominion Meadows Homeowners Association,HOA,VA,23323.0,Chesapeake,2018-12-31,2018-01-29
+316,2152932.0,Norris Mitchell,P O Box 311,McLean,VA,22101.0,Director,Dominion Office Park Owners Association,Condo,VA,22101.0,Fairfax,2018-12-31,2018-01-22
+317,2152932.0,"Peter Fitzgerald, Jr.",1447-G1 Dolley Madison Boulevard,McLean,VA,22101.0,Director,Dominion Office Park Owners Association,Condo,VA,22101.0,Fairfax,2018-12-31,2018-01-22
+318,2152932.0,Dennis Lucier,6706 Whittier Avenue,McLean,VA,22101.0,President,Dominion Office Park Owners Association,Condo,VA,22101.0,Fairfax,2018-12-31,2018-01-22
+319,2152932.0,Marcia Atsauos,6667-B Old Dominion Drive,McLean,VA,22101.0,Secretary,Dominion Office Park Owners Association,Condo,VA,22101.0,Fairfax,2018-12-31,2018-01-22
+320,7934862.0,David L. Owen,129 Broad Street Road #B,Manakin Sabot,VA,23103.0,President,Dominion Park Unit Owners' Association,Condo,VA,23103.0,Goochland,2018-12-31,2018-05-18
+321,7934862.0,Whitney M. Martin,129 Broad Street Road #B,Manakin Sabot,VA,23103.0,Treasurer,Dominion Park Unit Owners' Association,Condo,VA,23103.0,Goochland,2018-12-31,2018-05-18
+322,7934862.0,M. Edward Cutchins,129 Broad Street Road #B,Manakin Sabot,VA,23103.0,Vice President,Dominion Park Unit Owners' Association,Condo,VA,23103.0,Goochland,2018-12-31,2018-05-18
+323,6702997.0,Hank Robertson,4501 Highwoods Parkway #400,Glen Allen,VA,23060.0,Director,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-12-06
+324,6702997.0,Kathleen Deaner,4940 Dominion Boulevard,Glen Allen,VA,23060.0,Director,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-12-06
+325,6702997.0,Matthew Brokaw,49248 Dominron Boulevard,Glen Allen,VA,23060.0,Director,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-12-06
+326,6702997.0,Steave Loving,4948 Dominion Boulevard,Glen Allen,VA,23060.0,President,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-12-06
+327,6702997.0,Brian Menditto,4501 Highwoods Parkway #400,Glen Allen,VA,23060.0,Treasurer,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2017-03-08
+328,6702997.0,Randy Nunn,4956 Dominion Boulevard,Glen Allen,VA,23060.0,Vice President,Dominion Place Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2018-12-31,2018-12-06
+329,3990819.0,Ricardo Canton,45546 Whitcomb Square,Dulles,VA,20166.0,Director,Dominion Station Homeowners Association,HOA,VA,20166.0,Loudoun,2018-12-31,2018-10-31
+330,3990819.0,Mehdi Kohanbani,45607 Grand Central Square,Dulles,VA,20166.0,President,Dominion Station Homeowners Association,HOA,VA,20166.0,Loudoun,2018-12-31,2018-10-31
+331,3990819.0,Judson Weinsheimer,21960 Box Car Square,Dulles,VA,20166.0,Secretary,Dominion Station Homeowners Association,HOA,VA,20166.0,Loudoun,2018-12-31,2018-10-31
+332,3990819.0,Estafania Pimienta,45528 Grand Central Square,Dulles,VA,20166.0,Treasurer,Dominion Station Homeowners Association,HOA,VA,20166.0,Loudoun,2018-12-31,2018-10-31
+333,3990819.0,Muthukumaran Arigovindan,45416 Baggett Terrac,Dulles,VA,20166.0,Vice President,Dominion Station Homeowners Association,HOA,VA,20166.0,Loudoun,2018-12-31,2018-10-31
+334,6027429.0,Rodney Smith,907 Dominion Townes Court,Henrico,VA,23223.0,Director,Dominion Townes Homeowners Association,HOA,VA,23223.0,Richmond,2018-12-31,2018-09-07
+335,6027429.0,Marc Rene,908 Dominion Townes Court,Henrico,VA,23223.0,President,Dominion Townes Homeowners Association,HOA,VA,23223.0,Richmond,2018-12-31,2018-09-07
+336,6027429.0,Johnelle Torbet,3332 Dominion Townes Circle,Henrico,VA,23223.0,Secretary,Dominion Townes Homeowners Association,HOA,VA,23223.0,Richmond,2018-12-31,2018-09-07
+337,6027429.0,Joseph Allotey,902 Dominion Townes Court,Henrico,VA,23223.0,Treasurer,Dominion Townes Homeowners Association,HOA,VA,23223.0,Richmond,2018-12-31,2018-09-07
+338,6027429.0,Afua Agyekum,3915 Dominion Towns Circle,Henrico,VA,23223.0,Vice President,Dominion Townes Homeowners Association,HOA,VA,23223.0,Richmond,2018-12-31,2018-09-07
+339,8256554.0,Carla Pezzallo,14200 Park Meadow Drive #100 N,Chantilly,VA,20151.0,Director,Dominion Trail Homeowners Association,HOA,VA,20151.0,Fairfax,2018-12-31,2018-11-29
+340,8256554.0,Christopher W. Spahr,14200 Park Meadow Drive #100 N,Chantilly,VA,20151.0,Director,Dominion Trail Homeowners Association,HOA,VA,20151.0,Fairfax,2018-12-31,2018-11-29
+341,8256554.0,J. Truett Young,14200 Park Meadow Drive #100 N,Chantilly,VA,20151.0,Director,Dominion Trail Homeowners Association,HOA,VA,20151.0,Fairfax,2019-01-02,2018-11-29
+342,8256554.0,Joels Reed,11710 Plaza America Drive #1100,Reston,VA,20190.0,Director,Dominion Trail Homeowners Association,HOA,VA,20151.0,Fairfax,2019-01-02,2018-11-29
+343,1765007.0,Adan Yingling,8001 Eddy Band Trail,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+344,1765007.0,Charles Clark,8015 Eddy Bend Trail,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+345,1765007.0,Irene Rousos,10006 Jaydee Boulevard,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+346,1765007.0,Laurent Givry,7907 Frost Crystalcoort,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+347,1765007.0,Monique Fortunato,9912 Evenstar Lane,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+348,1765007.0,Revee Oconnor,7908 Wild Orchild Way,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+349,1765007.0,Stephen Pelieger,8007 Eddy Band Trail,Fairfax Station,VA,22039.0,Director,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+350,1765007.0,Gary Perlin,10301 Firefly Circle,Fairfax Station,VA,22039.0,President,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+351,1765007.0,Clare Brooks,7922 Wild Orchid Way,Fairfax Station,VA,22039.0,Secretary,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+352,1765007.0,Anthony R. Grieco,10105 Jaydee Boulevard,Fairfax Station,VA,22039.0,Treasurer,Dominion Valley Hunt Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-04-21
+353,5605183.0,Bryant Cruzado,5300 Merchants View Square,Haymarket,VA,20169.0,Director,Dominion Valley Owners Association,HOA,VA,20169.0,Prince William,2019-01-02,2018-05-04
+354,5605183.0,Gary Clukey,5685 Cherokee Run Court,Haymarket,VA,20169.0,President,Dominion Valley Owners Association,HOA,VA,20169.0,Prince William,2019-01-02,2018-05-04
+355,5605183.0,Catharine Wilson,15243 Golfview Drive,Haymarket,VA,20169.0,Secretary,Dominion Valley Owners Association,HOA,VA,20169.0,Prince William,2019-01-02,2018-05-04
+356,5605183.0,Stub Estey,5726 Wheel Wright Way,Haymarket,VA,20169.0,Treasurer,Dominion Valley Owners Association,HOA,VA,20169.0,Prince William,2019-01-02,2018-05-04
+357,5605183.0,Van Arnold,15300 Admiral Bahercircle,Haymarket,VA,20169.0,Vice President,Dominion Valley Owners Association,HOA,VA,20169.0,Prince William,2019-01-02,2018-05-04
+358,2899219.0,Kevin Ingeroll,22414 Stablehouse Drive,Sterling,VA,20164.0,Director,Dominion View Homeowners Association,HOA,VA,20164.0,Loudoun,2019-01-02,2018-08-31
+359,2899219.0,Abbie Henrickson,22169 Stablehouse Drive,Sterling,VA,20164.0,President,Dominion View Homeowners Association,HOA,VA,20164.0,Loudoun,2019-01-02,2018-08-31
+360,2899219.0,Stacy Wilhelm,22244 Stablehouse Drive,Sterling,VA,20164.0,Secretary,Dominion View Homeowners Association,HOA,VA,20164.0,Loudoun,2019-01-02,2018-08-31
+361,2899219.0,Lawrence Beach,22185 Stablehouse Drive,Sterling,VA,20164.0,Treasurer,Dominion View Homeowners Association,HOA,VA,20164.0,Loudoun,2019-01-02,2018-08-31
+362,2874394.0,Andre Francis,7503 Ballyshannon Court,Springfield,VA,22153.0,Director,Donegal Oaks Homeowners Association,HOA,VA,22153.0,Fairfax,2019-01-02,2018-03-26
+363,2874394.0,Curt Donnel,7918 Donegal Lane,Springfield,VA,22153.0,Director,Donegal Oaks Homeowners Association,HOA,VA,22153.0,Fairfax,2019-01-02,2018-03-26
+364,2874394.0,William Luk,7502 Ballyshannon Court,Springfield,VA,22153.0,Director,Donegal Oaks Homeowners Association,HOA,VA,22153.0,Fairfax,2019-01-02,2018-03-26
+365,2874394.0,Max E.Goodman,7504 Ballyshannon Court,Springfield,VA,22153.0,President,Donegal Oaks Homeowners Association,HOA,VA,22153.0,Fairfax,2019-01-02,2018-03-26
+366,2028033.0,Dan Rathbone,6813 Jeremiah Court,Fairfax Station,VA,22039.0,Director,Donovans Nine Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-02-14
+367,2028033.0,Bob Dowling,6817 Jeremiah Court,Fairfax Station,VA,22039.0,President,Donovans Nine Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-02-14
+368,2028033.0,Hans Paul Riede,1775 Wiehle Avenue #400,Reston,VA,20190.0,Treasurer,Donovans Nine Homes Association,HOA,VA,22039.0,Fairfax,2019-01-02,2018-02-14
+369,1288240.0,Elizabeth Ann Christiansen,6423 Duquesne Place,Virginia Beach,VA,23454.0,Director,Dorchester Village Homes Association,HOA,VA,23454.0,Virginia Beach,2019-01-02,2018-09-09
+370,1288240.0,Norman C. Mack,6444 Duquesne Place,Virginia Beach,VA,23454.0,Director,Dorchester Village Homes Association,HOA,VA,23454.0,Virginia Beach,2019-01-02,2018-09-09
+371,1288240.0,Jessica Filosa-Gatie,1509 Hubbell Court,Virginia Beach,VA,23454.0,President,Dorchester Village Homes Association,HOA,VA,23454.0,Virginia Beach,2019-01-02,2018-09-09
+372,1288240.0,Cecilia Cromwell,6464 Duquesne Place,Virginia Beach,VA,23454.0,Secretary,Dorchester Village Homes Association,HOA,VA,23454.0,Virginia Beach,2019-01-02,2018-09-09
+373,1288240.0,Paulina Sykes,404 Dillard Place,Virginia Beach,VA,23454.0,Vice President,Dorchester Village Homes Association,HOA,VA,23454.0,Virginia Beach,2019-01-02,2018-09-09
+374,3133345.0,Dianne Adelburg,3913 Courtland Circle,Alexandria,VA,22305.0,President,Douglas Park Oxford Ridge Homeowners Association,HOA,VA,22206.0,Arlington,2019-01-02,2018-12-20
+375,3133345.0,Steven Masters,2426 S Oxford Street,Arlington,VA,22206.0,President,Douglas Park Oxford Ridge Homeowners Association,HOA,VA,22206.0,Arlington,2019-01-02,2018-12-20
+376,3133345.0,Edison Fernandez,2420 S Oxford Street,Arlington,VA,22206.0,Secretary,Douglas Park Oxford Ridge Homeowners Association,HOA,VA,22206.0,Arlington,2019-01-02,2018-12-20
+377,3133345.0,Shema M. Byirukira,2428 S Oxford Street,Arlington,VA,22206.0,Treasurer,Douglas Park Oxford Ridge Homeowners Association,HOA,VA,22206.0,Arlington,2019-01-02,2018-12-20
+378,1865625.0,Joseph Elkadiki,1500 Miller Lane,Manakin Sabot,VA,23103.0,Director,Dover Creek Community Corporation,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-19
+379,1865625.0,Richard A. Sage,1621 Carriage Drive,Manakin Sabot,VA,23103.0,Director,Dover Creek Community Corporation,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-19
+380,1865625.0,"Baxter B. Taylor, III",1551 Carriage Drive,Manakin Sabot,VA,23103.0,President,Dover Creek Community Corporation,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-19
+381,1865625.0,Curtis B. Wiltshire,1614 Carriage Drive,Manakin Sabot,VA,23103.0,Secretary,Dover Creek Community Corporation,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-19
+382,1554989.0,Michael Fitzpatrick,1284 Dover Creek Lane,Manakin Sabot,VA,23103.0,Director,Dover Creek Land Owners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-09-17
+383,1554989.0,Patrick W.Williams,1195 Dover Creek Lane,Manakin Sabot,VA,23103.0,President,Dover Creek Land Owners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-09-17
+384,1554989.0,Lindsey Koerner,1250 Dover Creek Lane,Manakin Sabot,VA,23103.0,Secretary,Dover Creek Land Owners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-09-17
+385,1554989.0,Barbara Kay,1225 Dover Creek Lane,Manakin Sabot,VA,23103.0,Treasurer,Dover Creek Land Owners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-09-17
+386,1554989.0,John Bullard,1239 Dover Creek Lane,Manakin Sabot,VA,23103.0,Vice President,Dover Creek Land Owners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-09-17
+387,3810892.0,"W. Coleman Allen, Jr.",921 Barley Field Road,Manakin Sabot,VA,23103.0,Director,Dover Lake Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-11
+388,3810892.0,William Reed McGuire,746 Merry Go Round Road,Manakin Sabot,VA,23103.0,Director,Dover Lake Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-11
+389,3810892.0,Alan D. Bittman,733 Woodson Place,Manakin Sabot,VA,23103.0,President,Dover Lake Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-11
+390,3810892.0,Frances D. Duty,1608 Centerville Parke Lane,Manakin Sabot,VA,23103.0,Secretary,Dover Lake Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-11
+391,3810892.0,Robert B. Fauntleroy,755 Merry Go Round Road,Manakin Sabot,VA,23103.0,Treasurer,Dover Lake Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-08-11
+392,4494845.0,Ed Cacho,634 Cross Ridge Lane,Manakin Sabot,VA,23103.0,Director,Dovershire Homeowners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-07-03
+393,4494845.0,Greg Guinther,605 Cross Ridge Lane,Manakin Sabot,VA,23103.0,Director,Dovershire Homeowners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-07-03
+394,4494845.0,Scott Richeson,635 Cross Ridge Lane,Manakin Sabot,VA,23103.0,President,Dovershire Homeowners Association,HOA,VA,23103.0,Goochland,2019-01-02,2018-07-03
+395,1969120.0,John K. Perez,10440 Down Patrick Lane,Great Falls,VA,22066.0,President,Down Patrick Farms Association,HOA,VA,22066.0,Fairfax,2019-01-02,2018-05-21
+396,1969120.0,Lynn Miller,10441 Down Patrick Lane,Great Falls,VA,22066.0,Secretary,Down Patrick Farms Association,HOA,VA,22066.0,Fairfax,2019-01-02,2018-05-21
+397,4676581.0,Apurva M. Patel,301 Goode Way #103,Portsmouth,VA,23704.0,Director,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+398,4676581.0,Bhaydeep K. Gupta,301 Goode Way #102 ,Portsmouth,VA,23704.0,Director,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+399,4676581.0,David L. Akins,301 Goode Way #103,Portsmouth,VA,23704.0,Director,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+400,4676581.0,Laarni Bibay,301 Goode Way #103,Portsmouth,VA,23704.0,Director,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+401,4676581.0,Mosta G. Haque,301 Goode Way #103,Portsmouth,VA,23704.0,President,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+402,4676581.0,Nihar Bhowmik,301 Goode Way #103,Portsmouth,VA,23704.0,Treasurer,Downtown Medical Associates Unit Owners Association,Condo,VA,23704.0,Portsmouth,2019-01-02,2018-07-23
+403,2681690.0,Aaron Banikiotes,1308 Cassia Street,Herndon,VA,20170.0,Director,Dranesville Estates Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-06
+404,2681690.0,Charles Wortman,12314 Valley High Road,Herndon,VA,20170.0,Director,Dranesville Estates Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-06
+405,2681690.0,Anne O'Flaherty,1314 Cassia Street,Herndon,VA,20170.0,President,Dranesville Estates Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-06
+406,2681690.0,Daniel Flavin,12262 Cliveden Street,Herndon,VA,20170.0,Secretary,Dranesville Estates Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-06
+407,2681690.0,Julie Gibbsons,12304 Cliveden Street,Herndon,VA,20170.0,Treasurer,Dranesville Estates Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-06
+408,4379228.0,Richard Depaulo,700 Whistling Swan Drive,Virginia Beach,VA,23464.0,Director,Drift Tide II Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-11-19
+409,4379228.0,Elaine A. Deangelis,749 Whistling Swan Drive,Virginia Beach,VA,23464.0,President,Drift Tide II Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-11-19
+410,4379228.0,Susan Esposito,828 Whistling Swan Drive,Virginia Beach,VA,23464.0,Secretary,Drift Tide II Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-11-19
+411,4379228.0,Melissa Tan,836 Whistling Swan Drive,Virginia Beach,VA,23464.0,Treasurer,Drift Tide II Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-11-19
+412,4379228.0,Naomi Mitchell,765 Whistling Swan Drive,Virginia Beach,VA,23464.0,Vice President,Drift Tide II Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-11-19
+413,7350606.0,Tonya London,792 Drift Tide Drive,Virginia Beach,VA,23464.0,Director,Drift Tide Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-03-08
+414,7350606.0,Barry Weaver,732 Drift Tide Drive,Virginia Beach,VA,23464.0,President,Drift Tide Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-03-08
+415,7350606.0,Tim Roof,904 Drift Tide Drive,Virginia Beach,VA,23464.0,Secretary,Drift Tide Unit Owners Association,Condo,VA,23464.0,Virginia Beach,2019-01-02,2018-03-08
+416,6637219.0,Abe Drissi,12839 Tournament Drive,Reston,VA,20191.0,Director,Drissi Plaza Condominium Association,Condo,VA,20191.0,Fairfax,2019-01-02,2018-06-20
+417,6637219.0,Deborah Drissi,12839 Tournament Drive,Reston,VA,20191.0,Director,Drissi Plaza Condominium Association,Condo,VA,20191.0,Fairfax,2019-01-02,2018-06-20
+418,5907019.0,Arnold Agustin,1115 Driver Pointe Court,Suffolk,VA,23435.0,President,Driver Pointe Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-02-02
+419,5907019.0,Eileen Gaik,4117 Bluebill Drive,Suffolk,VA,23435.0,Secretary,Driver Pointe Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-02-02
+420,5907019.0,Christine Delos Santos,2100 Canvasback Drive,Suffolk,VA,23435.0,Treasurer,Driver Pointe Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-02-02
+421,4743852.0,Terrell Smith,3007 Driver Station Way W,Suffolk,VA,23435.0,Director,Driver Station Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-11-07
+422,4743852.0,Shawanna Poarch,3005 Driver Station Way W,Suffolk,VA,23435.0,President,Driver Station Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-11-07
+423,4743852.0,Michelle Brooks,3012 Beach Grove Lane,Suffolk,VA,23435.0,Secretary,Driver Station Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-11-07
+424,4743852.0,Peter Nowalski,3006 Beach Grove Lane,Suffolk,VA,23435.0,Treasurer,Driver Station Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-11-07
+425,4743852.0,Domenick Epps,3009 Beach Grove Lane,Suffolk,VA,23435.0,Vice President,Driver Station Homeowners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-11-07
+426,6376594.0,Patricia McCaughlen,2102 Patrick Drive,Suffolk,VA,23435.0,Director,Driver Village Green Property Owners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-04-26
+427,6376594.0,Theresa Carpenter,2005 Patrick Drive,Suffolk,VA,23435.0,President,Driver Village Green Property Owners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-04-26
+428,6376594.0,Mona Cunnikin,2100 Patrick Drive,Suffolk,VA,23435.0,Secretary,Driver Village Green Property Owners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-04-26
+429,6376594.0,George Jones,1103 Erin Drive,Suffolk,VA,23435.0,Treasurer,Driver Village Green Property Owners Association,HOA,VA,23435.0,Suffolk,2019-01-02,2018-04-26
+430,4642336.0,John Rob Rust,257 Town Branch Terrace SW,Leesburg,VA,20175.0,Director,Drymill Homeowners Association,HOA,VA,20175.0,Loudoun,2019-01-02,2018-04-11
+431,4642336.0,Michael E. Smith,218 Town Branch Terrace SW,Leesburg,VA,20175.0,President,Drymill Homeowners Association,HOA,VA,20175.0,Loudoun,2019-01-02,2018-04-11
+432,4642336.0,Chang Liu,214 Occoquan Terrace,Leesburg,VA,20175.0,Secretary,Drymill Homeowners Association,HOA,VA,20175.0,Loudoun,2019-01-02,2018-04-11
+433,4642336.0,George Affe,109 Meherrin Terrace SW,Leesburg,VA,20175.0,Treasurer,Drymill Homeowners Association,HOA,VA,20175.0,Loudoun,2019-01-02,2018-04-11
+434,4642336.0,Noele K. Simmons,101 Meherrin Terrace,Leesburg,VA,20175.0,Vice President,Drymill Homeowners Association,HOA,VA,20175.0,Loudoun,2019-01-02,2018-04-11
+435,7170095.0,Bryan E. Kornblau,2250 Old Brick Road #220,Glen Allen,VA,23060.0,President,Duckling Drive Commercial Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2019-01-02,2018-10-23
+436,7170095.0,Neil Amin,2000 Ware Bottom Spring Road,Chester,VA,23836.0,President,Duckling Drive Commercial Condominium Unit Owners Association,Condo,VA,23060.0,Henrico,2019-01-02,2018-10-23
+437,4079927.0,Ricardo Machado,7109 Dudrow Court,Springfield,VA,22150.0,President,Dudrow Homeowners Association,HOA,VA,22150.0,Fairfax,2019-01-02,2018-02-27
+438,4079927.0,David Medding,7100 Dudrow Court,Springfield,VA,22150.0,Treasurer,Dudrow Homeowners Association,HOA,VA,22150.0,Fairfax,2019-01-02,2018-02-27
+439,4079927.0,Dennis Brown,7111 Dudrow Court,Springfield,VA,22150.0,Vice President,Dudrow Homeowners Association,HOA,VA,22150.0,Fairfax,2019-01-02,2018-02-27
+440,2406924.0,Gale Jett,1630 Duke Street,Alexandria,VA,22314.0,President,Duke Street Square Association,HOA,VA,22314.0,Alexandria,2019-01-02,2018-08-20
+441,2406924.0,Vincent Bryant,1660 Duke Street,Alexandria,VA,22314.0,Secretary,Duke Street Square Association,HOA,VA,22314.0,Alexandria,2019-01-02,2018-08-20
+442,2406924.0,Tom Monday,1600 Duke Street,Alexandria,VA,22314.0,Treasurer,Duke Street Square Association,HOA,VA,22314.0,Alexandria,2019-01-02,2018-08-20
+443,2406924.0,Angela Tabor,1630 Duke Street,Alexandria,VA,22314.0,Vice President,Duke Street Square Association,HOA,VA,22314.0,Alexandria,2019-01-02,2018-08-20
+444,4549473.0,Lisa Mandrusiak,111 Ingle Place,Alexandria,VA,22304.0,President,Duke Street Square Community Association,HOA,VA,22304.0,Alexandria,2019-01-02,2017-05-09
+445,4549473.0,Frederic Brizzi,156 Ingle Place,Alexandria,VA,22304.0,Secretary,Duke Street Square Community Association,HOA,VA,22304.0,Alexandria,2019-01-02,2017-05-09
+446,4549473.0,Kathleen Obert,100 Ingle Place,Alexandria,VA,22304.0,Treasurer,Duke Street Square Community Association,HOA,VA,22304.0,Alexandria,2019-01-02,2017-05-09
+447,3274107.0,Virginia R. Beall,6345 Battlement Way,Alexandria,VA,22312.0,Secretary,Duke Street Station Homeowners Association,HOA,VA,22312.0,Alexandria,2019-01-02,2018-09-24
+448,7261365.0,Daniel Legge,1 Auto World Circle,Potomac Falls,VA,20165.0,Secretary,Dulles 28 Auto Park Owners Association,Condo,VA,20165.0,Loudoun,2019-01-02,2017-06-27
+449,7261365.0,Michael Rusnack,1 Auto World Circle,Potomac Falls,VA,20165.0,Treasurer,Dulles 28 Auto Park Owners Association,Condo,VA,20165.0,Loudoun,2019-01-02,2017-06-27
+450,7261365.0,Don Nickles,1 Auto World Circle,Potomac Falls,VA,20165.0,Vice President,Dulles 28 Auto Park Owners Association,Condo,VA,20165.0,Loudoun,2019-01-02,2017-06-27
+451,4714101.0,Grayson Haines,3110 Fairview Park Drive,Falls Church,VA,22042.0,Director,Dulles 28 Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-10-22
+452,4714101.0,Mark D. Lerner,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,President,Dulles 28 Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-10-22
+453,4714101.0,Alan H. Gottlieb,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,Treasurer,Dulles 28 Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-10-22
+454,4714101.0,Arthur Fuccillo,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,Vice President,Dulles 28 Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-10-22
+455,5259221.0,William E. Schuiling,12500 Fair Lakes Circle #375,Fairfax,VA,22033.0,President,Dulles Auto Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-06-26
+456,5259221.0,Larry Palsha,12500 Fair Lakes Circle #375,Fairfax,VA,22033.0,Treasurer,Dulles Auto Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-06-26
+457,5259221.0,Gordon S. Riddle,12500 Fair Lakes Circle #375,Fairfax,VA,22033.0,Vice President,Dulles Auto Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-06-26
+458,6480982.0,Wayne White,3901 Centerview Drive #L,Chantilly,VA,20151.0,President,Dulles Business Park Owners Association,Condo,VA,20151.0,Fairfax,2019-01-02,2018-11-29
+459,6480982.0,Audrey Smith,3935 Centreview Drive,Chantilly,VA,20151.0,Treasurer,Dulles Business Park Owners Association,Condo,VA,20151.0,Fairfax,2019-01-02,2018-11-29
+460,6480982.0,Sarah Jones,14036 Thunderbolt Place,Chantilly,VA,20151.0,Vice President,Dulles Business Park Owners Association,Condo,VA,20151.0,Fairfax,2019-01-02,2018-11-29
+461,6925952.0,Michael Yelton,11700 Plaza America Drive #310,Reston,VA,20190.0,Director,Dulles Farms Community Association,HOA,VA,20105.0,Loudoun,2019-01-02,2018-03-08
+462,6925952.0,Naresh Chaudhary,25941 Amber Valley Place,Aldie,VA,20105.0,President,Dulles Farms Community Association,HOA,VA,20105.0,Loudoun,2019-01-02,2018-03-08
+463,6925952.0,Satyanrayana Kunthsam,25899 Sycamore Grove Place,Aldie,VA,20105.0,Secretary,Dulles Farms Community Association,HOA,VA,20105.0,Loudoun,2019-01-02,2018-03-08
+464,6925952.0,June Raman,24872 Helms Terrace,Aldie,VA,20105.0,Treasurer,Dulles Farms Community Association,HOA,VA,20105.0,Loudoun,2019-01-02,2018-03-08
+465,6925952.0,Thomas Ward,41669 Prandenstein Drive,Aldie,VA,20105.0,Vice President,Dulles Farms Community Association,HOA,VA,20105.0,Loudoun,2019-01-02,2018-03-08
+466,4690087.0,Ved Gupta,10719 Ox Croft Court,Fairfax Station,VA,22039.0,President,Dulles Gateway Commercial Center Association,Condo,VA,22039.0,Fairfax,2019-01-02,2018-06-27
+467,4690087.0,Ajaib Toor,3521 W Ox Road,Fairfax Station,VA,22039.0,Secretary,Dulles Gateway Commercial Center Association,Condo,VA,22039.0,Fairfax,2019-01-02,2018-06-27
+468,4690087.0,Neera Gupta,10719 Ox Croft Court,Fairfax Station,VA,22039.0,Treasurer,Dulles Gateway Commercial Center Association,Condo,VA,22039.0,Fairfax,2019-01-02,2018-06-27
+469,4535878.0,Robert Craft,25255 Pleasant Valley Road,Chantilly,VA,20152.0,Director,Dulles Industrial Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-07-25
+470,4535878.0,Tim Hutchinson,44150 Wade Drive,Chantilly,VA,20152.0,President,Dulles Industrial Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-07-25
+471,4535878.0,Gregory A. Freeze,44235 Wade Drive,Chantilly,VA,20152.0,Treasurer,Dulles Industrial Park Owners Association,Condo,VA,20152.0,Loudoun,2019-01-02,2018-07-25
+472,1336650.0,Joel Vasquez,1185 Alabama Drive,Herndon,VA,20170.0,Director,Dulles Park Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-07-15
+473,1336650.0,Masud M. Ashsan,1237 Wilshire Drive,Herndon,VA,20170.0,President,Dulles Park Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-07-15
+474,1336650.0,Robert Jackson,1239 Alabama Drive,Herndon,VA,20170.0,Treasurer,Dulles Park Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-07-15
+475,6943898.0,Rick Javins,P O Box 344,Gainesville,VA,20156.0,Director,Dulles Southgate Condominium 1,Condo,VA,20151.0,Fairfax,2019-01-02,2018-04-08
+476,6943898.0,Wayne Dunlap,15572 Alderbrook Drive,Haymarket,VA,20169.0,Director,Dulles Southgate Condominium 1,Condo,VA,20151.0,Fairfax,2019-01-02,2018-04-08
+477,6943898.0,James Hedeen,3917 Downs Drive,Chantilly,VA,20151.0,President,Dulles Southgate Condominium 1,Condo,VA,20151.0,Fairfax,2019-01-02,2018-04-08
+478,6943898.0,David Parsons,2931 Melanie Lane,Oakton,VA,22124.0,Secretary,Dulles Southgate Condominium 1,Condo,VA,20151.0,Fairfax,2019-01-02,2018-04-08
+479,6943898.0,Steve Geissler,11946 Goodwood Drive,Fairfax,VA,22030.0,Vice President,Dulles Southgate Condominium 1,Condo,VA,20151.0,Fairfax,2019-01-02,2018-04-08
+480,6204143.0,R. Kevin Dougherty,2355 Delaplane Grade Road,Delaplane,VA,20144.0,President,Dulles Station Owners Association,HOA,VA,20171.0,Fairfax,2019-01-02,2018-08-30
+481,6204143.0,Ann Vowell,1300 Post Oak Boulevard #1650,Houston,TX,77056.0,Secretary,Dulles Station Owners Association,HOA,VA,20171.0,Fairfax,2019-01-02,2018-08-30
+482,6204143.0,Thomas Simmons,1300 Post Oak Boulevard #1650,Houston,TX,77056.0,Treasurer,Dulles Station Owners Association,HOA,VA,20171.0,Fairfax,2019-01-02,2018-08-30
+483,6204143.0,Wolfram Vedder,221 S Mopac Expressway #355,Austin,TX,78746.0,Vice President,Dulles Station Owners Association,HOA,VA,20171.0,Fairfax,2019-01-02,2018-08-30
+484,4560405.0,Mark D. Lerner,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,President,Dulles Town Center Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-28
+485,4560405.0,Arthur N. Fuccillo,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,Secretary,Dulles Town Center Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-28
+486,4560405.0,Robert K. Tandenbaum,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,Treasurer,Dulles Town Center Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-28
+487,4560405.0,Edward Cohen,"2000 Tower Oaks Boulevard, 8th Floor",Rockville,MD,20852.0,Vice President,Dulles Town Center Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-28
+488,6212500.0,Greg Day,43671 Trade Center Place #156,Dulles,VA,20166.0,President,Dulles Trade Center I Buildings A/B Condominium Unit Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-08-08
+489,6212500.0,Michael Watt,43670 Trade Center Place,Dulles,VA,20166.0,Treasurer,Dulles Trade Center I Buildings A/B Condominium Unit Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-08-08
+490,5838818.0,Katherine Au,43670 Trade Center Place #145,Dulles,VA,20166.0,Director,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+491,5838818.0,Mark Elmore,43760 Trade Center Place #150,Dulles,VA,20166.0,Director,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+492,5838818.0,Glenn Mouritzen,23465 Rock Haven Way #210,Dulles,VA,20166.0,President,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+493,5838818.0,Bob Pyle,43671 Trade Center Place #110,Dulles,VA,20166.0,Secretary,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+494,5838818.0,Dave Gunter,43671 Trade Center Place #106,Dulles,VA,20166.0,Treasurer,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+495,5838818.0,Joe Zaccack,23430 Rock Haven Way #122,Dulles,VA,20166.0,Vice President,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+496,5838818.0,Luise Stamatis,14506 Lee Road Street E,Chantilly,VA,20151.0,Vice President,Dulles Trade Center I Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-11-02
+497,5778378.0,Joe Araujo,23691 Overland Drive,Dulles,VA,20166.0,Director,Dulles Trade Center II Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2017-05-23
+498,5778378.0,Matt Olson,23700 Overland Drive #110,Dulles,VA,20166.0,President,Dulles Trade Center II Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2017-05-23
+499,5778378.0,Cody Wood,23745 Pebble Run Place,Dulles,VA,20166.0,Secretary,Dulles Trade Center II Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2017-05-23
+500,5778378.0,Thomas Sweeten,44264 Mercure Circle #120,Dulles,VA,20166.0,Treasurer,Dulles Trade Center II Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2017-05-23
+501,5778378.0,Ralph Thompson,9074 Loreleigh Way,Fairfax,VA,22031.0,Vice President,Dulles Trade Center II Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2017-05-23
+502,6494694.0,Ali Dilmaghani,6803 Whittier Avenue,McLean,VA,22101.0,President,Dulles Trade Center IV Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-24
+503,6494694.0,Mehran Aliakbar,1509 Dodona Terrace #205,Leesburg,VA,20175.0,Treasurer,Dulles Trade Center IV Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-24
+504,6494694.0,Fred Aryan,6803 Whittier Avenue,McLean,VA,22101.0,Vice President,Dulles Trade Center IV Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-24
+505,6838882.0,"C. T. Howlett, Sr.",42777 Trade West Drive,Dulles,VA,20166.0,Director,Dulles Trade Center West Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-11
+506,6838882.0,Eric Zwilsky,47202 Dulles Trade Court,Dulles,VA,20166.0,Director,Dulles Trade Center West Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-11
+507,6838882.0,Matt Pierce,9841 Washingtonian Boulevard #300,Gaithersburg,MD,20878.0,President,Dulles Trade Center West Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-11
+508,6838882.0,Jimmy Roembke,9841 Washingtonian Boulevard #300,Gaithersburg,MD,20878.0,Secretary,Dulles Trade Center West Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-11
+509,6838882.0,Charlie Turner,9841 Washingtonian Boulevard #300,Gaithersburg,MD,20878.0,Treasurer,Dulles Trade Center West Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-10-11
+510,5622790.0,Barry P. Marcus,2 Post Road West,Westport,CT,6880.0,Vice President,Dulles World Center Property Owners Association,Condo,VA,20166.0,Loudoun,2019-01-02,2018-06-12
+511,2416980.0,Janseh Whitlock,951 Fizandale Avenue,Herndon,VA,20170.0,Director,Dumbarton Square Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-26
+512,2416980.0,John Lewczyk,931 Barton Oaks Place,Herndon,VA,20170.0,Director,Dumbarton Square Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-26
+513,2416980.0,Charles Waddell,929 Barton Oaks Place,Herndon,VA,20170.0,President,Dumbarton Square Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-26
+514,2416980.0,Michael Casey,925 Barton Oaks Place,Herndon,VA,20170.0,Secretary,Dumbarton Square Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-26
+515,2416980.0,David Paulson,947 Barton Oaks Place,Herndon,VA,20170.0,Treasurer,Dumbarton Square Homeowners Association,HOA,VA,20170.0,Fairfax,2019-01-02,2018-03-26
+516,6919567.0,Markt. Bogert,5511 Staples Mill Road #102,Richmond,VA,23228.0,President,Dumbarton Woods Owners Association,HOA,VA,23228.0,Henrico,2019-01-02,2018-07-20
+517,6919567.0,D. Randolph Graham,5511 Staples Mill Road #102,Richmond,VA,23228.0,Secretary,Dumbarton Woods Owners Association,HOA,VA,23228.0,Henrico,2019-01-02,2018-07-20
+518,6919567.0,Penny Pbogert,5511 Staples Mill Road #102,Richmond,VA,23228.0,Vice President,Dumbarton Woods Owners Association,HOA,VA,23228.0,Henrico,2019-01-02,2018-07-20
+519,5475330.0,Al Ravella,12854 Dunbarton Drive,Bristow,VA,20136.0,Director,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+520,5475330.0,Matthew Conlan,12975 Dunbarton Drive,Bristow,VA,20136.0,Director,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+521,5475330.0,Susan Chadwick,12854 Dunbarton Drive,Bristow,VA,20136.0,Director,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+522,5475330.0,Tom Wolfe,12825 Dumbarton Drive,Bristow,VA,20136.0,President,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+523,5475330.0,Diane May,9552 Tay Creek Drive,Bristow,VA,20136.0,Secretary,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+524,5475330.0,Curtis Robb,9595 Craighill Drive,Bristow,VA,20136.0,Treasurer,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+525,5475330.0,Ed Callaway,9599 Tay Creek Drive,Bristow,VA,20136.0,Vice President,Dunbarton Community Association,HOA,VA,20136.0,Prince William,2019-01-02,2018-09-25
+526,7698541.0,Amrindeer Singh,11308 Sadler Walk Lane,Glen Allen,VA,23060.0,President,Duncan Park Homeowners Association,HOA,VA,23060.0,Henrico,2019-01-02,2018-10-16
+527,7698541.0,Webb L. Tyler,"7309 Hanover Green Drive, P O Box 293",Mechanicsville,VA,23111.0,President,Duncan Park Homeowners Association,HOA,VA,23060.0,Henrico,2019-01-02,2018-10-16
+528,7698541.0,Lara T. Chambers,7309 Hanover Green Drive,Mechanicsville,VA,23111.0,Treasurer,Duncan Park Homeowners Association,HOA,VA,23060.0,Henrico,2019-01-02,2018-10-16
+529,7698541.0,Sabarinath Sivasankaran,11308 Duncan Park Court,Glen Allen,VA,23060.0,Treasurer,Duncan Park Homeowners Association,HOA,VA,23060.0,Henrico,2019-01-02,2018-10-16
+530,8189219.0,"Richnied E. Barrott, Sr.",7301 River Road,Hanover,VA,23069.0,President,Dundee 2 Homeowners Association,HOA,VA,23069.0,Hanover,2019-01-02,2018-05-10
+531,8189219.0,Carolyn H. Barrott,7302 River Road,Hanover,VA,23069.0,Secretary,Dundee 2 Homeowners Association,HOA,VA,23069.0,Hanover,2019-01-02,2018-05-10
+532,1818475.0,David Moulton,5239 Dunleigh Drive,Burke,VA,22015.0,Director,Dunleigh Homeowners Association,HOA,VA,22015.0,Fairfax,2019-01-02,2018-02-14
+533,1818475.0,Linden St. Clair,5201 Dunleigh Glen Lane,Burke,VA,22015.0,Director,Dunleigh Homeowners Association,HOA,VA,22015.0,Fairfax,2019-01-02,2018-02-14
+534,1818475.0,Louise Wood,5206 Jerrell Court,Burke,VA,22015.0,President,Dunleigh Homeowners Association,HOA,VA,22015.0,Fairfax,2019-01-02,2018-02-14
+535,1818475.0,Vincent Calbi,5303 Dunleigh Court,Burke,VA,22015.0,Secretary,Dunleigh Homeowners Association,HOA,VA,22015.0,Fairfax,2019-01-02,2018-02-14
+536,1818475.0,Arthur E. Jones,5232 Dunleigh Drive,Burke,VA,22015.0,Treasurer,Dunleigh Homeowners Association,HOA,VA,22015.0,Fairfax,2019-01-02,2018-02-14
+537,4764940.0,Betty S. Crostic,3272 Longhorn Drive,Colonial Heights,VA,23834.0,Director,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+538,4764940.0,Dorothy Kuykendall-Smith,107 Shade Tree Court,Colonial Heights,VA,23834.0,Director,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+539,4764940.0,Kevin Erowns,343 Shade Tree Drive,Colonial Heights,VA,23834.0,Director,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+540,4764940.0,William J. House,207 Greenmeadow Drive,Colonial Heights,VA,23834.0,Director,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+541,4764940.0,Mary Kay Hatton,3243 Jersey Court,Colonial Heights,VA,23834.0,President,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+542,4764940.0,Robin W. Stephens,306 Greenmeadow Court,Colonial Heights,VA,23834.0,Secretary,Dunlop Farms Association,HOA,VA,23834.0,Colonial Heights,2019-01-02,2017-10-31
+543,3730934.0,Janice Huebner,829 King William Drive,Charlottesville,VA,22901.0,Director,Dunlora Community Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-03-19
+544,3730934.0,Judith Schlussel,1171 River Chase Lane,Charlottesville,VA,22901.0,Director,Dunlora Community Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-03-19
+545,3730934.0,Suzanna Conkin,2062 Loring Place,Charlottesville,VA,22901.0,President,Dunlora Community Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-03-19
+546,3730934.0,Jennifer Mather,2164 Loring Circle,Charlottesville,VA,22901.0,Secretary,Dunlora Community Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-03-19
+547,3730934.0,Thomas Duffy,885 Chanten Oaks Drive,Charlottesville,VA,22901.0,Treasurer,Dunlora Community Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-03-19
+548,7649007.0,Vincent Capaccio,2036 Bethpage Court,Charlottesville,VA,22901.0,Director,Dunlora Forest Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-05-17
+549,7649007.0,Charles Dassance,1562 Sawgrass Court,Charlottesville,VA,22901.0,President,Dunlora Forest Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-05-17
+550,7649007.0,Jane Frunchnicht,1608 Sawgrass Court,Charlottesville,VA,22901.0,Secretary,Dunlora Forest Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-05-17
+551,7649007.0,Jennifer Hale,1557 Swagrass Court,Charlottesville,VA,22901.0,Treasurer,Dunlora Forest Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-05-17
+552,7649007.0,Rick Seaman,1606 Sawgrass Court,Charlottesville,VA,22901.0,Vice President,Dunlora Forest Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-05-17
+553,7607716.0,Gerald R. Hertzler,415 Townbrook Court,Charlottesville,VA,22901.0,President,Dunlora Gates Homeowners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-01-25
+554,7607716.0,Bill L. Stackhouse,1260 Townbrook Crossing,Charlottesville,VA,22901.0,Secretary,Dunlora Gates Homeowners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-01-25
+555,7607716.0,William H. Porter,417 Townbrook Court,Charlottesville,VA,22901.0,Treasurer,Dunlora Gates Homeowners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-01-25
+556,7607716.0,Alan Binder,414 Townbrook Court,Charlottesville,VA,22901.0,Vice President,Dunlora Gates Homeowners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-01-25
+557,7607716.0,Paul M. Amrhein,403 Townbrook Court,Charlottesville,VA,22901.0,Vice President,Dunlora Gates Homeowners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-01-25
+558,8193211.0,"Alan R. Taylor, Jr.",455 2nd Street SE #500,Charlottesville,VA,22901.0,Director,Dunlora Park Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-06-11
+559,8193211.0,"Robert W. Saady, Jr.",455 2nd Street SE #500,Charlottesville,VA,22901.0,Director,Dunlora Park Property Owners Association,HOA,VA,22901.0,Albemarle,2019-01-02,2018-06-11
+560,1988179.0,John T. Husk,2240 Gallows Road,Vienna,VA,22182.0,President,Dunn Loring Center Owners Association,HOA,VA,22182.0,Fairfax,2019-01-02,2018-07-27
+561,1988179.0,Robert Sullivan,2240 C Gallows Road,Vienna,VA,22182.0,Treasurer,Dunn Loring Center Owners Association,HOA,VA,22182.0,Fairfax,2019-01-02,2018-07-27
+562,1853381.0,Jeremy C. Glasser,P O Box 327,Dunn Loring,VA,22027.0,Director,Dunn Loring Highlands Homeowners Association,HOA,VA,22027.0,Fairfax,2019-01-02,2018-05-14
+563,1853381.0,Steve Talmont,P O Box 327,Dunn Loring,VA,22027.0,President,Dunn Loring Highlands Homeowners Association,HOA,VA,22027.0,Fairfax,2019-01-02,2018-05-14
+564,1853381.0,Scarlett Talmont,P O Box 327,Dunn Loring,VA,22027.0,Vice President,Dunn Loring Highlands Homeowners Association,HOA,VA,22027.0,Fairfax,2019-01-02,2018-05-14
+565,1832922.0,Michael Downey,2774 Grovemore Lane,Vienna,VA,22180.0,Director,Dunn Loring Village Homeowner's Association,HOA,VA,22180.0,Fairfax,2019-01-02,2018-03-12
+566,1832922.0,Brian Zelley,2770 Stone Hollow Drive,Vienna,VA,22180.0,President,Dunn Loring Village Homeowner's Association,HOA,VA,22180.0,Fairfax,2019-01-02,2018-03-12
+567,1832922.0,Lauren Terrell,2780 Grovemore Lane,Vienna,VA,22180.0,Secretary,Dunn Loring Village Homeowner's Association,HOA,VA,22180.0,Fairfax,2019-01-02,2018-03-12
+568,1832922.0,Joaquin Santos,2845 Andiron Lane,Vienna,VA,22180.0,Treasurer,Dunn Loring Village Homeowner's Association,HOA,VA,22180.0,Fairfax,2019-01-02,2018-03-12
+569,1832922.0,John O'Donnell,2776 Kroll Side Lane,Vienna,VA,22180.0,Vice President,Dunn Loring Village Homeowner's Association,HOA,VA,22180.0,Fairfax,2019-01-02,2018-03-12
+570,3072212.0,David Berish,35777 Dunthorpe Lane,Purcellville,VA,20132.0,Director,Dunthorpe Farms Homeowners Association,HOA,VA,20132.0,Loudoun,2019-01-02,2018-05-25
+571,3072212.0,John Haugh,35755 Dunthorpe Lane,Purcellville,VA,20132.0,Director,Dunthorpe Farms Homeowners Association,HOA,VA,20132.0,Loudoun,2019-01-02,2018-05-25
+572,3072212.0,Philip Foltman,35709 Suffolk Lane,Purcellville,VA,20132.0,Director,Dunthorpe Farms Homeowners Association,HOA,VA,20132.0,Loudoun,2019-01-02,2018-05-25
+573,3072212.0,Kenneth Ivey,35711 Dunthorpe Lane,Purcellville,VA,20132.0,President,Dunthorpe Farms Homeowners Association,HOA,VA,20132.0,Loudoun,2019-01-02,2018-05-25
+574,3072212.0,Linda Malone,35671 Dunthorpe Lane,Purcellville,VA,20132.0,Treasurer,Dunthorpe Farms Homeowners Association,HOA,VA,20132.0,Loudoun,2019-01-02,2018-05-25
+575,3262326.0,Cecil Miller,780 Pilot House Drive B#500-D,Newport News,VA,23606.0,President,Dunwoody Condominium Association,Condo,VA,23606.0,Newport News,2019-01-02,2018-07-05
+576,3262326.0,Michael Henry,780 Pilot House Drive,Newport News,VA,23606.0,Secretary,Dunwoody Condominium Association,Condo,VA,23606.0,Newport News,2019-01-02,2018-07-05
+577,3262326.0,"M. William McFall, Jr.",780 Pilot House Drive #400-B,Newport News,VA,23606.0,Treasurer,Dunwoody Condominium Association,Condo,VA,23606.0,Newport News,2019-01-02,2018-07-05
+578,5569371.0,Warren Breaux,11975 George Farm Drive,Lovettsville,VA,20180.0,President,Dutchman's Creek Homeowners Association,HOA,VA,20180.0,Loudoun,2019-01-02,2018-04-05
+579,5569371.0,Starla Olsen,12027 George Farm Drive,Lovettsville,VA,20180.0,Secretary,Dutchman's Creek Homeowners Association,HOA,VA,20180.0,Loudoun,2019-01-02,2018-04-05
+580,5569371.0,Donna Vandenbrock,11955 George Farm Drive,Lovettsville,VA,20180.0,Treasurer,Dutchman's Creek Homeowners Association,HOA,VA,20180.0,Loudoun,2019-01-02,2018-04-05
+581,5569371.0,Jacob Pohner,11987 George Farm Drive,Lovettsville,VA,20180.0,Vice President,Dutchman's Creek Homeowners Association,HOA,VA,20180.0,Loudoun,2019-01-02,2018-04-05
+582,3338746.0,Jim Knodel,6616 Duvon Place,Manassas,VA,20111.0,President,Duvon Property Homeowners Association,HOA,VA,20111.0,Prince William,2019-01-02,2018-05-12
+583,3338746.0,Leo Mullin,6602 Duvon Place,Manassas,VA,20111.0,Secretary,Duvon Property Homeowners Association,HOA,VA,20111.0,Prince William,2019-01-02,2018-05-12
+584,3338746.0,Chris Jones,6612 Duvon Place,Manassas,VA,20111.0,Treasurer,Duvon Property Homeowners Association,HOA,VA,20111.0,Prince William,2019-01-02,2018-05-12
+585,,,,,,,,,,,,,,
+586,,,,,,,,,,,,,,
+587,,,,,,,,,,,,,,
+588,,,,,,,,,,,,,,
+589,,,,,,,,,,,,,,
+590,,,,,,,,,,,,,,
+591,,,,,,,,,,,,,,
+592,,,,,,,,,,,,,,
+593,,,,,,,,,,,,,,
+594,,,,,,,,,,,,,,
+595,,,,,,,,,,,,,,
+596,,,,,,,,,,,,,,
+597,,,,,,,,,,,,,,
+598,,,,,,,,,,,,,,
+599,,,,,,,,,,,,,,
+600,,,,,,,,,,,,,,
+601,,,,,,,,,,,,,,
+602,,,,,,,,,,,,,,
+603,,,,,,,,,,,,,,
+604,,,,,,,,,,,,,,
+605,,,,,,,,,,,,,,
+606,,,,,,,,,,,,,,
+607,,,,,,,,,,,,,,
+608,,,,,,,,,,,,,,
+609,,,,,,,,,,,,,,
+610,,,,,,,,,,,,,,
+611,,,,,,,,,,,,,,
+612,,,,,,,,,,,,,,
+613,,,,,,,,,,,,,,
+614,,,,,,,,,,,,,,
+615,,,,,,,,,,,,,,
+616,,,,,,,,,,,,,,
+617,,,,,,,,,,,,,,
+618,,,,,,,,,,,,,,
+619,,,,,,,,,,,,,,
+620,,,,,,,,,,,,,,
+621,,,,,,,,,,,,,,
+622,,,,,,,,,,,,,,
+623,,,,,,,,,,,,,,
+624,,,,,,,,,,,,,,
+625,,,,,,,,,,,,,,
+626,,,,,,,,,,,,,,
+627,,,,,,,,,,,,,,
+628,,,,,,,,,,,,,,
+629,,,,,,,,,,,,,,
+630,,,,,,,,,,,,,,
+631,,,,,,,,,,,,,,
+632,,,,,,,,,,,,,,
+633,,,,,,,,,,,,,,
+634,,,,,,,,,,,,,,
+635,,,,,,,,,,,,,,
+636,,,,,,,,,,,,,,
+637,,,,,,,,,,,,,,
+638,,,,,,,,,,,,,,
+639,,,,,,,,,,,,,,
+640,,,,,,,,,,,,,,
+641,,,,,,,,,,,,,,
+642,,,,,,,,,,,,,,
+643,,,,,,,,,,,,,,
+644,,,,,,,,,,,,,,
+645,,,,,,,,,,,,,,
+646,,,,,,,,,,,,,,
+647,,,,,,,,,,,,,,
+648,,,,,,,,,,,,,,
+649,,,,,,,,,,,,,,
+650,,,,,,,,,,,,,,
+651,,,,,,,,,,,,,,
+652,,,,,,,,,,,,,,
+653,,,,,,,,,,,,,,
+654,,,,,,,,,,,,,,
+655,,,,,,,,,,,,,,
+656,,,,,,,,,,,,,,
+657,,,,,,,,,,,,,,
+658,,,,,,,,,,,,,,
+659,,,,,,,,,,,,,,
+660,,,,,,,,,,,,,,
+661,,,,,,,,,,,,,,
+662,,,,,,,,,,,,,,
+663,,,,,,,,,,,,,,
+664,,,,,,,,,,,,,,
+665,,,,,,,,,,,,,,
+666,,,,,,,,,,,,,,
+667,,,,,,,,,,,,,,
+668,,,,,,,,,,,,,,
+669,,,,,,,,,,,,,,
+670,,,,,,,,,,,,,,
+671,,,,,,,,,,,,,,
+672,,,,,,,,,,,,,,
+673,,,,,,,,,,,,,,
+674,,,,,,,,,,,,,,
+675,,,,,,,,,,,,,,
+676,,,,,,,,,,,,,,
+677,,,,,,,,,,,,,,
+678,,,,,,,,,,,,,,
+679,,,,,,,,,,,,,,
+680,,,,,,,,,,,,,,
+681,,,,,,,,,,,,,,
+682,,,,,,,,,,,,,,
+683,,,,,,,,,,,,,,
+684,,,,,,,,,,,,,,
+685,,,,,,,,,,,,,,
+686,,,,,,,,,,,,,,
+687,,,,,,,,,,,,,,
+688,,,,,,,,,,,,,,
+689,,,,,,,,,,,,,,
+690,,,,,,,,,,,,,,
+691,,,,,,,,,,,,,,
+692,,,,,,,,,,,,,,
+693,,,,,,,,,,,,,,
+694,,,,,,,,,,,,,,
+695,,,,,,,,,,,,,,
+696,,,,,,,,,,,,,,
+697,,,,,,,,,,,,,,
+698,,,,,,,,,,,,,,
+699,,,,,,,,,,,,,,
+700,,,,,,,,,,,,,,
+701,,,,,,,,,,,,,,
+702,,,,,,,,,,,,,,
+703,,,,,,,,,,,,,,
+704,,,,,,,,,,,,,,
+705,,,,,,,,,,,,,,
+706,,,,,,,,,,,,,,
+707,,,,,,,,,,,,,,
+708,,,,,,,,,,,,,,
+709,,,,,,,,,,,,,,
+710,,,,,,,,,,,,,,
+711,,,,,,,,,,,,,,
+712,,,,,,,,,,,,,,
+713,,,,,,,,,,,,,,
+714,,,,,,,,,,,,,,
+715,,,,,,,,,,,,,,
+716,,,,,,,,,,,,,,
+717,,,,,,,,,,,,,,
+718,,,,,,,,,,,,,,
+719,,,,,,,,,,,,,,
+720,,,,,,,,,,,,,,
+721,,,,,,,,,,,,,,
+722,,,,,,,,,,,,,,
+723,,,,,,,,,,,,,,
+724,,,,,,,,,,,,,,
+725,,,,,,,,,,,,,,
+726,,,,,,,,,,,,,,
+727,,,,,,,,,,,,,,
+728,,,,,,,,,,,,,,
+729,,,,,,,,,,,,,,
+730,,,,,,,,,,,,,,
+731,,,,,,,,,,,,,,
+732,,,,,,,,,,,,,,
+733,,,,,,,,,,,,,,
+734,,,,,,,,,,,,,,
+735,,,,,,,,,,,,,,
+736,,,,,,,,,,,,,,
+737,,,,,,,,,,,,,,
+738,,,,,,,,,,,,,,
+739,,,,,,,,,,,,,,
+740,,,,,,,,,,,,,,
+741,,,,,,,,,,,,,,
+742,,,,,,,,,,,,,,
+743,,,,,,,,,,,,,,
+744,,,,,,,,,,,,,,
+745,,,,,,,,,,,,,,
+746,,,,,,,,,,,,,,
+747,,,,,,,,,,,,,,
+748,,,,,,,,,,,,,,
+749,,,,,,,,,,,,,,
+750,,,,,,,,,,,,,,
+751,,,,,,,,,,,,,,
+752,,,,,,,,,,,,,,
+753,,,,,,,,,,,,,,
+754,,,,,,,,,,,,,,
+755,,,,,,,,,,,,,,
+756,,,,,,,,,,,,,,
+757,,,,,,,,,,,,,,
+758,,,,,,,,,,,,,,
+759,,,,,,,,,,,,,,
+760,,,,,,,,,,,,,,
+761,,,,,,,,,,,,,,
+762,,,,,,,,,,,,,,
+763,,,,,,,,,,,,,,
+764,,,,,,,,,,,,,,
+765,,,,,,,,,,,,,,
+766,,,,,,,,,,,,,,
+767,,,,,,,,,,,,,,
+768,,,,,,,,,,,,,,
+769,,,,,,,,,,,,,,
+770,,,,,,,,,,,,,,
+771,,,,,,,,,,,,,,
+772,,,,,,,,,,,,,,
+773,,,,,,,,,,,,,,
+774,,,,,,,,,,,,,,
+775,,,,,,,,,,,,,,
+776,,,,,,,,,,,,,,
+777,,,,,,,,,,,,,,
+778,,,,,,,,,,,,,,
+779,,,,,,,,,,,,,,
+780,,,,,,,,,,,,,,
+781,,,,,,,,,,,,,,
+782,,,,,,,,,,,,,,
+783,,,,,,,,,,,,,,
+784,,,,,,,,,,,,,,
+785,,,,,,,,,,,,,,
+786,,,,,,,,,,,,,,
+787,,,,,,,,,,,,,,
