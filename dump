@@ -1,0 +1,503 @@
+<class 'chess.LegalMoveGenerator'>
+         472234 function calls (471913 primitive calls) in 4.814 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1017(_handle_fromlist)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:103(release)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:143(__init__)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:147(__enter__)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:151(__exit__)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:157(_get_module_lock)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:176(cb)
+     29/3    0.000    0.000    0.131    0.044 <frozen importlib._bootstrap>:211(_call_with_frames_removed)
+      310    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:222(_verbose_message)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:232(_requires_builtin_wrapper)
+       22    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:342(__init__)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:35(_new_module)
+       31    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:376(cached)
+       21    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:389(parent)
+       21    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:397(has_location)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:406(spec_from_loader)
+       21    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:477(_init_module_attrs)
+       21    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:549(module_from_spec)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:58(__init__)
+     21/3    0.000    0.000    0.132    0.044 <frozen importlib._bootstrap>:650(_load_unlocked)
+       22    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:725(find_spec)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:746(create_module)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:754(exec_module)
+        5    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:771(is_package)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:78(acquire)
+       17    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:800(find_spec)
+       56    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:863(__enter__)
+       56    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:867(__exit__)
+       22    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap>:890(_find_spec)
+     24/3    0.000    0.000    0.133    0.044 <frozen importlib._bootstrap>:956(_find_and_load_unlocked)
+     24/3    0.000    0.000    0.133    0.044 <frozen importlib._bootstrap>:986(_find_and_load)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1004(__init__)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1029(get_filename)
+       15    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1034(get_data)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1075(path_stats)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1153(__init__)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1164(create_module)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1172(exec_module)
+      292    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:121(_path_join)
+      292    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:123(<listcomp>)
+       30    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:127(_path_split)
+       60    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:129(<genexpr>)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1317(_path_hooks)
+       72    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1330(_path_importer_cache)
+       92    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:135(_path_stat)
+       17    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:1367(_get_spec)
+       17    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:1399(find_spec)
+       20    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:145(_path_is_mode_type)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1459(__init__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1465(<genexpr>)
+       16    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1493(_get_spec)
+       56    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1498(find_spec)
+       19    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:154(_path_isfile)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1549(_fill_cache)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:159(_path_isdir)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1590(path_hook_for_FileFinder)
+       17    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:175(_path_isabs)
+       30    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:354(cache_from_source)
+       16    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:484(_get_cached)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:516(_check_name_wrapper)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:553(_classify_pyc)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:586(_validate_timestamp_pyc)
+       15    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:638(_compile_bytecode)
+       56    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:68(_relax_case)
+       16    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:689(spec_from_file_location)
+       45    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:79(_unpack_uint32)
+       15    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:839(create_module)
+     15/3    0.000    0.000    0.132    0.044 <frozen importlib._bootstrap_external>:842(exec_module)
+       15    0.000    0.000    0.004    0.000 <frozen importlib._bootstrap_external>:914(get_code)
+        1    0.000    0.000    0.000    0.000 <frozen zipimport>:63(__init__)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 <string>:1(__create_fn__)
+       21    0.000    0.000    0.000    0.000 <string>:2(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 __future__.py:81(_Feature)
+       10    0.000    0.000    0.000    0.000 __future__.py:83(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:126(Termination)
+        1    0.000    0.000    0.000    0.000 __init__.py:1371(_BoardState)
+        1    0.000    0.000    0.000    0.000 __init__.py:1413(Board)
+        1    0.000    0.000    0.000    0.000 __init__.py:150(Outcome)
+        1    0.000    0.000    0.000    0.000 __init__.py:1523(__init__)
+        2    0.000    0.000    0.000    0.000 __init__.py:1539(legal_moves)
+        1    0.000    0.000    0.000    0.000 __init__.py:1574(reset)
+        1    0.000    0.000    0.000    0.000 __init__.py:1584(reset_board)
+        1    0.000    0.000    0.000    0.000 __init__.py:1615(clear_stack)
+       23    0.000    0.000    0.000    0.000 __init__.py:1650(generate_pseudo_legal_moves)
+        1    0.000    0.000    0.129    0.129 __init__.py:17(<module>)
+        1    0.000    0.000    0.000    0.000 __init__.py:1737(checkers_mask)
+        1    0.000    0.000    0.000    0.000 __init__.py:1749(is_check)
+        1    0.000    0.000    0.000    0.000 __init__.py:180(<listcomp>)
+        3    0.000    0.000    0.000    0.000 __init__.py:1832(is_variant_end)
+        1    0.000    0.000    0.000    0.000 __init__.py:1845(is_variant_loss)
+        1    0.000    0.000    0.000    0.000 __init__.py:1852(is_variant_win)
+        1    0.000    0.000    0.000    0.000 __init__.py:1859(is_variant_draw)
+        1    0.000    0.000    0.000    0.000 __init__.py:1872(outcome)
+        1    0.000    0.000    0.000    0.000 __init__.py:1924(is_checkmate)
+        1    0.000    0.000    0.000    0.000 __init__.py:1941(is_insufficient_material)
+        2    0.000    0.000    0.000    0.000 __init__.py:1946(<genexpr>)
+        1    0.000    0.000    0.000    0.000 __init__.py:1948(has_insufficient_material)
+        1    0.000    0.000    0.000    0.000 __init__.py:1983(_is_halfmoves)
+        1    0.000    0.000    0.000    0.000 __init__.py:1986(is_seventyfive_moves)
+   107812    0.011    0.000    0.011    0.000 __init__.py:199(square_file)
+        1    0.000    0.000    0.000    0.000 __init__.py:1995(is_fivefold_repetition)
+   107820    0.011    0.000    0.011    0.000 __init__.py:203(square_rank)
+    53810    0.051    0.000    0.087    0.000 __init__.py:207(square_distance)
+        1    0.000    0.000    0.000    0.000 __init__.py:2085(is_repetition)
+       64    0.000    0.000    0.000    0.000 __init__.py:213(square_mirror)
+        1    0.000    0.000    0.000    0.000 __init__.py:217(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:233(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:250(<listcomp>)
+        1    0.000    0.000    0.000    0.000 __init__.py:261(<listcomp>)
+        9    0.000    0.000    0.000    0.000 __init__.py:275(msb)
+       67    0.000    0.000    0.000    0.000 __init__.py:278(scan_reversed)
+       21    0.000    0.000    0.000    0.000 __init__.py:3099(is_en_passant)
+       10    0.000    0.000    0.001    0.000 __init__.py:313(namedtuple)
+        1    0.000    0.000    0.000    0.000 __init__.py:3155(clean_castling_rights)
+        2    0.000    0.000    0.000    0.000 __init__.py:3431(_slider_blockers)
+       21    0.000    0.000    0.000    0.000 __init__.py:3450(_is_safe)
+       23    0.000    0.000    0.000    0.000 __init__.py:3488(generate_legal_moves)
+        1    0.000    0.000    0.000    0.000 __init__.py:3524(generate_castling_moves)
+    10816    0.021    0.000    0.108    0.000 __init__.py:359(_sliding_attacks)
+        1    0.000    0.000    0.000    0.000 __init__.py:3691(PseudoLegalMoveGenerator)
+        1    0.000    0.000    0.000    0.000 __init__.py:3722(LegalMoveGenerator)
+        2    0.000    0.000    0.000    0.000 __init__.py:3724(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:3730(count)
+        1    0.000    0.000    0.000    0.000 __init__.py:3734(__iter__)
+        1    0.000    0.000    0.000    0.000 __init__.py:3747(SquareSet)
+      256    0.000    0.000    0.002    0.000 __init__.py:377(_step_attacks)
+        1    0.000    0.000    0.001    0.001 __init__.py:380(<listcomp>)
+        1    0.000    0.000    0.001    0.001 __init__.py:381(<listcomp>)
+        1    0.000    0.000    0.001    0.001 __init__.py:382(<listcomp>)
+       60    0.000    0.000    0.000    0.000 __init__.py:385(<genexpr>)
+      192    0.000    0.000    0.000    0.000 __init__.py:385(_edges)
+    10560    0.002    0.000    0.002    0.000 __init__.py:389(_carry_rippler)
+        3    0.004    0.001    0.113    0.038 __init__.py:398(_attack_table)
+        1    0.002    0.002    0.002    0.002 __init__.py:419(_rays)
+        4    0.000    0.000    0.000    0.000 __init__.py:440(between)
+        1    0.000    0.000    0.000    0.000 __init__.py:450(Piece)
+        1    0.000    0.000    0.000    0.000 __init__.py:498(Move)
+        1    0.000    0.000    0.000    0.000 __init__.py:540(__bool__)
+        1    0.000    0.000    0.000    0.000 __init__.py:591(BaseBoard)
+        1    0.000    0.000    0.000    0.000 __init__.py:601(__init__)
+        1    0.000    0.000    0.000    0.000 __init__.py:611(_reset_board)
+        1    0.000    0.000    0.000    0.000 __init__.py:625(reset_board)
+        1    0.000    0.000    0.000    0.000 __init__.py:629(_clear_board)
+        1    0.000    0.000    0.000    0.000 __init__.py:712(king)
+       10    0.000    0.000    0.000    0.000 __init__.py:723(attacks_mask)
+        3    0.000    0.000    0.000    0.000 __init__.py:753(_attackers_mask)
+        3    0.000    0.000    0.000    0.000 __init__.py:771(attackers_mask)
+        1    0.000    0.000    0.000    0.000 __init__.py:86(Status)
+        1    0.000    0.000    0.000    0.000 _bootlocale.py:33(getpreferredencoding)
+        1    0.000    0.000    0.000    0.000 abc.py:1(<module>)
+       35    0.000    0.000    0.000    0.000 abc.py:7(abstractmethod)
+        8    0.000    0.000    0.000    0.000 abc.py:84(__new__)
+        1    0.000    0.000    0.000    0.000 bisect.py:1(<module>)
+        1    0.000    0.000    4.814    4.814 chess_.py:1(<module>)
+        1    0.000    0.000    4.680    4.680 chess_.py:13(random_move)
+        1    0.000    0.000    4.681    4.681 chess_.py:26(build_data_file)
+        1    0.000    0.000    4.681    4.681 chess_.py:32(write_game)
+        1    0.000    0.000    0.000    0.000 chess_.py:5(Chess_Game)
+        1    0.000    0.000    0.000    0.000 chess_.py:6(__init__)
+        1    0.000    0.000    0.000    0.000 codecs.py:186(__init__)
+        1    0.000    0.000    0.000    0.000 codecs.py:214(setstate)
+        1    0.000    0.000    0.000    0.000 copy.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 copy.py:55(Error)
+        1    0.000    0.000    0.006    0.006 dataclasses.py:1(<module>)
+        3    0.000    0.000    0.001    0.000 dataclasses.py:1010(wrap)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:155(FrozenInstanceError)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:160(_HAS_DEFAULT_FACTORY_CLASS)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:167(_MISSING_TYPE)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:176(_FIELD_BASE)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:177(__init__)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:202(_InitVarMeta)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:206(InitVar)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:231(Field)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:244(__init__)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:289(_DataclassParams)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:298(__init__)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:320(field)
+        7    0.000    0.000    0.000    0.000 dataclasses.py:342(_tuple_str)
+        7    0.000    0.000    0.000    0.000 dataclasses.py:351(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:356(_recursive_repr)
+       10    0.000    0.000    0.001    0.000 dataclasses.py:375(_create_fn)
+       31    0.000    0.000    0.000    0.000 dataclasses.py:389(<genexpr>)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:402(_field_assign)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:414(_field_init)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:468(_init_param)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:487(_init_fn)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:505(<dictcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:530(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:537(_repr_fn)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:541(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:573(_cmp_fn)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:587(_hash_fn)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:595(_is_classvar)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:603(_is_initvar)
+       16    0.000    0.000    0.000    0.000 dataclasses.py:610(_is_type)
+        8    0.000    0.000    0.000    0.000 dataclasses.py:669(_get_field)
+        9    0.000    0.000    0.000    0.000 dataclasses.py:751(_set_new_attribute)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:765(_hash_set_none)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:768(_hash_add)
+        1    0.000    0.000    0.000    0.000 dataclasses.py:769(<listcomp>)
+        3    0.000    0.000    0.001    0.000 dataclasses.py:807(_process_class)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:861(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:922(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:938(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:941(<listcomp>)
+        3    0.000    0.000    0.000    0.000 dataclasses.py:947(<listcomp>)
+        3    0.000    0.000    0.001    0.000 dataclasses.py:996(dataclass)
+        1    0.000    0.000    0.001    0.001 dis.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 dis.py:209(Instruction)
+        1    0.000    0.000    0.000    0.000 dis.py:479(Bytecode)
+        2    0.000    0.000    0.000    0.000 enum.py:1009(<lambda>)
+        2    0.000    0.000    0.000    0.000 enum.py:1015(_power_of_two)
+       34    0.000    0.000    0.000    0.000 enum.py:12(_is_descriptor)
+        3    0.000    0.000    0.000    0.000 enum.py:143(__prepare__)
+        3    0.000    0.000    0.000    0.000 enum.py:157(__new__)
+        3    0.000    0.000    0.000    0.000 enum.py:175(<dictcomp>)
+        3    0.000    0.000    0.000    0.000 enum.py:200(<setcomp>)
+       47    0.000    0.000    0.000    0.000 enum.py:22(_is_dunder)
+        6    0.000    0.000    0.000    0.000 enum.py:223(<genexpr>)
+       14    0.000    0.000    0.000    0.000 enum.py:313(__call__)
+       47    0.000    0.000    0.000    0.000 enum.py:33(_is_sunder)
+        3    0.000    0.000    0.000    0.000 enum.py:370(__getattr__)
+       48    0.000    0.000    0.000    0.000 enum.py:417(__setattr__)
+        3    0.000    0.000    0.000    0.000 enum.py:522(_check_for_existing_members)
+        6    0.000    0.000    0.000    0.000 enum.py:532(_get_mixins_)
+        6    0.000    0.000    0.000    0.000 enum.py:543(_find_data_type)
+        3    0.000    0.000    0.000    0.000 enum.py:579(_find_new_)
+       14    0.000    0.000    0.000    0.000 enum.py:631(__new__)
+       10    0.000    0.000    0.000    0.000 enum.py:676(_generate_next_value_)
+        3    0.000    0.000    0.000    0.000 enum.py:68(__init__)
+       11    0.000    0.000    0.000    0.000 enum.py:748(name)
+       47    0.000    0.000    0.000    0.000 enum.py:75(__setitem__)
+        4    0.000    0.000    0.000    0.000 enum.py:753(value)
+        1    0.000    0.000    0.000    0.000 enum.py:889(_missing_)
+        1    0.000    0.000    0.000    0.000 enum.py:899(_create_pseudo_member_)
+        1    0.000    0.000    0.000    0.000 enum.py:932(__or__)
+        6    0.000    0.000    0.000    0.000 enum.py:938(__and__)
+        1    0.000    0.000    0.000    0.000 enum.py:957(_high_bit)
+        1    0.000    0.000    0.000    0.000 enum.py:978(_decompose)
+        1    0.000    0.000    0.000    0.000 enum.py:997(<listcomp>)
+       11    0.000    0.000    0.000    0.000 functools.py:34(update_wrapper)
+        4    0.000    0.000    0.000    0.000 functools.py:487(lru_cache)
+        4    0.000    0.000    0.000    0.000 functools.py:525(decorating_function)
+        7    0.000    0.000    0.000    0.000 functools.py:64(wraps)
+        1    0.000    0.000    0.004    0.004 inspect.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 inspect.py:2420(_void)
+        1    0.000    0.000    0.000    0.000 inspect.py:2424(_empty)
+        1    0.000    0.000    0.000    0.000 inspect.py:2428(_ParameterKind)
+        1    0.000    0.000    0.000    0.000 inspect.py:2457(Parameter)
+        1    0.000    0.000    0.000    0.000 inspect.py:2612(BoundArguments)
+        1    0.000    0.000    0.000    0.000 inspect.py:2742(Signature)
+        1    0.000    0.000    0.000    0.000 inspect.py:895(EndOfBlock)
+        1    0.000    0.000    0.000    0.000 inspect.py:897(BlockFinder)
+        1    0.000    0.000    0.002    0.002 linecache.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 opcode.py:2(<module>)
+        1    0.000    0.000    0.000    0.000 opcode.py:37(<listcomp>)
+      120    0.000    0.000    0.000    0.000 opcode.py:39(def_op)
+       12    0.000    0.000    0.000    0.000 opcode.py:43(name_op)
+        6    0.000    0.000    0.000    0.000 opcode.py:47(jrel_op)
+        5    0.000    0.000    0.000    0.000 opcode.py:51(jabs_op)
+        1    0.000    0.000    0.000    0.000 random.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 random.py:103(__init_subclass__)
+        1    0.000    0.000    0.000    0.000 random.py:123(seed)
+        1    0.000    0.000    0.000    0.000 random.py:200(randrange)
+        1    0.000    0.000    0.000    0.000 random.py:244(randint)
+        1    0.000    0.000    0.000    0.000 random.py:250(_randbelow_with_getrandbits)
+        1    0.000    0.000    0.000    0.000 random.py:709(SystemRandom)
+        1    0.000    0.000    0.000    0.000 random.py:78(Random)
+        1    0.000    0.000    0.000    0.000 random.py:94(__init__)
+        6    0.000    0.000    0.002    0.000 re.py:250(compile)
+       48    0.000    0.000    0.000    0.000 re.py:270(escape)
+        6    0.000    0.000    0.002    0.000 re.py:289(_compile)
+       25    0.000    0.000    0.000    0.000 sre_compile.py:249(_compile_charset)
+       25    0.000    0.000    0.000    0.000 sre_compile.py:276(_optimize_charset)
+        9    0.000    0.000    0.000    0.000 sre_compile.py:411(_mk_bitmap)
+        9    0.000    0.000    0.000    0.000 sre_compile.py:413(<listcomp>)
+       22    0.000    0.000    0.000    0.000 sre_compile.py:423(_simple)
+        1    0.000    0.000    0.000    0.000 sre_compile.py:432(_generate_overlap_table)
+        7    0.000    0.000    0.000    0.000 sre_compile.py:453(_get_iscased)
+        4    0.000    0.000    0.000    0.000 sre_compile.py:461(_get_literal_prefix)
+        3    0.000    0.000    0.000    0.000 sre_compile.py:492(_get_charset_prefix)
+        6    0.000    0.000    0.000    0.000 sre_compile.py:536(_compile_info)
+       12    0.000    0.000    0.000    0.000 sre_compile.py:595(isstring)
+        6    0.000    0.000    0.001    0.000 sre_compile.py:598(_code)
+       14    0.000    0.000    0.000    0.000 sre_compile.py:65(_combine_flags)
+     50/6    0.000    0.000    0.001    0.000 sre_compile.py:71(_compile)
+        6    0.000    0.000    0.002    0.000 sre_compile.py:759(compile)
+       54    0.000    0.000    0.000    0.000 sre_parse.py:111(__init__)
+      109    0.000    0.000    0.000    0.000 sre_parse.py:160(__len__)
+      293    0.000    0.000    0.000    0.000 sre_parse.py:164(__getitem__)
+       25    0.000    0.000    0.000    0.000 sre_parse.py:168(__setitem__)
+       69    0.000    0.000    0.000    0.000 sre_parse.py:172(append)
+    62/18    0.000    0.000    0.000    0.000 sre_parse.py:174(getwidth)
+        6    0.000    0.000    0.000    0.000 sre_parse.py:224(__init__)
+      505    0.000    0.000    0.000    0.000 sre_parse.py:233(__next)
+      186    0.000    0.000    0.000    0.000 sre_parse.py:249(match)
+      417    0.000    0.000    0.000    0.000 sre_parse.py:254(get)
+        4    0.000    0.000    0.000    0.000 sre_parse.py:267(getuntil)
+       85    0.000    0.000    0.000    0.000 sre_parse.py:286(tell)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:288(seek)
+       10    0.000    0.000    0.000    0.000 sre_parse.py:295(_class_escape)
+       10    0.000    0.000    0.000    0.000 sre_parse.py:355(_escape)
+       20    0.000    0.000    0.000    0.000 sre_parse.py:432(_uniq)
+     24/6    0.000    0.000    0.001    0.000 sre_parse.py:435(_parse_sub)
+     29/6    0.000    0.000    0.001    0.000 sre_parse.py:493(_parse)
+        6    0.000    0.000    0.000    0.000 sre_parse.py:76(__init__)
+       36    0.000    0.000    0.000    0.000 sre_parse.py:81(groups)
+       12    0.000    0.000    0.000    0.000 sre_parse.py:84(opengroup)
+        2    0.000    0.000    0.000    0.000 sre_parse.py:861(_parse_flags)
+        6    0.000    0.000    0.000    0.000 sre_parse.py:921(fix_flags)
+        6    0.000    0.000    0.001    0.000 sre_parse.py:937(parse)
+       12    0.000    0.000    0.000    0.000 sre_parse.py:96(closegroup)
+        1    0.000    0.000    0.001    0.001 string.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 string.py:161(Formatter)
+        1    0.000    0.000    0.000    0.000 string.py:57(_TemplateMetaclass)
+        1    0.000    0.000    0.001    0.001 string.py:67(__init__)
+        1    0.000    0.000    0.000    0.000 string.py:80(Template)
+        1    0.000    0.000    0.000    0.000 token.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 token.py:74(<dictcomp>)
+        1    0.000    0.000    0.001    0.001 tokenize.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 tokenize.py:157(TokenError)
+        1    0.000    0.000    0.000    0.000 tokenize.py:159(StopTokenizing)
+        1    0.000    0.000    0.000    0.000 tokenize.py:162(Untokenizer)
+        1    0.000    0.000    0.000    0.000 tokenize.py:45(TokenInfo)
+       19    0.000    0.000    0.000    0.000 tokenize.py:58(group)
+        1    0.000    0.000    0.000    0.000 tokenize.py:59(any)
+        2    0.000    0.000    0.000    0.000 tokenize.py:60(maybe)
+        3    0.000    0.000    0.000    0.000 tokenize.py:83(_all_string_prefixes)
+       24    0.000    0.000    0.000    0.000 tokenize.py:94(<listcomp>)
+       15    0.000    0.000    0.000    0.000 types.py:171(__get__)
+        1    0.000    0.000    0.002    0.002 typing.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 typing.py:1006(_ProtocolMeta)
+        1    0.000    0.000    0.000    0.000 typing.py:1026(Protocol)
+        7    0.000    0.000    0.000    0.000 typing.py:1060(__init_subclass__)
+       14    0.000    0.000    0.000    0.000 typing.py:1065(<genexpr>)
+        7    0.000    0.000    0.000    0.000 typing.py:1124(runtime_checkable)
+       19    0.000    0.000    0.000    0.000 typing.py:120(_type_check)
+       38    0.000    0.000    0.000    0.000 typing.py:1435(_alias)
+        1    0.000    0.000    0.000    0.000 typing.py:1521(SupportsInt)
+        1    0.000    0.000    0.000    0.000 typing.py:1531(SupportsFloat)
+        1    0.000    0.000    0.000    0.000 typing.py:1541(SupportsComplex)
+        1    0.000    0.000    0.000    0.000 typing.py:1551(SupportsBytes)
+        1    0.000    0.000    0.000    0.000 typing.py:1561(SupportsIndex)
+        1    0.000    0.000    0.000    0.000 typing.py:1571(SupportsAbs)
+        1    0.000    0.000    0.000    0.000 typing.py:1581(SupportsRound)
+        1    0.000    0.000    0.000    0.000 typing.py:1613(NamedTupleMeta)
+        1    0.000    0.000    0.000    0.000 typing.py:1615(__new__)
+        1    0.000    0.000    0.000    0.000 typing.py:1644(NamedTuple)
+       57    0.000    0.000    0.000    0.000 typing.py:172(_collect_type_vars)
+        1    0.000    0.000    0.000    0.000 typing.py:1734(_TypedDictMeta)
+        1    0.000    0.000    0.000    0.000 typing.py:1735(__new__)
+        1    0.000    0.000    0.000    0.000 typing.py:1749(<dictcomp>)
+        1    0.000    0.000    0.000    0.000 typing.py:1760(TypedDict)
+        7    0.000    0.000    0.000    0.000 typing.py:183(<listcomp>)
+        1    0.000    0.000    0.000    0.000 typing.py:1838(IO)
+        2    0.000    0.000    0.000    0.000 typing.py:187(_subs_tvars)
+        1    0.000    0.000    0.000    0.000 typing.py:1937(BinaryIO)
+        1    0.000    0.000    0.000    0.000 typing.py:1951(TextIO)
+        1    0.000    0.000    0.000    0.000 typing.py:1986(io)
+        1    0.000    0.000    0.000    0.000 typing.py:2001(re)
+        4    0.000    0.000    0.000    0.000 typing.py:206(_check_generic)
+        3    0.000    0.000    0.000    0.000 typing.py:219(_remove_dups_flatten)
+        4    0.000    0.000    0.000    0.000 typing.py:248(_tp_cache)
+    14/13    0.000    0.000    0.000    0.000 typing.py:255(inner)
+        1    0.000    0.000    0.000    0.000 typing.py:281(_Final)
+        5    0.000    0.000    0.000    0.000 typing.py:286(__init_subclass__)
+        1    0.000    0.000    0.000    0.000 typing.py:290(_Immutable)
+        1    0.000    0.000    0.000    0.000 typing.py:300(_SpecialForm)
+        7    0.000    0.000    0.000    0.000 typing.py:307(__new__)
+        7    0.000    0.000    0.000    0.000 typing.py:320(__init__)
+        2    0.000    0.000    0.000    0.000 typing.py:324(__eq__)
+        5    0.000    0.000    0.000    0.000 typing.py:329(__hash__)
+      5/4    0.000    0.000    0.000    0.000 typing.py:347(__getitem__)
+        9    0.000    0.000    0.000    0.000 typing.py:358(<genexpr>)
+        1    0.000    0.000    0.000    0.000 typing.py:489(ForwardRef)
+        2    0.000    0.000    0.000    0.000 typing.py:496(__init__)
+        1    0.000    0.000    0.000    0.000 typing.py:539(TypeVar)
+       11    0.000    0.000    0.000    0.000 typing.py:586(__init__)
+       13    0.000    0.000    0.000    0.000 typing.py:598(<genexpr>)
+      369    0.000    0.000    0.000    0.000 typing.py:646(_is_dunder)
+        1    0.000    0.000    0.000    0.000 typing.py:650(_GenericAlias)
+       51    0.000    0.000    0.001    0.000 typing.py:659(__init__)
+      114    0.000    0.000    0.000    0.000 typing.py:669(<genexpr>)
+        2    0.000    0.000    0.000    0.000 typing.py:677(__getitem__)
+        4    0.000    0.000    0.000    0.000 typing.py:685(<genexpr>)
+        2    0.000    0.000    0.000    0.000 typing.py:689(copy_with)
+       10    0.000    0.000    0.000    0.000 typing.py:711(__eq__)
+        5    0.000    0.000    0.000    0.000 typing.py:720(__hash__)
+        6    0.000    0.000    0.000    0.000 typing.py:736(__mro_entries__)
+      369    0.001    0.000    0.001    0.000 typing.py:762(__setattr__)
+        1    0.000    0.000    0.000    0.000 typing.py:798(_VariadicGenericAlias)
+        1    0.000    0.000    0.000    0.000 typing.py:845(Generic)
+        5    0.000    0.000    0.000    0.000 typing.py:878(__class_getitem__)
+       10    0.000    0.000    0.000    0.000 typing.py:886(<genexpr>)
+        6    0.000    0.000    0.000    0.000 typing.py:889(<genexpr>)
+       12    0.000    0.000    0.000    0.000 typing.py:900(__init_subclass__)
+        1    0.000    0.000    0.000    0.000 typing.py:936(_TypingEmpty)
+        1    0.000    0.000    0.000    0.000 typing.py:943(_TypingEllipsis)
+       54    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x908780}
+        8    0.000    0.000    0.000    0.000 {built-in method _abc._abc_init}
+       15    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+      104    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        5    0.000    0.000    0.000    0.000 {built-in method _imp.create_builtin}
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.create_dynamic}
+        5    0.000    0.000    0.000    0.000 {built-in method _imp.exec_builtin}
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.exec_dynamic}
+       21    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+       17    0.000    0.000    0.000    0.000 {built-in method _imp.is_frozen}
+      104    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        1    0.000    0.000    0.000    0.000 {built-in method _locale.nl_langinfo}
+        4    0.000    0.000    0.000    0.000 {built-in method _sre.ascii_iscased}
+        4    0.000    0.000    0.000    0.000 {built-in method _sre.ascii_tolower}
+        6    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+        5    0.000    0.000    0.000    0.000 {built-in method _sre.unicode_iscased}
+       48    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+       48    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+       69    0.001    0.000    0.003    0.000 {built-in method builtins.__build_class__}
+      2/1    0.000    0.000    0.000    0.000 {built-in method builtins.__import__}
+   107620    0.007    0.000    0.007    0.000 {built-in method builtins.abs}
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.all}
+       14    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.callable}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.compile}
+     36/1    0.001    0.000    4.814    4.814 {built-in method builtins.exec}
+      263    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.globals}
+      251    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.hash}
+        1    4.680    4.680    4.680    4.680 {built-in method builtins.input}
+     1355    0.000    0.000    0.000    0.000 {built-in method builtins.isinstance}
+       37    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+  782/726    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+    53848    0.008    0.000    0.008    0.000 {built-in method builtins.max}
+      112    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+       85    0.000    0.000    0.000    0.000 {built-in method builtins.ord}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.repr}
+      105    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+       45    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+       20    0.000    0.000    0.000    0.000 {built-in method fromkeys}
+       15    0.001    0.000    0.001    0.000 {built-in method io.open_code}
+        1    0.000    0.000    0.000    0.000 {built-in method io.open}
+       15    0.002    0.000    0.002    0.000 {built-in method marshal.loads}
+        1    0.000    0.000    0.000    0.000 {built-in method math.exp}
+        2    0.000    0.000    0.000    0.000 {built-in method math.log}
+        1    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
+       46    0.000    0.000    0.000    0.000 {built-in method posix.fspath}
+       16    0.000    0.000    0.000    0.000 {built-in method posix.getcwd}
+        1    0.000    0.000    0.000    0.000 {built-in method posix.listdir}
+        1    0.000    0.000    0.000    0.000 {built-in method posix.register_at_fork}
+       92    0.000    0.000    0.000    0.000 {built-in method posix.stat}
+       21    0.000    0.000    0.000    0.000 {built-in method sys._getframe}
+       60    0.000    0.000    0.000    0.000 {built-in method sys.intern}
+        1    0.000    0.000    0.000    0.000 {function Random.seed at 0x7f7945d674c0}
+       60    0.000    0.000    0.000    0.000 {method '__contains__' of 'frozenset' objects}
+       12    0.000    0.000    0.000    0.000 {method '__init_subclass__' of 'object' objects}
+      222    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+     5409    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+       52    0.000    0.000    0.000    0.000 {method 'bit_length' of 'int' objects}
+        2    0.000    0.000    0.000    0.000 {method 'clear' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+      233    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+       25    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+       95    0.000    0.000    0.000    0.000 {method 'find' of 'bytearray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+      190    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       62    0.000    0.000    0.000    0.000 {method 'get' of 'mappingproxy' objects}
+        1    0.000    0.000    0.000    0.000 {method 'getrandbits' of '_random.Random' objects}
+       32    0.000    0.000    0.000    0.000 {method 'group' of 're.Match' objects}
+        2    0.000    0.000    0.000    0.000 {method 'index' of 'tuple' objects}
+       64    0.000    0.000    0.000    0.000 {method 'isidentifier' of 'str' objects}
+       46    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+       17    0.000    0.000    0.000    0.000 {method 'items' of 'mappingproxy' objects}
+      463    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+       10    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+       16    0.000    0.000    0.000    0.000 {method 'match' of 're.Pattern' objects}
+        3    0.000    0.000    0.000    0.000 {method 'mro' of 'type' objects}
+       27    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+       15    0.000    0.000    0.000    0.000 {method 'read' of '_io.BufferedReader' objects}
+       19    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+       30    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+      131    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+      614    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+        4    0.000    0.000    0.000    0.000 {method 'setdefault' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+        9    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+      503    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 {method 'translate' of 'bytearray' objects}
+       48    0.000    0.000    0.000    0.000 {method 'translate' of 'str' objects}
+       15    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+       36    0.000    0.000    0.000    0.000 {method 'upper' of 'str' objects}
+        7    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+
+
